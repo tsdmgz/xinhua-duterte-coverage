@@ -1,0 +1,41 @@
+%include file
+%holds everything
+\documentclass[12pt]{report}
+\input{header.tex}
+
+\usepackage[colorlinks=true,urlcolor=blue,citecolor=black,linkcolor=black]{hyperref}
+\hypersetup{
+	unicode=true,
+	pdfauthor={Dominguez, Terzeus S.},
+	pdftitle={},
+	breaklinks=true
+	}
+\urlstyle{same}
+
+\usepackage{minted}
+\setminted{
+	breaklines
+}
+\setmintedinline{
+	breaklines
+}
+
+\begin{document}
+	\input{abstract.tex}
+
+	\setlength{\parindent}{1cm}
+	\setlength{\parskip}{1.5em}
+
+	%\input{background.tex}
+	%% contains background and statement
+	%\input{rrl.tex}
+	%\input{methodology.tex}
+	%% \input{tprop-data-analysis.tex}
+	%\input{appendix.tex}
+
+	\singlespacing\setlength{\parindent}{0pt}
+	\printbibliography
+\end{document}
+
+
+% vim: tw=72 smartindent breakindent syntax=tex
