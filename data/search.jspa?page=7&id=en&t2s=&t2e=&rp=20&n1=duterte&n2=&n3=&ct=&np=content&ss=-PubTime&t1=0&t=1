@@ -1,0 +1,504 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Xinhuanet Search</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/buju_xinhuanet.css" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/neirong_xinhuanet.css" />
+	<script>
+		function setbtn(){
+			var btn = document.getElementById("btn");
+			btn.value = "1";
+		}
+	</script>
+</head>
+<body style="font-family:Times New Roman">
+<div id="header">
+	<div id="left">
+		<div id="logo1" align="center"><img src="/language/images/logo.gif" /></div>
+	</div>
+	<div id="right">
+		<div id="topmenu">
+			<div id="menu1"><a href="search.jspa?id=en&t=1&n1=duterte&np=content&t1=0">News</a></div>
+  			<div id="menu2"><a href="picSearch.jspa?id=en&t=1&n1=duterte&np=content&t1=0">Photos</a></div>
+  			<div id="menu3"><a href="http://www.chinaview.cn" target=_blank>Xinhuanet Homepage</a> </div>
+		</div>
+		<div id="topsearch" align="left">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	<div id="newsmenu" align="right">
+	   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tr>
+		    <td height="26" align="left" class="style1">
+		    			<a href="search.jspa?ss=RELEVANCE&t=1&t1=0&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Sort by Relevance</a>
+		    		|
+		    			<span class="style5">
+							Sort by Date
+						</span>
+		    </td>
+		    <td height="26" align="center" class="style1">
+		    		<a href="search.jspa?t1=1&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one hour</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=24&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one day</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=168&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one week</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=720&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one month</a>
+			</td>
+		    <td height="26" align="right" class="style1">
+				401&nbsp;results found ,4.552&nbsp;seconds
+			</td>
+		  </tr>
+		</table>
+	</div>
+</div>
+
+
+
+<div id="lefter">
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/05/c_135664254.htm" target="_blank">2nd LD: Philippines declares state of national emergency</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-05 20:44</span><br />
+					 Philippines declares state of national emergency
+MANILA, Sept. 5 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> proclaimed on Monday a state of national emergency for the Philippines on account of lawless violence, a Malacanang presidential palace said in a statement....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/05/c_135664254.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/05/c_135664183.htm" target="_blank">Philippines declares state of national emergency</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-05 20:18</span><br />
+					 Sept. 5 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> proclaimed on Monday the Philippines under a state of national emergency on account of lawless violence, a Malacanang presidential palace said in a statement....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/05/c_135664183.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/05/c_135664162.htm" target="_blank">Philippine President declares state of national emergency</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-05 20:08</span><br />
+					 Sept. 5 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> places the Philippines under a state of national emergency of account of lawless violence, the Malacanang presidential palace said in a statement on Monday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/05/c_135664162.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/05/c_135663941.htm" target="_blank">Philippine president leaves for ASEAN summit, seeking int'l ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-05 17:37</span><br />
+					 seeking int'l cooperation to counter terrorism
+MANILA, Sept. 5 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> left here on Monday for Laos, where he will seek better efforts to address terrorism and extreme violence at the Association of Southeast Asian Nations (ASEAN) summit....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/05/c_135663941.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/05/c_135663017.htm" target="_blank">Cambodian PM strongly condemns terrorist attack in Philippin...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-05 13:01</span><br />
+					... the Philippines, in the late
+evening of 2 September 2016 has killed at least 14 and injured over
+60 others," he said in a condolence message sent to Philippine
+President Rodrigo <font color=red>Duterte</font> on Sunday and released to the media on
+Monday.
+
+Hun Sen wrote that Cambodia "vehemently condemns this act of
+heinous crime."
+
+"On behalf of the Royal Government of Cambodia,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/05/c_135663017.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/05/c_135662181.htm" target="_blank">Philippines' Davao City Mayor says police detain man seen at...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-05 09:30</span><br />
+					... Sara
+Duterte, mayor of Davao City Mayor of Philippines, said on
+Monday.
+
+"He was there in (the night market along) Roxas (Avenue). The
+witnesses identified him, and he was taken up for questioning,"
+said <font color=red>Duterte</font>, daughter of President Rodrigo <font color=red>Duterte</font>, in an
+interview with ABSCBN News Channel. She did not identify the
+person in police custody....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/05/c_135662181.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/04/c_135660802.htm" target="_blank">Xinhua world news summary at 1530 GMT, Sept. 4</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-04 23:49</span><br />
+					... which
+took place in this eastern Chinese city on the sidelines of the
+11th Group of 20 (G20) summit. (ChinaUSBritain Summit)
+
+   
+
+BEIJING  Chinese President Xi Jinping on Sunday sent a message
+of condolences to Philippine President Rodrigo <font color=red>Duterte</font> over a
+terrorist bombing in Southern Philippines' Davao City, reiterating
+China's opposition to "terrorism in all forms."
+
+In the message, Xi said he was shocked by the terrorist attack
+in Davao City,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/04/c_135660802.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/04/c_135660508.htm" target="_blank">Chinese president extends condolences over terrorist bombing...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-04 21:03</span><br />
+					 Sept. 4 (Xinhua)  Chinese President Xi Jinping on Sunday sent a message of condolences to Philippine President Rodrigo <font color=red>Duterte</font> over a terrorist bombing in Southern Philippines' Davao City, reiterating China's opposition to "terrorism in all forms."
+In the message, Xi said he was shocked by the terrorist attack in Davao City,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/04/c_135660508.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/04/c_135660472.htm" target="_blank">Executive secretary as caretaker head of Philippines while p...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-04 20:48</span><br />
+					 Duterte
+MANILA, Sept. 4 (Xinhua)  Philippine President <font color=red>Duterte</font> tapped Executive Secretary Salvador Medialdea as head of a caretaker committee that would oversee the daytoday operations of government while he takes a weeklong visit to Laos and Indonesia on Monday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/04/c_135660472.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/04/c_135660446.htm" target="_blank">More than 2,800 killed in drug operations in Philippines</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-04 20:13</span><br />
+					... Sept. 4 (Xinhua)  More than 2,800 people have been
+killed under the Philippine police's "Double Barrel" program, a
+campaign against illegal drugs, police said on Sunday.
+
+From July 1, a day after President Rodrigo <font color=red>Duterte</font> assumed
+office, to Sept. 4, a total of 1,011 drug suspects have been killed
+during the police operations, said police spokesperson Senior
+Superintendent Dionardo Carlos.
+
+Meanwhile, 1,805 slain individuals' cases were under
+investigation,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/04/c_135660446.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/04/c_135660184.htm" target="_blank">Philippine gov't looking at other groups as responsible for ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-04 17:48</span><br />
+					...
+
+"And we cannot deny it that these drug lords are also well
+funded, and they have their own nefarious interest to protect. So,
+it's part of the menu of suspects that we have," he said in an
+interview with a staterun radio.
+
+President Rodrigo <font color=red>Duterte</font> has declared a war against illegal
+drugs in which more than 2,000 suspected drug pushers and users
+have been killed.
+
+The terrorist Abu Sayyaf Group had initially reportedly claimed
+responsibility over the bombing in a night market in Davao,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/04/c_135660184.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/03/c_135658090.htm" target="_blank">China reiterates opposition to terrorism after Philippine at...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-03 23:24</span><br />
+					... and reiterated its opposition to "terrorism in all forms."
+Foreign Ministry spokesperson Hua Chunying made the remarks after an explosion killed at least 14 people and wounded almost 70 others in the hometown of Philippine President Rodrigo <font color=red>Duterte</font> on Friday night.
+Saying the Chinese side was shocked by the attack, Hua expressed deep condolences and sympathy to the victims and their families.
+She said China believed that the Philippine government, under the leadership of <font color=red>Duterte</font> ...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/03/c_135658090.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/03/c_135656934.htm" target="_blank">Duterte cancels trip to Brunei, but will attend ASEAN summit...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-03 14:02</span><br />
+					 but will attend ASEAN summit in Laos
+MANILA, Sept. 3 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> has decided to cancel his trip to Brunei to focus on the security situation in Davao City where a powerful explosion killed 14 people and wounded almost 70 others on Friday night,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/03/c_135656934.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/03/c_135656737.htm" target="_blank">Duterte cancels trip to Brunei, but will attend ASEAN summit...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-03 11:41</span><br />
+					 but will attend ASEAN summit in Laos
+MANILA, Sept. 3 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> has decided to cancel his trip to Brunei to focus on the security situation in Davao City where a powerful explosion killed 14 people and wounded almost 70 others on Friday night,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/03/c_135656737.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/03/c_135656624.htm" target="_blank">Duterte declares "state of lawlessness" in S. Philippines af...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-03 11:06</span><br />
+					state of lawlessness" in S. Philippines after explosion
+MANILA, Sept. 3 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> declared Saturday "state of lawlessness" in southern island of Mindanao following a deadly attack allegedly perpetrated by the Abu Sayyaf Group in Davao City.
+In an interview with reporters,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/03/c_135656624.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/03/c_135656437.htm" target="_blank">Xinhua world news summary at 0130 GMT, Sept. 3</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-03 10:06</span><br />
+					... and
+three village guards and a civilian were injured. (TurkeyPKK)
+
+   
+
+DAVAO CITY  At least 10 people have been confirmed dead and
+scores others wounded in an explosion in the hometown of Philippine
+President Rodrigo <font color=red>Duterte</font> on Friday night, officials said on
+Saturday, amid fears the toll could further rise.
+
+Aside from the fatalities, some 60 others were rushed to
+different hospitals following the blast in downtown Davao City,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/03/c_135656437.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/03/c_135655757.htm" target="_blank">Duterte to push through with ASEAN trip: official</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-03 03:44</span><br />
+					 official
+MANILA, Sept. 3 (Xinhua)  Presidential Communications Secretary Martin Andanar told ABSCBN News Channel television interview Saturday morning that President Rodrigo <font color=red>Duterte</font> will push through with his trip to Brunei, Indonesia and Laos where he will attend the Asean summit.
+Andanar said that the decision was made after an "emergency meeting" with some Cabinet members,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/03/c_135655757.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/03/c_135655606.htm" target="_blank">10 killed, 60 wounded in blast in Philippine president home ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-03 01:03</span><br />
+					 60 wounded in blast in Philippine president home city
+DAVAO CITY, Philippines, Sept. 3 (Xinhua)  At least 10 people have been confirmed dead and scores others wounded in an explosion in the hometown of Philippine President Rodrigo <font color=red>Duterte</font> on Friday night, officials said on Saturday, amid fears the toll could further rise.
+Aside from the fatalities, some 60 others were rushed to different hospitals following the blast in downtown Davao City,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/03/c_135655606.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/02/c_135655406.htm" target="_blank">Philippine president to explain war on illegal drugs to ASEA...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-02 20:42</span><br />
+					 Sept. 2 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> is set to explain his government's war on illegal drugs before the Association of Southeast Asian Nations (ASEAN) and other partner countries at the Laos Summit, a senior government official said Friday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/02/c_135655406.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/02/c_135655187.htm" target="_blank">Philippine president to visit Brunei to advance ties</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-02 18:57</span><br />
+					 Sept. 2(Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> is expected to travel to Brunei on Sunday as part of his introductory visit since being elected last June....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/02/c_135655187.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+	
+	<div id="middle-c" class="style5" align="left">
+			<u><a href="search.jspa?page=6&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1"><< </a></u>
+		
+		
+				<a href="search.jspa?page=2&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[2]</a>
+				<a href="search.jspa?page=3&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[3]</a>
+				<a href="search.jspa?page=4&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[4]</a>
+				<a href="search.jspa?page=5&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[5]</a>
+				<a href="search.jspa?page=6&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[6]</a>
+				7
+				<a href="search.jspa?page=8&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[8]</a>
+				<a href="search.jspa?page=9&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[9]</a>
+				<a href="search.jspa?page=10&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[10]</a>
+				<a href="search.jspa?page=11&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[11]</a>
+		
+			<u><a href="search.jspa?page=8&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">>> </a></u>
+	</div>
+	
+	<div id="middle-c" align="center">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+	</div>
+</div>
+
+
+<div id="righter">
+<br>
+<iframe src="pic.jspa?id=en&n1=duterte" height="1300" width="260" scrolling="no" name="mainFrame" frameborder="0"></iframe>
+</div>
+
+
+	<div class="clear"></div>
+	<div id="bottom1" class="style2a" style="text-align:center">
+		Copyright &copy; 2000 - 2008 <font color="red">XINHUANET</font>.com　All Rights Reserved. 　Powered by Xinhuanet<br>
+		<a href="http://www.xinhuanet.com/copyright.htm"  target="_blank"><font color="blue">All rights reserved</font></a> <a href="http://www.xinhuanet.com" target="_blank">Xinhuanet</a>
+	</div>
+<div style="display:none"><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010069120000000000000000012200000000000000")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010069120000000000000000012200000000000000" border="0" /></noscript></div>
+</body>
+</html>
+
+

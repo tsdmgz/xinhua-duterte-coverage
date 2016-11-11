@@ -1,0 +1,481 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Xinhuanet Search</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/buju_xinhuanet.css" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/neirong_xinhuanet.css" />
+	<script>
+		function setbtn(){
+			var btn = document.getElementById("btn");
+			btn.value = "1";
+		}
+	</script>
+</head>
+<body style="font-family:Times New Roman">
+<div id="header">
+	<div id="left">
+		<div id="logo1" align="center"><img src="/language/images/logo.gif" /></div>
+	</div>
+	<div id="right">
+		<div id="topmenu">
+			<div id="menu1"><a href="search.jspa?id=en&t=1&n1=duterte&np=content&t1=0">News</a></div>
+  			<div id="menu2"><a href="picSearch.jspa?id=en&t=1&n1=duterte&np=content&t1=0">Photos</a></div>
+  			<div id="menu3"><a href="http://www.chinaview.cn" target=_blank>Xinhuanet Homepage</a> </div>
+		</div>
+		<div id="topsearch" align="left">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	<div id="newsmenu" align="right">
+	   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tr>
+		    <td height="26" align="left" class="style1">
+		    			<a href="search.jspa?ss=RELEVANCE&t=1&t1=0&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Sort by Relevance</a>
+		    		|
+		    			<span class="style5">
+							Sort by Date
+						</span>
+		    </td>
+		    <td height="26" align="center" class="style1">
+		    		<a href="search.jspa?t1=1&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one hour</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=24&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one day</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=168&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one week</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=720&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one month</a>
+			</td>
+		    <td height="26" align="right" class="style1">
+				401&nbsp;results found ,9.488&nbsp;seconds
+			</td>
+		  </tr>
+		</table>
+	</div>
+</div>
+
+
+
+<div id="lefter">
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-11/08/c_135814934.htm" target="_blank">Philippine president dismayed over slow aid for Haiyan victi...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-11-08 23:11</span><br />
+					 Nov. 8 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> expressed Tuesday disappointment over the delay in the provision of shelters to the thousands of families displaced by typhoon Haiyan, locally named Yolanda, that devastated the country three years ago.
+"I am not satisfied,"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-11/08/c_135814934.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-11/08/c_135814338.htm" target="_blank">Philippine Supreme Court allows Marcos burial at heroes' cem...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-11-08 16:02</span><br />
+					..." Te said.
+The Marcoses hailed the ruling. Former Senator Ferdinand Marcos Jr. thanked President Rodrigo <font color=red>Duterte</font>, a close friend and ally of the Marcoses.
+"Our family will forever be thankful for his kind gesture," he said.
+"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-11/08/c_135814338.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-11/07/c_135812242.htm" target="_blank">China urges U.S. to respect Philippines' independent foreign...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-11-07 22:05</span><br />
+					... right to an independent foreign
+policy.
+
+U.S. Assistant Secretary for East Asian and Pacific Affairs
+Daniel Russel told a news briefing in Washington last Thursday that
+he saw no evidence that President Rodrigo <font color=red>Duterte</font> is backing away
+from the legal decision rendered by the tribunal on South China
+Sea, nor would he expect any Philippine leader to find it in their
+own best interests to do so....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-11/07/c_135812242.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-11/07/c_135812105.htm" target="_blank">Philippine president says to ratify Paris climate change agr...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-11-07 20:47</span><br />
+					 Nov. 7 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> said Monday that he would ratify the climate change deal reached in Paris in 2015.
+Duterte changed his mind after almost all of his Cabinet officials agreed to honor the Paris Agreement.
+"By the way, after so much debate,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-11/07/c_135812105.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-11/07/c_135811960.htm" target="_blank">Philippine president orders police to cancel firearms deal w...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-11-07 18:52</span><br />
+					...
+
+He made the remarks at the Malacanang presidential palace during
+the signing ceremony of an executive order creating an expanded
+body that will draft a revised law to create a new Bangsamoro
+region.
+
+Last week, <font color=red>Duterte</font> lashed the United States for threatening to
+stop the sale of the rifles to the Philippine police due to what
+the U.S. called human rights concerns.
+
+The Philippine president said his country "...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-11/07/c_135811960.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-11/07/c_135811739.htm" target="_blank">Philippine president to visit Malaysia to strengthen ties</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-11-07 16:01</span><br />
+					 Nov. 7 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> will visit Malaysia starting Wednesday to strengthen bilateral ties, a government spokesman announced on Monday.
+Duterte'...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-11/07/c_135811739.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-11/06/c_135809545.htm" target="_blank">Philippine gov't likens Pacquiao's victory on fight against ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-11-06 15:42</span><br />
+					...Xinhua)  The Philippine government congratulated Sunday Filipino boxing icon Senator Emmanuel "Manny" Pacquiao for defeating Jessie Vargas in a bout in Las Vegas as it likened the lawmaker's determination on the administration of President Rodrigo <font color=red>Duterte</font>'s seriousness to eliminate illegal drugs.
+"Once again, Manny's triumph united and brought joy to our people and our nation," Presidential Communications Office Secretary Martin Andanar said in a statement.
+He said the discipline,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-11/06/c_135809545.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-11/04/c_135804281.htm" target="_blank">Kerry says confident about U.S.-Philippines ties despite dif...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-11-04 05:35</span><br />
+					...S.Philippines ties despite differences
+WASHINGTON, Nov. 3 (Xinhua)  U.S. Secretary of State John Kerry on Thursday expressed confidence about the future of the U.S.Philippines relationship, which has soured following Philippine President Rodrigo <font color=red>Duterte</font>'s tirades against the U.S.
+"I am confident about the future of our bilateral relationship, notwithstanding a difference here or there about one thing or another," Kerry said at the State Department as he swore in Sung Kim as the new U.S....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-11/04/c_135804281.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-11/03/c_135803551.htm" target="_blank">Philippines' <font color=red>Duterte</font> meets with Muslim rebel leader</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-11-03 18:27</span><br />
+					 <font color=red>Duterte</font> meets with Muslim rebel leader
+MANILA, Nov. 3 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> said on Thursday that a leader of a separatist Muslim group has agreed to talk peace with the government again....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-11/03/c_135803551.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-11/03/c_135802848.htm" target="_blank">Feature: Unknown painter of <font color=red>Duterte</font>'s official portrait slow...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-11-03 12:28</span><br />
+					 Unknown painter of <font color=red>Duterte</font>'s official portrait slowly gaining recognition
+MANILA, Nov. 3 (Xinhua)  An unknown, selftaught artist who painted a portrait of Philippine President Rodrigo <font color=red>Duterte</font>'is slowly getting noticed in the media and in the art world....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-11/03/c_135802848.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-11/02/c_135801258.htm" target="_blank">Duterte curses U.S. anew despite vow to stop swearing</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-11-02 22:00</span><br />
+					S. anew despite vow to stop swearing
+MANILA, Nov. 2 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> on Wednesday spat out curse words at the United States and even called the Americans "monkeys" as he reacted to news reports that the U.S. State Department is halting the planned sale of some 26,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-11/02/c_135801258.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/31/c_135794928.htm" target="_blank">China's jurisdiction over Huangyan Island unchanged: FM</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-31 21:54</span><br />
+					...
+Foreign Ministry spokesperson Hua Chunying told a regular news briefing that "the jurisdiction status will not change."
+The ChinaPhilippines relations have improved since President Rodrigo <font color=red>Duterte</font>'s visit earlier this month, Hua said.
+"China has taken into account the situation and made some arrangements on issues of <font color=red>Duterte</font>'s interest for the good of the two countries' friendship," Hua added....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/31/c_135794928.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/30/c_135791961.htm" target="_blank">2 militants killed, 8 soldiers wounded in clashes with Islam...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-30 21:02</span><br />
+					... he said.
+In the Indanan clash where two militants were killed, Tan said the military recovered an M16 assault rifle, an M203 grenade launcher and an improvised explosive device.
+Philippine President Rodrigo <font color=red>Duterte</font> has ordered a military offensive to crush the Abu Sayyaf rebels, saying he has no plan to talk peace with the criminal group engaged in kidnap for ransom, executions, extortions and bombings in the southern Philippines....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/30/c_135791961.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/30/c_135791424.htm" target="_blank">Commentary: Washington's anxieties in Asia-Pacific region</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-30 13:19</span><br />
+					 Washington's anxieties in AsiaPacific region
+by Xinhua writer Liu Chang
+BEIJING, Oct. 30 (Xinhua)  In recent days, Washington seems to be agonizing over the colorful rhetoric of Philippine President Rodrigo <font color=red>Duterte</font>, while its "pivot to Asia" policy faces even more uncertainties.
+The United States believes that it has some sort of natural rights to write what outgoing President Barack Obama called "the rules of the road" for the AsiaPacific region....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/30/c_135791424.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/28/c_135785845.htm" target="_blank">Philippine president ends visit to Japan with blistering rem...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-28 01:51</span><br />
+					 Oct. 27 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> wrapped up his visit to Japan on Thursday, seeking economic support from Tokyo but still vexing its longtime ally of U.S. with his blistering remarks.
+During <font color=red>Duterte</font> s threeday visit,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/28/c_135785845.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/27/c_135785782.htm" target="_blank">Xinhua world news summary at 1530 GMT, Oct. 27</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-27 23:46</span><br />
+					 Oct. 27
+
+TOKYO  Visiting Philippine President Rodrigo <font color=red>Duterte</font> said on
+Thursday that he wanted to review a military agreement with the
+United States.
+
+Duterte, on his final day in Japan,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/27/c_135785782.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/27/c_135785716.htm" target="_blank">Philippine president says to review military deal with U.S. ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-27 22:21</span><br />
+					S.  
+TOKYO, Oct. 27 (Xinhua)  Visiting Philippine President Rodrigo <font color=red>Duterte</font> said on Thursday that he wanted to review a military agreement with the United States.
+Duterte, on his final day in Japan,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/27/c_135785716.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/27/c_135785320.htm" target="_blank">Duterte's remarks in Japan accord with his words in Beijing:...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-27 18:25</span><br />
+					s remarks in Japan accord with his words in Beijing: Chinese FM
+BEIJING, Oct. 27 (Xinhua)  China said on Thursday that Philippine President Rodrigo <font color=red>Duterte</font>'s recent remarks during his visit to Japan accord with the consensus he reached with Chinese leaders during his China visit last week....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/27/c_135785320.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/27/c_135782981.htm" target="_blank">Philippine President <font color=red>Duterte</font> holds meeting with Japanese PM</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-27 00:14</span><br />
+					Philippine President <font color=red>Duterte</font> holds meeting with Japanese PM
+TOKYO, Oct. 26 (Xinhua)  The visiting Philippine President Rodrigo <font color=red>Duterte</font> held a meeting with Japanese Prime Minister Shinzo Abe at the prime minister's office Wednesday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/27/c_135782981.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/26/c_135782828.htm" target="_blank">Experts say <font color=red>Duterte</font>'s visit puts China-Philippines ties back...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-26 21:15</span><br />
+					Experts say <font color=red>Duterte</font>'s visit puts ChinaPhilippines ties back on track
+
+MANILA, Oct. 26 (Xinhua)  Philippine President Rodrigo Duterte
+has put the traditional SinoPhilippine relations back on track,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/26/c_135782828.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+	
+	<div id="middle-c" class="style5" align="left">
+		
+		
+				1
+				<a href="search.jspa?page=2&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[2]</a>
+				<a href="search.jspa?page=3&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[3]</a>
+				<a href="search.jspa?page=4&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[4]</a>
+				<a href="search.jspa?page=5&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[5]</a>
+				<a href="search.jspa?page=6&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[6]</a>
+				<a href="search.jspa?page=7&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[7]</a>
+				<a href="search.jspa?page=8&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[8]</a>
+				<a href="search.jspa?page=9&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[9]</a>
+				<a href="search.jspa?page=10&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[10]</a>
+		
+			<u><a href="search.jspa?page=2&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">>> </a></u>
+	</div>
+	
+	<div id="middle-c" align="center">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+	</div>
+</div>
+
+
+<div id="righter">
+<br>
+<iframe src="pic.jspa?id=en&n1=duterte" height="1300" width="260" scrolling="no" name="mainFrame" frameborder="0"></iframe>
+</div>
+
+
+	<div class="clear"></div>
+	<div id="bottom1" class="style2a" style="text-align:center">
+		Copyright &copy; 2000 - 2008 <font color="red">XINHUANET</font>.com　All Rights Reserved. 　Powered by Xinhuanet<br>
+		<a href="http://www.xinhuanet.com/copyright.htm"  target="_blank"><font color="blue">All rights reserved</font></a> <a href="http://www.xinhuanet.com" target="_blank">Xinhuanet</a>
+	</div>
+<div style="display:none"><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010069120000000000000000012200000000000000")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010069120000000000000000012200000000000000" border="0" /></noscript></div>
+</body>
+</html>
+
+

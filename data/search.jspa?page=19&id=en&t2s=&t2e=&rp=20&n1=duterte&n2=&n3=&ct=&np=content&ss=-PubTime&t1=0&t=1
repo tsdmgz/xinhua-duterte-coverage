@@ -1,0 +1,491 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Xinhuanet Search</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/buju_xinhuanet.css" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/neirong_xinhuanet.css" />
+	<script>
+		function setbtn(){
+			var btn = document.getElementById("btn");
+			btn.value = "1";
+		}
+	</script>
+</head>
+<body style="font-family:Times New Roman">
+<div id="header">
+	<div id="left">
+		<div id="logo1" align="center"><img src="/language/images/logo.gif" /></div>
+	</div>
+	<div id="right">
+		<div id="topmenu">
+			<div id="menu1"><a href="search.jspa?id=en&t=1&n1=duterte&np=content&t1=0">News</a></div>
+  			<div id="menu2"><a href="picSearch.jspa?id=en&t=1&n1=duterte&np=content&t1=0">Photos</a></div>
+  			<div id="menu3"><a href="http://www.chinaview.cn" target=_blank>Xinhuanet Homepage</a> </div>
+		</div>
+		<div id="topsearch" align="left">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	<div id="newsmenu" align="right">
+	   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tr>
+		    <td height="26" align="left" class="style1">
+		    			<a href="search.jspa?ss=RELEVANCE&t=1&t1=0&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Sort by Relevance</a>
+		    		|
+		    			<span class="style5">
+							Sort by Date
+						</span>
+		    </td>
+		    <td height="26" align="center" class="style1">
+		    		<a href="search.jspa?t1=1&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one hour</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=24&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one day</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=168&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one week</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=720&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one month</a>
+			</td>
+		    <td height="26" align="right" class="style1">
+				401&nbsp;results found ,9.048&nbsp;seconds
+			</td>
+		  </tr>
+		</table>
+	</div>
+</div>
+
+
+
+<div id="lefter">
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/13/c_135355312.htm" target="_blank">U.S. offers congratulations to Philippine's presumptive pres...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-13 04:55</span><br />
+					...s presumptive presidentelect
+WASHINGTON, May 12 (Xinhua)  The United States offers its "sincerest" congratulations to the people of the Philippines on the conclusion of the general elections, and to the presumptive presidentelect Rodrigo <font color=red>Duterte</font>, the State Department said Thursday.
+"The United States looks forward to continuing to deepen our bilateral partnership with the new administration as we address common challenges and issues of mutual interest,"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/13/c_135355312.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/12/c_135354038.htm" target="_blank">News Analysis: Philippine presumptive president will bring c...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-12 14:26</span><br />
+					 Philippine presumptive president will bring change, but it's too early to say how big
+MANILA, May 12 (Xinhua)  Just two days after claiming presidential victory, Davao City Mayor Rodrigo <font color=red>Duterte</font> unveiled possible members of his cabinet as well as possible policies in a move to gain confidence from the public.
+During campaign period, public's desire for change has been very high due to longstanding poverty,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/12/c_135354038.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/11/c_135350937.htm" target="_blank">Philippine presumptive president reveals possible members of...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-11 15:41</span><br />
+					 May 11 (Xinhua)  Philippine presumptive President Rodrigo <font color=red>Duterte</font> has bared some possible members of his Cabinet, including secretaries from the previous administrations and a former military general.
+The Davao City mayor, who is leading the partial unofficial election results,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/11/c_135350937.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/10/c_135348820.htm" target="_blank">China Voice: Next Philippine leader faces new South China Se...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-10 21:58</span><br />
+					...s issues with China in the South China Sea.
+An unofficial, partial tally of votes at 2:00 a.m. Tuesday indicated that the next president could be Davao city mayor Rodrigo <font color=red>Duterte</font>.
+Among various challenges awaiting the new Philippine leader is finding a proper solution to South China Sea disputes. It is a chance to cast aside his predecessor's unilateral practices and bring the matter back to the negotiating table,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/10/c_135348820.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/10/c_135348592.htm" target="_blank">Philippine bourse close higher after election</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-10 20:17</span><br />
+					... the emerging results should remove one uncertainty that has been shadowing sentiments," analyst Justino Calaycay of A&amp;A Securities, Inc. said in his daily stock market comment.
+Unofficial results showed Davao Mayor Rodrigo <font color=red>Duterte</font> leading the presidential race.
+"Whether Mr. <font color=red>Duterte</font> will enjoy the traditional 'honeymoon' period remains to be seen. But history is filled with evidence there will be," Calaycay said.
+Stocks in the 30company index all finished in the green....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/10/c_135348592.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="rightc2"><img src="http://misc.search.news.cn/image/image_sub4/2016/05/10/135348496_1462880187855.jpg" /></div>
+				<div id="rightc2a" align="left"><span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/10/c_135348496.htm" target="_blank">China hopeful about new Philippine government</a> </span><span class="style2a">
+						Xinhuanet
+					2016-05-10 19:22
+				</span><br />
+				　　...Photo source: fmprc.gov.cn)
+BEIJING, May 10 (Xinhua)  China is hoping for a fresh start in diplomatic relations with the Philippines' new government.
+With an unofficial count of votes showing Davao city mayor Rodrigo <font color=red>Duterte</font> has won the Philippine presidential election, Chinese Foreign Ministry spokesperson Lu Kang said, "China hopes the Philippines' new government can work in the same direction with China,...
+				</div>
+				<div class="clear"></div>
+				<div id="middle2">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="left" class="style66">news.xinhuanet.com/english/2016-05/10/c_135348496.htm</td>
+						<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+					</tr>
+				</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/10/c_135347821.htm" target="_blank">Philippine presidential candidate Manuel Roxas concedes defe...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-10 13:36</span><br />
+					 May 9 (Xinhua)  Philippine presidential candidate Manuel Roxas on Tuesday conceded defeat to his opponent, Davao city mayor Rodrigo <font color=red>Duterte</font>.
+At a press conference at around 1:00 p.m. Tuesday, the administration standard bearer expressed his gratitude to incumbent President Benigno Aquino who supported him through the presidential campaign. He also thanked all his supporters....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/10/c_135347821.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/10/c_135346841.htm" target="_blank">Xinhua world news summary at 0030 GMT, May 10 </a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-10 08:30</span><br />
+					... said the
+statement, adding that the truce, otherwise named as "regime of
+calm," excludes the alQaidalinked Nusra Front and the
+alQaidalinked Nusra Front. (SyriaAleppoCeasefire)
+
+   
+
+MANILA  Davao city mayor Rodrigo <font color=red>Duterte</font> has won the 2016
+Philippine presidential election, according to an unofficial and
+partial tally of votes cast as of 2:00 a.m. Tuesday.
+
+Based on 87 percent of valid ballots, <font color=red>Duterte</font> pocketed
+14,499,396 votes, followed by Manuel Roxas at 8,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/10/c_135346841.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/10/c_135346099.htm" target="_blank">Duterte wins Philippine presidential election: preliminary r...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-10 02:19</span><br />
+					 preliminary result
+MANILA, May 10 (Xinhua)  Davao city mayor Rodrigo <font color=red>Duterte</font> has won the 2016 Philippine presidential election, according to an unofficial and partial tally of votes cast as of 2:00 a.m. Tuesday.
+Based on 87 percent of valid ballots, <font color=red>Duterte</font> pocketed 14,499,396 votes, followed by Manuel Roxas at 8,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/10/c_135346099.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/10/c_135346091.htm" target="_blank">FLASH: <font color=red>DUTERTE</font> WINS PHILIPPINE PRESIDENTIAL ELECTION: PRELIM...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-10 02:14</span><br />
+					 <font color=red>DUTERTE</font> WINS PHILIPPINE PRESIDENTIAL ELECTION: PRELIMINARY RESULT
+
+FLASH: <font color=red>DUTERTE</font> WINS PHILIPPINE PRESIDENTIAL ELECTION:...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/10/c_135346091.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/10/c_135345995.htm" target="_blank">Philippine presidential candidate Poe concedes to Duterte</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-10 01:03</span><br />
+					 May 9 (Xinhua)  Philippine presidential candidate Grace Poe held a press conference in Quezon city, Manila at around 00:05 a.m. Tuesday, conceding to her opponent Rodrigo <font color=red>Duterte</font>.
+Poe expressed her gratitude to her supporters, saying that she and her team had never lost faith.
+The female candidate said she had tried her best during the campaign period.
+Poe also said she would serve as senator for three more years,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/10/c_135345995.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/09/c_135345790.htm" target="_blank">Duterte leading in Philippine presidential election: partial...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-09 20:57</span><br />
+					 partial tally
+MANILA, May 9 (Xinhua)  Davao City Mayor Rodrigo <font color=red>Duterte</font> is taking a strong lead in the Philippine presidential election, according to an unofficial and partial tally of votes cast on Monday evening.
+Based on 60.02 percent of registered voters' ballots, <font color=red>Duterte</font> had 10,459,816 votes,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/09/c_135345790.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/09/c_135345762.htm" target="_blank">Duterte leading in Philippine presidential election: partial...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-09 20:27</span><br />
+					 partial tally
+MANILA, May 9 (Xinhua)  Davao City Mayor Rodrigo <font color=red>Duterte</font> is taking a strong lead in the Philippine presidential election, according to an unofficial and partial tally of votes cast on Monday evening.
+Based on 60.02 percent of registered voters' ballots, <font color=red>Duterte</font> had 10,459,816 votes,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/09/c_135345762.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/09/c_135345729.htm" target="_blank">FLASH: <font color=red>DUTERTE</font> LEADING IN PHILIPPINE PRESIDENTIAL ELECTION: ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-09 20:12</span><br />
+					 <font color=red>DUTERTE</font> LEADING IN PHILIPPINE PRESIDENTIAL ELECTION: ACCORDING TO 60 PERCENT OF VOTES COUNTED
+
+FLASH: <font color=red>DUTERTE</font> LEADING IN PHILIPPINE PRESIDENTIAL ELECTION:...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/09/c_135345729.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="rightc2"><img src="http://misc.search.news.cn/image/image_sub4/2016/05/09/XxjiweE005001_20160509_BNMFN0A006_1.jpg" /></div>
+				<div id="rightc2a" align="left"><span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/09/c_135344578.htm" target="_blank">Opinion: Moving beyond South China Sea dispute to Sino-Phili...</a> </span><span class="style2a">
+						Xinhuanet
+					2016-05-09 10:35
+				</span><br />
+				　　... improving the people's wellbeing is undoubtedly a top priority, and that effort would be unnecessarily harder without a healthy relationship with China.
+
+
+
+Philippine Presidential candidate and Davao City Mayor Rodrigo <font color=red>Duterte</font> speaks to his supporters during a grand campaign rally in Manila, capital of the Philippines, on May 7, 2016. (Xinhua/Rouelle Umali)
+
+As the world's second largest economy, and the No....
+				</div>
+				<div class="clear"></div>
+				<div id="middle2">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="left" class="style66">news.xinhuanet.com/english/2016-05/09/c_135344578.htm</td>
+						<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+					</tr>
+				</table>
+				</div>
+				<div id="rightc2"><img src="http://misc.search.news.cn/image/image_sub4/2016/05/08/135342450_1462682579107_title.jpg" /></div>
+				<div id="rightc2a" align="left"><span class="style1a"><a href="http://news.xinhuanet.com/english/photo/2016-05/08/c_135342450.htm" target="_blank">90-day election campaign period in Philippines ends</a> </span><span class="style2a">
+						Xinhuanet
+					2016-05-08 12:44
+				</span><br />
+				　　 May 8, 2016 (Xinhua)  Philippine Presidential candidate and Davao City Mayor Rodrigo <font color=red>Duterte</font> speaks to his supporters during a grand campaign rally in Manila, capital of the Philippines, on May 7, 2016. The 90day campaign period for the national candidates in the Philippines May 9 elections ended on Saturday. (Xinhua/Rouelle Umali)...
+				</div>
+				<div class="clear"></div>
+				<div id="middle2">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="left" class="style66">news.xinhuanet.com/english/photo/2016-05/08/c_135342450.htm</td>
+						<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+					</tr>
+				</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/07/c_135341338.htm" target="_blank">Philippines ends 90-day election campaign period</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-07 17:24</span><br />
+					... in his bailiwick in Makati City where he served as mayor for about two decades.
+Administration presidential bet Manuel Roxas II will be in Quezon City, Senator Grace Poe at historic Plaza Miranda in Quiapo, and Davao City Mayor Rodrigo <font color=red>Duterte</font> in Luneta Park. Senator Miriam DefensorSantiago has no scheduled "miting de avance."
+Starting midnight of Sunday until election day on Monday, the Commission on Elections (Comelec) has barred certain acts, such as further campaigning,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/07/c_135341338.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-02/21/c_135117740.htm" target="_blank">Philippines holds first presidential debate for May polls</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-02-21 20:00</span><br />
+					... organized the debate, the first since 1992, held in southern Philippine City of Cagayan de Oro.
+Present in the debate were Vice President Jejomar Binay, Senator Miriam DefensorSantiago, Davao City Mayor Rodrigo <font color=red>Duterte</font>, Senator Grace Poe, and Manuel Roxas II.
+Among the issues discussed were their track record, poverty and development, Mindanao issues and governance.
+The debate lasted for two hours....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-02/21/c_135117740.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="rightc2"><img src="http://misc.search.news.cn/image/image_sub4/2016/02/10/135087502_1455059884195_title.jpg" /></div>
+				<div id="rightc2a" align="left"><span class="style1a"><a href="http://news.xinhuanet.com/english/photo/2016-02/10/c_135087502.htm" target="_blank">90-day campaign period for Philippine national election star...</a> </span><span class="style2a">
+						Xinhuanet
+					2016-02-10 07:20
+				</span><br />
+				　　... the Philippines, Feb. 9, 2016. The 90day campaign period for the national candidates in the Philippine May elections officially starts Tuesday.(Xinhua/Stringer) 
+
+
+MANILA, Feb. 9, 2016 (Xinhua)  Presidential candidate Davao City Mayor Rodrigo <font color=red>Duterte</font> speaks during his campaign in Manila, the Philippines, Feb. 9, 2016. The 90day campaign period for the national candidates in the Philippine May elections officially starts Tuesday.(Xinhua/Stringer) 
+
+
+CAPIZ PROVINCE, Feb. 9, 2016 (Xinhua)...
+				</div>
+				<div class="clear"></div>
+				<div id="middle2">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="left" class="style66">news.xinhuanet.com/english/photo/2016-02/10/c_135087502.htm</td>
+						<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+					</tr>
+				</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-02/09/c_135086906.htm" target="_blank">90-day campaign period for Philippine national election star...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-02-09 19:16</span><br />
+					...
+Vice President Jejomar Binay of the United Nationalist Alliance held his kickingoff campaign in Mandaluyong City, Metro Manila.
+Senator Grace Poe, an independent candidate, and Davao City Mayor Rodrigo <font color=red>Duterte</font> of the PDPLaban conducted their rallies in Quiapo, Manila and in slum district of Tondo, Manila, respectively.
+Senator Miriam DefesorSantiago, also independent, joined Senator Ferdinand Marcos Jr., a vice presidential bet, in the latter'...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-02/09/c_135086906.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+	
+	<div id="middle-c" class="style5" align="left">
+			<u><a href="search.jspa?page=18&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1"><< </a></u>
+		
+		
+				<a href="search.jspa?page=14&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[14]</a>
+				<a href="search.jspa?page=15&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[15]</a>
+				<a href="search.jspa?page=16&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[16]</a>
+				<a href="search.jspa?page=17&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[17]</a>
+				<a href="search.jspa?page=18&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[18]</a>
+				19
+				<a href="search.jspa?page=20&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[20]</a>
+				<a href="search.jspa?page=21&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[21]</a>
+		
+			<u><a href="search.jspa?page=20&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">>> </a></u>
+	</div>
+	
+	<div id="middle-c" align="center">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+	</div>
+</div>
+
+
+<div id="righter">
+<br>
+<iframe src="pic.jspa?id=en&n1=duterte" height="1300" width="260" scrolling="no" name="mainFrame" frameborder="0"></iframe>
+</div>
+
+
+	<div class="clear"></div>
+	<div id="bottom1" class="style2a" style="text-align:center">
+		Copyright &copy; 2000 - 2008 <font color="red">XINHUANET</font>.com　All Rights Reserved. 　Powered by Xinhuanet<br>
+		<a href="http://www.xinhuanet.com/copyright.htm"  target="_blank"><font color="blue">All rights reserved</font></a> <a href="http://www.xinhuanet.com" target="_blank">Xinhuanet</a>
+	</div>
+<div style="display:none"><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010069120000000000000000012200000000000000")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010069120000000000000000012200000000000000" border="0" /></noscript></div>
+</body>
+</html>
+
+

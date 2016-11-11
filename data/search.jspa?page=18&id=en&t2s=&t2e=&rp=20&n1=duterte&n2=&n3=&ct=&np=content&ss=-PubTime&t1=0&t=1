@@ -1,0 +1,466 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Xinhuanet Search</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/buju_xinhuanet.css" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/neirong_xinhuanet.css" />
+	<script>
+		function setbtn(){
+			var btn = document.getElementById("btn");
+			btn.value = "1";
+		}
+	</script>
+</head>
+<body style="font-family:Times New Roman">
+<div id="header">
+	<div id="left">
+		<div id="logo1" align="center"><img src="/language/images/logo.gif" /></div>
+	</div>
+	<div id="right">
+		<div id="topmenu">
+			<div id="menu1"><a href="search.jspa?id=en&t=1&n1=duterte&np=content&t1=0">News</a></div>
+  			<div id="menu2"><a href="picSearch.jspa?id=en&t=1&n1=duterte&np=content&t1=0">Photos</a></div>
+  			<div id="menu3"><a href="http://www.chinaview.cn" target=_blank>Xinhuanet Homepage</a> </div>
+		</div>
+		<div id="topsearch" align="left">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	<div id="newsmenu" align="right">
+	   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tr>
+		    <td height="26" align="left" class="style1">
+		    			<a href="search.jspa?ss=RELEVANCE&t=1&t1=0&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Sort by Relevance</a>
+		    		|
+		    			<span class="style5">
+							Sort by Date
+						</span>
+		    </td>
+		    <td height="26" align="center" class="style1">
+		    		<a href="search.jspa?t1=1&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one hour</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=24&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one day</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=168&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one week</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=720&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one month</a>
+			</td>
+		    <td height="26" align="right" class="style1">
+				401&nbsp;results found ,1.795&nbsp;seconds
+			</td>
+		  </tr>
+		</table>
+	</div>
+</div>
+
+
+
+<div id="lefter">
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/31/c_135402539.htm" target="_blank">Roundup: Philippine president-elect <font color=red>Duterte</font> names Cabinet</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-31 22:03</span><br />
+					 Philippine presidentelect <font color=red>Duterte</font> names Cabinet
+MANILA, May 31 (Xinhua)  Presidentelect Rodrigo <font color=red>Duterte</font> unveiled on Tuesday his Cabinet, which has been 80 percent filled up, and gave the people snippets of the kind of government that he envisions during his single,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/31/c_135402539.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/31/c_135401710.htm" target="_blank">Xi hopes China, Philippines work together to get bilateral r...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-31 15:45</span><br />
+					 Philippines work together to get bilateral relations back on track
+
+
+Photo taken on May 21, 2016 shows a cake featuring then presumptive Philippine presidentelect Rodrigo <font color=red>Duterte</font> at a bakeshop in Quezon City, the Philippines. The cake is made to celebrate a large portion of almost 16 million votes Rodrigo <font color=red>Duterte</font> won during the Philippine presidential election. (Xinhua/Rouelle Umali)
+
+BEIJING, May 30 (Xinhua)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/31/c_135401710.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/30/c_135399841.htm" target="_blank">Philippine gov't holds talks with MILF in Malaysia</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-30 23:33</span><br />
+					...CAB) in the next administration, reported Malaysia's state news agency Bernama, quoting a joint statement.
+Agreement on the establishment of a trust fund was also sighed.
+Both the government and and MILF congratulated Rodrigo <font color=red>Duterte</font>, who was officially proclaimed as Philippine next president on Monday, while expressed optimism that the roadmap provided for in the CAB will be fully accomplished under his term....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/30/c_135399841.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/photo/2016-05/30/c_135399782.htm" target="_blank">Philippine Congress proclaims <font color=red>Duterte</font> as presidential winner</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-30 22:18</span><br />
+					Philippine Congress proclaims <font color=red>Duterte</font> as presidential winner
+
+QUEZON CITY, May 30, 2016 (Xinhua)  Philippine vice presidential winner Leni Robredo (C)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/photo/2016-05/30/c_135399782.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/30/c_135399711.htm" target="_blank">Leaders of China, Philippines share responsibility to mainta...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-30 21:32</span><br />
+					... Chinese President Xi Jinping said Monday.
+In a message to congratulate Rodrigo <font color=red>Duterte</font> on being elected Philippine president, Xi said China and the Philippines enjoy a long history of friendly exchanges and deep traditional friendship between the two peoples.
+"A friendly,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/30/c_135399711.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/30/c_135399656.htm" target="_blank">Singapore leaders congratulate incoming Philippine president</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-30 20:52</span><br />
+					 May 30 (Xinhua)  Singapore President Tony Tan Keng Yam and Prime Minister Lee Hsien Loong have written to presidentelect of the Republic of the Philippines Rodrigo <font color=red>Duterte</font>, to congratulate him on winning the Philippines Presidential Election, following the official announcement by the Congress of the Philippines, said the Ministry of Foreign Affairs (MFA) in a statement on Monday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/30/c_135399656.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/30/c_135399351.htm" target="_blank">2nd LD Writethru: Philippine Congress proclaims <font color=red>Duterte</font> as p...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-30 18:41</span><br />
+					 Philippine Congress proclaims <font color=red>Duterte</font> as presidential winner
+MANILA, May 30 (Xinhua)  A joint session of the Philippine Congress on Monday proclaimed Rodrigo <font color=red>Duterte</font> as the new Philippine president, over 20 days after the May 9 elections.
+Duterte, 71,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/30/c_135399351.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/30/c_135399321.htm" target="_blank">Philippine Congress proclaims <font color=red>Duterte</font> as presidential winner</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-30 18:06</span><br />
+					Philippine Congress proclaims <font color=red>Duterte</font> as presidential winner
+MANILA, May 30 (Xinhua)  Philippine Congress proclaimed Rodrigo <font color=red>Duterte</font> as presidential winner and Leni Robredo as vice presidential winner on Monday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/30/c_135399321.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/30/c_135399130.htm" target="_blank">Philippine Congress proclaims <font color=red>Duterte</font> as presidential winner</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-30 16:21</span><br />
+					Philippine Congress proclaims <font color=red>Duterte</font> as presidential winner
+MANILA, May 30 (Xinhua) Philippine Congress proclaims <font color=red>Duterte</font> as presidential winner on Monday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/30/c_135399130.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/27/c_135394116.htm" target="_blank">Duterte, Robredo official winners of 2016 polls</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-27 22:58</span><br />
+					... May 27, 2016 (Xinhua)  Senators and congressmen argue after finishing the official counting of votes from the May 9 elections of president and vice president at the House of Representatives in Quezon City, the Philippines, May 27, 2016. Rodrigo <font color=red>Duterte</font> and Maria Leonor Robredo have officially won the May 9 presidential and vicepresidential elections respectively, said the final tally of votes by the Philippine Congress Friday. (Xinhua/Rouelle Umali)
+MANILA, May 27 (Xinhua)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/27/c_135394116.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/24/c_135383321.htm" target="_blank">Philippine's incoming gov't to mull over population growth c...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-24 09:14</span><br />
+					... And the poverty rate in the country stands at more than 20 percent.
+Pernia said that, based on surveys, young couples want access to family products and programs.
+"The goal of the (incoming president Rodrigo) <font color=red>Duterte</font> administration's economic roadmap is inclusive growth, which we are now calling poverty and inequalityreducing growth," the Philippine Star, a daily newspaper, quoted him as saying....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/24/c_135383321.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/24/c_135383098.htm" target="_blank">Incoming Philippine president to allow Marcos' burial in her...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-24 08:14</span><br />
+					 burial in heroes' cemetery
+MANILA, May 24 (Xinhua)  Incoming Philippine President Rodrigo <font color=red>Duterte</font> has said he would allow the burial of late strongman Ferdinand Marcos at the Heroes' Cemetery, saying the issue has long divided the nation.
+"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/24/c_135383098.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/23/c_135380811.htm" target="_blank">Incoming Philippine president vows to have inclusive growth ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-23 10:23</span><br />
+					 May 23 (Xinhua)  The Philippines' presidentelect Rodrigo <font color=red>Duterte</font> has said he will make sure that economic growth in the next six years will bring benefits to the poor, local media reported on Monday.
+In an exclusive interview with the country's daily newspaper, the Philippine Star,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/23/c_135380811.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="rightc2"><img src="http://misc.search.news.cn/image/image_sub4/2016/05/21/135377543_1463826836708_title.jpg" /></div>
+				<div id="rightc2a" align="left"><span class="style1a"><a href="http://news.xinhuanet.com/english/photo/2016-05/21/c_135377543.htm" target="_blank">Cake made to celebrate Rodrigo <font color=red>Duterte</font>'s victory during elec...</a> </span><span class="style2a">
+						Xinhuanet
+					2016-05-21 18:45
+				</span><br />
+				　　Cake made to celebrate Rodrigo <font color=red>Duterte</font>'s victory during election
+
+
+QUEZON CITY, May 21, 2016 (Xinhua)  Photo taken on May 21, 2016 shows a cake featuring presumptive Philippine presidentelect Rodrigo <font color=red>Duterte</font>'at a bakeshop in Quezon City, the Philippines....
+				</div>
+				<div class="clear"></div>
+				<div id="middle2">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="left" class="style66">news.xinhuanet.com/english/photo/2016-05/21/c_135377543.htm</td>
+						<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+					</tr>
+				</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/17/c_135366557.htm" target="_blank">Philippines' vice president camp slams gov't for rushed spen...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-17 22:05</span><br />
+					... saying it left the incoming administration with little resources for the priority programs.
+"The Aquino administration's mad rush to spend during the election season has left the incoming administration of Presidentelect Rodrigo <font color=red>Duterte</font> little room to work on during its first year," Rico Quicho, spokesman of Vice President Jejomar Binay, has said.
+Binay's office said the Department of Budget and Management has released 2.5 trillion pesos (60 billion U.S. dollars)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/17/c_135366557.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/17/c_135365927.htm" target="_blank">Philippine terror group threatens to behead another captive</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-17 16:33</span><br />
+					..." the military spokesman Restituto Padilla said.
+It was reported that insurgency in the southern island of Mindanao has left as many as 200,000 people dead.
+Incoming President Rodrigo <font color=red>Duterte</font>, who hails from Mindanao and has served more than two decades as mayor of Davao City, has pledged to revive peace talks with separatist groups after he takes office on June 30.
+"We don't go to war with our own people,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/17/c_135365927.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/17/c_135365031.htm" target="_blank">Philippine president-elect meets Chinese ambassador, vowing ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-17 10:47</span><br />
+					 vowing to improve ties
+MANILA, May 17 (Xinhua)  Philippine presidentelect Rodrigo <font color=red>Duterte</font> has held talks with the Chinese ambassador, following his remarks to have bilateral talks with China over the row in the South China Sea.
+Zhao Jianhua, the Chinese ambassador to the Philippines,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/17/c_135365031.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/16/c_135363596.htm" target="_blank">Philippine presumptive president-elect to offer cabinet post...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-16 21:50</span><br />
+					 May 16 (Xinhua)  Philippine presumptive Presidentelect Rodrigo <font color=red>Duterte</font> said Monday that he would offer some cabinet posts to members of the Communist Party of the Philippines (CPP).
+Duterte, in a televised news conference from Davao City,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/16/c_135363596.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/16/c_135363379.htm" target="_blank">China congratulates Philippines' <font color=red>Duterte</font> on his presumptive ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-05-16 19:45</span><br />
+					 <font color=red>Duterte</font> on his presumptive victory
+BEIJING, May 16 (Xinhua)  The Chinese Foreign Ministry congratulated the Philippines' presumptive Presidentelect Rodrigo <font color=red>Duterte</font> on Monday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-05/16/c_135363379.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="rightc2"><img src="http://misc.search.news.cn/image/image_sub4/2016/05/16/135363137_1463401463618.jpg" /></div>
+				<div id="rightc2a" align="left"><span class="style1a"><a href="http://news.xinhuanet.com/english/2016-05/16/c_135363137.htm" target="_blank">Philippines' <font color=red>Duterte</font> plans to restore death penalty</a> </span><span class="style2a">
+						Xinhuanet
+					2016-05-16 17:04
+				</span><br />
+				　　 <font color=red>Duterte</font> plans to restore death penalty
+
+DAVAO PROVINCE, May 16, 2016 (Xinhua)  Presumptive Philippine presidentelect Rodrigo <font color=red>Duterte</font> (C) poses for photos with members of his political party during a press conference in Davao Province,...
+				</div>
+				<div class="clear"></div>
+				<div id="middle2">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="left" class="style66">news.xinhuanet.com/english/2016-05/16/c_135363137.htm</td>
+						<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+					</tr>
+				</table>
+				</div>
+	
+	<div id="middle-c" class="style5" align="left">
+			<u><a href="search.jspa?page=17&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1"><< </a></u>
+		
+		
+				<a href="search.jspa?page=13&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[13]</a>
+				<a href="search.jspa?page=14&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[14]</a>
+				<a href="search.jspa?page=15&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[15]</a>
+				<a href="search.jspa?page=16&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[16]</a>
+				<a href="search.jspa?page=17&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[17]</a>
+				18
+				<a href="search.jspa?page=19&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[19]</a>
+				<a href="search.jspa?page=20&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[20]</a>
+				<a href="search.jspa?page=21&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[21]</a>
+		
+			<u><a href="search.jspa?page=19&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">>> </a></u>
+	</div>
+	
+	<div id="middle-c" align="center">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+	</div>
+</div>
+
+
+<div id="righter">
+<br>
+<iframe src="pic.jspa?id=en&n1=duterte" height="1300" width="260" scrolling="no" name="mainFrame" frameborder="0"></iframe>
+</div>
+
+
+	<div class="clear"></div>
+	<div id="bottom1" class="style2a" style="text-align:center">
+		Copyright &copy; 2000 - 2008 <font color="red">XINHUANET</font>.com　All Rights Reserved. 　Powered by Xinhuanet<br>
+		<a href="http://www.xinhuanet.com/copyright.htm"  target="_blank"><font color="blue">All rights reserved</font></a> <a href="http://www.xinhuanet.com" target="_blank">Xinhuanet</a>
+	</div>
+<div style="display:none"><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010069120000000000000000012200000000000000")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010069120000000000000000012200000000000000" border="0" /></noscript></div>
+</body>
+</html>
+
+

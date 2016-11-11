@@ -1,0 +1,501 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Xinhuanet Search</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/buju_xinhuanet.css" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/neirong_xinhuanet.css" />
+	<script>
+		function setbtn(){
+			var btn = document.getElementById("btn");
+			btn.value = "1";
+		}
+	</script>
+</head>
+<body style="font-family:Times New Roman">
+<div id="header">
+	<div id="left">
+		<div id="logo1" align="center"><img src="/language/images/logo.gif" /></div>
+	</div>
+	<div id="right">
+		<div id="topmenu">
+			<div id="menu1"><a href="search.jspa?id=en&t=1&n1=duterte&np=content&t1=0">News</a></div>
+  			<div id="menu2"><a href="picSearch.jspa?id=en&t=1&n1=duterte&np=content&t1=0">Photos</a></div>
+  			<div id="menu3"><a href="http://www.chinaview.cn" target=_blank>Xinhuanet Homepage</a> </div>
+		</div>
+		<div id="topsearch" align="left">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	<div id="newsmenu" align="right">
+	   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tr>
+		    <td height="26" align="left" class="style1">
+		    			<a href="search.jspa?ss=RELEVANCE&t=1&t1=0&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Sort by Relevance</a>
+		    		|
+		    			<span class="style5">
+							Sort by Date
+						</span>
+		    </td>
+		    <td height="26" align="center" class="style1">
+		    		<a href="search.jspa?t1=1&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one hour</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=24&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one day</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=168&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one week</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=720&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one month</a>
+			</td>
+		    <td height="26" align="right" class="style1">
+				401&nbsp;results found ,2.128&nbsp;seconds
+			</td>
+		  </tr>
+		</table>
+	</div>
+</div>
+
+
+
+<div id="lefter">
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/15/c_135689488.htm" target="_blank">Philippines approves nine projects worth 3.60 bln USD</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-15 17:38</span><br />
+					...60 bln USD
+MANILA, Sept. 15 (Xinhua)  The Philippine government has approved nine huge projects with an estimated total cost of 171.14 billion pesos (3.60 billion U.S. dollars) to be implemented under the administration of President Rodrigo <font color=red>Duterte</font>, a senior government official said Thursday.
+Socioeconomic Planning Secretary Ernesto Pernia said the proposed projects were given the green light during the first National Economic and Development Authority (NEDA)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/15/c_135689488.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/15/c_135689480.htm" target="_blank">Spotlight: What lies behind subtle changes in Philippine-U.S...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-15 17:08</span><br />
+					...
+
+BEIJING, Sept. 15 (Xinhua)  Philippine President Rodrigo
+Duterte said Tuesday that his country will no longer participate in
+joint patrols with the United States in the South China Sea,
+describing such patrols as "a hostile act."
+
+On Monday, <font color=red>Duterte</font> said that U.S. special forces in southern
+Philippines should leave.
+
+Such decisions and remarks by <font color=red>Duterte</font> showed signs of subtle
+changes in the relationship between Manila and Washington.
+
+Duterte's spat and confrontation with the U.S....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/15/c_135689480.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/14/c_135688026.htm" target="_blank">Philippine president "respecter" of human rights: spokesman</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-14 23:45</span><br />
+					respecter" of human rights: spokesman
+MANILA, Sept. 14 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> respects human rights, his spokesman said Wednesday in response to the United Nations Commissioner for Human Rights singling out the Filipino leader on human rights issue.
+Secretary Ernesto Abella said that <font color=red>Duterte</font> ...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/14/c_135688026.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/14/c_135687999.htm" target="_blank">Philippines, Russia to advance military-to-military engageme...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-14 23:05</span><br />
+					...
+The DFA said both sides also discussed prospects for cooperation in the areas of security and technical matters, military medicine, peacekeeping, among others.
+Philippine President Rodrigo <font color=red>Duterte</font> had a bilateral meeting with Russian Prime Minister Dmitry Medvedev in Vientiane, Laos last week on the sidelines of the leaders' meetings between ASEAN and its dialogue partners.
+Duterte, who called Medvedev a "friend",...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/14/c_135687999.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/13/c_135685147.htm" target="_blank">Indonesia says to respect legal processes in Philippines ove...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-13 18:50</span><br />
+					...
+Indonesian President Joko Widodo said on Tuesday that he considers his Filipino counterpart Rodrigo <font color=red>Duterte</font> has been firm on the eradication of drug abuse.
+President Widodo said his government would respect the ongoing legal processes of a case involving Mary Jane Veloso,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/13/c_135685147.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/13/c_135684867.htm" target="_blank">Philippines will not scrap defense pact with U.S.: foreign s...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-13 16:04</span><br />
+					... Sept. 13 (Xinhua)  Philippine Foreign Secretary Perfecto Yasay said on Tuesday that the Philippines has no plans to scrap the Enhanced Defense Cooperation Agreement (EDCA) with the United States.
+He said the administration of President Rodrigo <font color=red>Duterte</font> will continue to "respect all treaty agreements or arrangements with all nations."
+In an interview with ABSCBN News Channel, Yasay expressed the hope that the bilateral meeting between U.S....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/13/c_135684867.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/13/c_135683829.htm" target="_blank">Philippine president admits "purposely" skipping ASEAN-U.S. ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-13 09:28</span><br />
+					purposely" skipping ASEANU.S. meeting
+MANILA, Sept. 13 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> admitted Monday night that he "purposely" skipped the meeting between the Southeast Asian leaders and United States President Barack Obama in Vientiane, Laos last week.
+"The reason is not that I am antiWest. The reason is not (that)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/13/c_135683829.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/12/c_135682552.htm" target="_blank">Philippines to accept Indonesia's decision on Filipino woman...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-12 20:19</span><br />
+					...
+Philippine Foreign Secretary Perfecto Yasay said in a statement that President Rodrigo <font color=red>Duterte</font> has told Indonesian President Jokowi Widodo during their bilateral meeting in Jakarta last Friday "that he respects their judicial processes and will accept whatever the final decision they will arrive at regarding her case."...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/12/c_135682552.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/12/c_135682546.htm" target="_blank">Connection with U.S. reason for terrorist threat in S. Phili...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-12 20:09</span><br />
+					... Philippines: official
+MANILA, Sept. 12 (Xinhua)  The Philipine government blamed Monday the United States for the continued terrorist threat in Mindanao.
+Presidential Spokesperson Ernesto Abella made the statement after President Rodrigo <font color=red>Duterte</font> said that American special forces in southern Philippines have to leave the place.
+"The statement reflects PRRD's  <font color=red>Duterte</font>  new direction towards coursing an independent foreign policy; he has made reference to the unrecognized,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/12/c_135682546.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/12/c_135682340.htm" target="_blank">Duterte wants U.S. special forces to leave S. Philippines</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-12 18:14</span><br />
+					...
+
+Earlier, the president has said the Philippines under his
+administration would pursue an independent foreign policy "without
+any interference" from any country.
+
+In Vientiane, controversy hounded <font color=red>Duterte</font> for making "strong
+remarks" against U.S. President Barack Obama in connection with
+comments made by U.S. officials on drugrelated extrajudicial
+killings in the country.
+
+Duterte'...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/12/c_135682340.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/11/c_135680035.htm" target="_blank">Three Filipino fishermen kidnapped off Malaysia's Sabah wate...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-11 21:35</span><br />
+					...
+It is yet to determine whether the gunmen are affiliated with the Abu Sayyaf, an Islamist militant group based in the southern Philippines, which is notorious for kidnappingsforransom.
+The incident came two days after Philippine President Rodrigo <font color=red>Duterte</font> visited Indonesia, during which the two countries vowed to tackle sea kidnappings jointly.
+According to a report from the Star, Malaysian Deputy Prime Minister Ahmad Zahid Hamidi also weighed in on the incident,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/11/c_135680035.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/10/c_135677219.htm" target="_blank">Philippines to pursue independent foreign policy: president</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-10 08:48</span><br />
+					...without any interference" from any
+country.
+
+"In our relations with the world, the Philippines will pursue an
+independent foreign policy," <font color=red>Duterte</font> told a news conference in his
+hometown Davao City in the southern Philippines.
+
+He added, "We will observe, and must insist, I repeat, I must
+insist, on the timehonored principles of sovereign equality,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/10/c_135677219.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/09/c_135676506.htm" target="_blank">Indonesia, Philippines to boost cooperation on maritime secu...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-09 22:20</span><br />
+					...  The governments of Indonesia and the Philippines on Friday vowed to step up cooperation to boost security in the regional waters and fight against illegal drug abuse.
+Indonesian President Joko Widodo met with his Filipino counterpart Rodrigo <font color=red>Duterte</font> at the State Palace on Friday, expressing commitment to fight against extremism in both nations.
+"We expressed commitment to take all necessary steps to ensure security in the two seas and maritime areas of common interest,"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/09/c_135676506.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/09/c_135673406.htm" target="_blank">Chinese premier urges Beijing, Manila to jointly bring ties ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-09 01:45</span><br />
+					...
+Li made the remarks during his talks with Philippine President Rodrigo <font color=red>Duterte</font> on the sidelines of the East Asia leaders' meetings in the Laotian capital of Vientiane.
+Duterte, for his part, expressed his aspiration for better PhilippinesChina relations, saying that Li's remarks represent one of his principles....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/09/c_135673406.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/08/c_135673319.htm" target="_blank">China opposes outside interference in South China Sea issue:...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-08 23:49</span><br />
+					...
+"It is the Cold War mentality to count on bilateral defense cooperation and military alliance to safeguard East Asian peace," Liu said, stressing the need to formulate a new Asian security concept.
+Meanwhile, Philippine President Rodrigo <font color=red>Duterte</font> has sent a signal of improving bilateral relations with China after he took office, and China is confident that SinoPhilippine ties could be improved with the joint efforts of the two sides.
+The East Asia Summit,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/08/c_135673319.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/08/c_135673210.htm" target="_blank">ASEAN, related summits conclude, eyeing future moves to real...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-08 21:28</span><br />
+					...
+Lao Prime Minister Thongloun Sisoulith said in a press conference after the ceremony that the ASEAN Community will continue to gain new achievements on the occasion of the 50th anniversary of ASEAN.
+Philippine President Rodrigo <font color=red>Duterte</font> addressed at the closing ceremony that during his country's chairmanship, the Philippines will highlight ASEAN as a model of regionalism and a global player with the interests of the people of the bloc,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/08/c_135673210.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/06/c_135665796.htm" target="_blank">No Obama-<font color=red>Duterte</font> bilateral meeting in Laos: U.S. embassy</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-06 10:07</span><br />
+					 U.S. embassy
+VIENTIANE, Sept. 6 (Xinhua)  U.S. President Barack Obama and his Philippines counterpart Rodrigo <font color=red>Duterte</font> will not meet in Laos on the sidelines of the 28th and 29th ASEAN Summits and East Asia Summit, the U.S. Embassy in Vientiane confirmed on Tuesday.
+According to media report,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/06/c_135665796.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/05/c_135664464.htm" target="_blank">Xinhua world news summary at 1530 GMT, Sept. 5</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-05 23:40</span><br />
+					..., a total of 24 people including civilians and
+security personnel were killed and 91 others injured in the twin
+blasts that hit near defense ministry today afternoon," Kawusi told
+Xinhua. (AfghanistanAttack)
+
+   
+
+MANILA  Philippine President Rodrigo <font color=red>Duterte</font> proclaimed on
+Monday a state of national emergency for the Philippines on account
+of lawless violence, a Malacanang presidential palace said in a
+statement....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/05/c_135664464.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/05/c_135664299.htm" target="_blank">Philippines declares state of national emergency</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-05 21:14</span><br />
+					 Sept. 5 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> proclaimed on Monday a state of national emergency for the Philippines on account of lawless violence, a Malacanang presidential palace said in a statement....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/05/c_135664299.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-09/05/c_135664282.htm" target="_blank">Duterte says he will not allow any country to interfere in P...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-09-05 21:04</span><br />
+					 Sept. 5 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> said on Monday that the United States has no moral authority to give him a lecture on humans rights, warning he will not allow any country to interfere in Philippine internal affairs.
+Duterte was reacting to a question that U.S....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-09/05/c_135664282.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+	
+	<div id="middle-c" class="style5" align="left">
+			<u><a href="search.jspa?page=5&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1"><< </a></u>
+		
+		
+				<a href="search.jspa?page=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[1]</a>
+				<a href="search.jspa?page=2&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[2]</a>
+				<a href="search.jspa?page=3&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[3]</a>
+				<a href="search.jspa?page=4&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[4]</a>
+				<a href="search.jspa?page=5&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[5]</a>
+				6
+				<a href="search.jspa?page=7&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[7]</a>
+				<a href="search.jspa?page=8&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[8]</a>
+				<a href="search.jspa?page=9&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[9]</a>
+				<a href="search.jspa?page=10&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[10]</a>
+		
+			<u><a href="search.jspa?page=7&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">>> </a></u>
+	</div>
+	
+	<div id="middle-c" align="center">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+	</div>
+</div>
+
+
+<div id="righter">
+<br>
+<iframe src="pic.jspa?id=en&n1=duterte" height="1300" width="260" scrolling="no" name="mainFrame" frameborder="0"></iframe>
+</div>
+
+
+	<div class="clear"></div>
+	<div id="bottom1" class="style2a" style="text-align:center">
+		Copyright &copy; 2000 - 2008 <font color="red">XINHUANET</font>.com　All Rights Reserved. 　Powered by Xinhuanet<br>
+		<a href="http://www.xinhuanet.com/copyright.htm"  target="_blank"><font color="blue">All rights reserved</font></a> <a href="http://www.xinhuanet.com" target="_blank">Xinhuanet</a>
+	</div>
+<div style="display:none"><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010069120000000000000000012200000000000000")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010069120000000000000000012200000000000000" border="0" /></noscript></div>
+</body>
+</html>
+
+

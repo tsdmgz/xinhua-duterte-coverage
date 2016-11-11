@@ -1,0 +1,485 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Xinhuanet Search</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/buju_xinhuanet.css" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/neirong_xinhuanet.css" />
+	<script>
+		function setbtn(){
+			var btn = document.getElementById("btn");
+			btn.value = "1";
+		}
+	</script>
+</head>
+<body style="font-family:Times New Roman">
+<div id="header">
+	<div id="left">
+		<div id="logo1" align="center"><img src="/language/images/logo.gif" /></div>
+	</div>
+	<div id="right">
+		<div id="topmenu">
+			<div id="menu1"><a href="search.jspa?id=en&t=1&n1=duterte&np=content&t1=0">News</a></div>
+  			<div id="menu2"><a href="picSearch.jspa?id=en&t=1&n1=duterte&np=content&t1=0">Photos</a></div>
+  			<div id="menu3"><a href="http://www.chinaview.cn" target=_blank>Xinhuanet Homepage</a> </div>
+		</div>
+		<div id="topsearch" align="left">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	<div id="newsmenu" align="right">
+	   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tr>
+		    <td height="26" align="left" class="style1">
+		    			<a href="search.jspa?ss=RELEVANCE&t=1&t1=0&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Sort by Relevance</a>
+		    		|
+		    			<span class="style5">
+							Sort by Date
+						</span>
+		    </td>
+		    <td height="26" align="center" class="style1">
+		    		<a href="search.jspa?t1=1&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one hour</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=24&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one day</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=168&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one week</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=720&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one month</a>
+			</td>
+		    <td height="26" align="right" class="style1">
+				401&nbsp;results found ,1.364&nbsp;seconds
+			</td>
+		  </tr>
+		</table>
+	</div>
+</div>
+
+
+
+<div id="lefter">
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2015-12/23/c_134945868.htm" target="_blank">Philippine poll body bars female senator to run for presiden...</a> </span><span class="style2a">
+								Xinhuanet
+							 2015-12-23 21:47</span><br />
+					...
+In the latest survey, Poe tied with Vice President Jejomar Binay as the top presidential contenders, edging former Local Government Secretary Manuel Roxas II, Davao City Mayor Rodrigo <font color=red>Duterte</font>, and Senator Miriam DefensorSantiago....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2015-12/23/c_134945868.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="rightc2"><img src="http://misc.search.news.cn/image/image_sub4/2015/11/30/134870529_1448891971361_title.jpg" /></div>
+				<div id="rightc2a" align="left"><span class="style1a"><a href="http://news.xinhuanet.com/english/photo/2015-11/30/c_134870529.htm" target="_blank">Duterte announces intention to run for presidency in 2016 el...</a> </span><span class="style2a">
+						Xinhuanet
+					2015-11-30 22:03
+				</span><br />
+				　　Duterte announces intention to run for presidency in 2016 election
+
+Presidential candidate and current Davao City Mayor Rodrigo <font color=red>Duterte</font> speaks during his proclamation rally in Manila, the Philippines, Nov. 30, 2015. <font color=red>Duterte</font> officially announced his intention to run for the presidency in the coming 2016 election. (Xinhua/Rouelle Umali)...
+				</div>
+				<div class="clear"></div>
+				<div id="middle2">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="left" class="style66">news.xinhuanet.com/english/photo/2015-11/30/c_134870529.htm</td>
+						<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+					</tr>
+				</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2015-10/13/c_134708951.htm" target="_blank">News Analysis: Election for successor to Aquino reels off in...</a> </span><span class="style2a">
+								Xinhuanet
+							 2015-10-13 12:30</span><br />
+					News Analysis: Election for successor to Aquino reels off in the Philippines
+
+News Analysis: Election for successor to Aquino reels off in the
+Philippines
+
+by Alito L. Malinao
+
+MANILA, Oct. 13 (Xinhua)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2015-10/13/c_134708951.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2015-09/29/c_134671293.htm" target="_blank">Military fails to capture Samal kidnappers in S. Philippines...</a> </span><span class="style2a">
+								Xinhuanet
+							 2015-09-29 13:40</span><br />
+					... mostly along Muslim communities, towards Sarangani province while thousands of military and police troops pursued them in the mountains of Davao del Norte and Davao del Surm," the report added.
+Davao City Mayor Rodrigo <font color=red>Duterte</font> said on Sunday that he received reports that the kidnappers and their hostages Canadians John Ridsdel, 68, Robert Hall, 50, Norwegian resort manager Kjartan Sekkingstad and Hall's Filipino girlfriend Maritess Flor are now in Sulu.
+However,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2015-09/29/c_134671293.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2015-09/17/c_134632206.htm" target="_blank">News Analysis: 4-cornered fight for the Philippine presidenc...</a> </span><span class="style2a">
+								Xinhuanet
+							 2015-09-17 08:57</span><br />
+					...
+With the formal announcement of her longanticipated run for the presidency Wednesday night, Sen. Grace Poe is currently the third candidate for president, after Vice President Jejomar Binay and former Interior Secretary Mar Roxas.
+Rodrigo <font color=red>Duterte</font>, the maverick mayor of Davao City in Mindanao in the southern Philippines, is expected to formally announce his candidacy for president next week....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2015-09/17/c_134632206.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2014-12/22/c_133870328.htm" target="_blank">Two kidnapped soldiers freed in S. Philippines</a> </span><span class="style2a">
+								Xinhuanet
+							 2014-12-22 09:42</span><br />
+					... the military said on Monday.
+The New People's Army (NPA) captors turned over the two soldiers, Benjamin Samano and Alvin Ricarte, to local officials and religious leaders led by Davao City mayor Rodrigo <font color=red>Duterte</font> at a remote village in Mindanao's Compostela Valley past 1 p.m. Sunday, Ezra Balagtey, spokesperson of the military's Eastern Mindanao Command, said Monday morning. "...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2014-12/22/c_133870328.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/world/2014-10/18/c_133725749.htm" target="_blank">Political dynasties dominate Philippine politics</a> </span><span class="style2a">
+								Xinhuanet
+							 2014-10-18 09:53</span><br />
+					... deftly skirting term limits."
+One good example of how politicallyentrenched families can circumvent the law is Mayor Rodrigo <font color=red>Duterte</font> of Davao City in the southern Philippines. The feisty mayor is known for his extra legal methods in going after the city's hoodlums.
+Under the law, a local official can only hold office for three consecutive terms of three years each....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/world/2014-10/18/c_133725749.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/world/2014-08/25/c_133582554.htm" target="_blank">Philippine gov't maintains no Filipinos recruited by ISIS</a> </span><span class="style2a">
+								Xinhuanet
+							 2014-08-25 15:26</span><br />
+					...ISIS), presidential spokesman Edwin Lacierda said on Monday.
+The Philippine government left it to the Armed Forces of the Philippines (AFP) to validate the report after Davao Mayor Rodrigo <font color=red>Duterte</font> said some of his constituents had been recruited and are now being trained by ISIS, Lacierda said.
+"There is none....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/world/2014-08/25/c_133582554.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/world/2014-07/01/c_133453048.htm" target="_blank">Philippine president confirms "raw" information on possible ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2014-07-01 21:28</span><br />
+					... July 1 (Xinhua)  Philippine President Benigno Aquino III confirmed Tuesday a "raw" information regarding a possible bomb attack in southern Philippine city of Davao.
+Aquino told reporters that he passed on to Davao City Mayor Rodrigo <font color=red>Duterte</font> the raw information to adequately prepare the city. The attack is said to be perpetrated by a terrorist with international links.
+"The reports stated and I emphasize,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/world/2014-07/01/c_133453048.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/world/2014-06/29/c_133447108.htm" target="_blank">Philippine security forces on high alert for possible terror...</a> </span><span class="style2a">
+								Xinhuanet
+							 2014-06-29 20:06</span><br />
+					...PNP) and the Armed Forces of the Philippines (AFP) are now on alert and coordinating with each other to check possible terrorist threat.
+It was Philippine President Benigno Aquino III who called up Mayor Rodrigo <font color=red>Duterte</font> of the southern city of Davao to inform him about the possible terrorist attack in the city or other parts of Mindanao, such as the cities of Cagayan de Oro, Koronadal, and Kidapawan.
+Quoting Ramon Zagala,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/world/2014-06/29/c_133447108.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/world/2014-06/02/c_133378534.htm" target="_blank">Leftist rebels free five gov't contractors seized in S. Phil...</a> </span><span class="style2a">
+								Xinhuanet
+							 2014-06-02 20:49</span><br />
+					... authorities said.
+The five subcontractors of the Department of Environment and Natural Resources (DENR) were released late Monday to Rodrigo <font color=red>Duterte</font>, mayor of regional center Davao who has received freed rebel prisoners in the past, said Voltaire Rimando, chairman of the Crisis Management Committee....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/world/2014-06/02/c_133378534.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://www.asean-china-center.org/english/2014-01/23/c_133067633.htm" target="_blank">Basic Facts of Philippines</a> </span><span class="style2a">
+								Xinhuanet
+							 2014-01-23 10:33</span><br />
+					Basic Facts of Philippines
+
+
+
+
+
+
+
+Head of State: President Rodrigo Duterte
+
+Capital:Manila
+
+Language(s): Filipino, English, Spanish
+
+Currency: Peso
+
+Department of Foreign Affairs of the Philippines Website: www.dfa.gov....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">www.asean-china-center.org/english/2014-01/23/c_133067633.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/world/2013-08/25/c_132660734.htm" target="_blank">Leftist rebels free kidnapped soldier in S. Philippines</a> </span><span class="style2a">
+								Xinhuanet
+							 2013-08-25 11:05</span><br />
+					... Philippines, Aug. 25 (Xinhua) Leftist rebels released Saturday a soldier they have kidnapped early this month in Southern Philippines in an incident that insurgents claimed was preceded by a bomb attack that killed several soldiers.
+Rodrigo <font color=red>Duterte</font>, mayor of the regional center Davao City, helped in facilitating the release by the New People's Army of Private First Class Rodelio Rigonan in the hinterlands of Mindanao' s Compostela Valley province, said Captain Severino David,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/world/2013-08/25/c_132660734.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/indepth/2013-08/16/c_132636532.htm" target="_blank">News Analysis: Proposal to increase U.S. military presence i...</a> </span><span class="style2a">
+								Xinhuanet
+							 2013-08-16 15:49</span><br />
+					..." he said.
+The VFA that allows limited American military presence in the country was signed in 1991 in lieu of a formal bases agreement.
+Meanwhile, Mayor Rodrigo <font color=red>Duterte</font> of Davao City in southern Philippines revealed that he has rejected a U.S government request to use the city's old airport as an operating base for its drone program.
+"The U.S. government wants to use the old airport. I refused....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/indepth/2013-08/16/c_132636532.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/world/2013-02/21/c_132183466.htm" target="_blank">Leftist rebels release 2 kidnapped gov't soldiers in S. Phil...</a> </span><span class="style2a">
+								Xinhuanet
+							 2013-02-21 18:05</span><br />
+					...s people, according to Captain Nathaniel Morales, spokesperson for the 1003rd Infantry Brigade.
+The kidnap victims were then fetched by local officials led by Davao City Vice Mayor Rodrigo <font color=red>Duterte</font> and flown in to the regional army and police headquarters here around 4:00 p.m. Morales told Xinhua. Morales said the victims were going through a stress debriefing.
+New People's Army (NPA)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/world/2013-02/21/c_132183466.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english2010/world/2011-06/29/c_13957001.htm" target="_blank">Death toll in S Philippine flashflood rises to 25</a> </span><span class="style2a">
+								Xinhuanet
+							 2011-06-29 18:11</span><br />
+					... inundating the affected areas.
+Cinco said floodwaters started to recede on Wednesday but roads from Talomo going up to the city's southern parts were still impassable to most types of vehicles.
+Davao City Mayor Sara <font color=red>Duterte</font> has placed the villages of Matina Pangi, Matina Crossing, Matina Aplaya and Talomo comprising Talomo district under state of calamity....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english2010/world/2011-06/29/c_13957001.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english2010/world/2011-06/29/c_13956281.htm" target="_blank">17 dead in S. Philippine flash flood</a> </span><span class="style2a">
+								Xinhuanet
+							 2011-06-29 11:53</span><br />
+					...s Eastern Mindanao Command, the Philippine Coast Guard and other volunteer groups were immediately mobilized.
+The overflowing of Matina River which traverses the entire district aggravated the disaster. Davao City Mayor Sarah <font color=red>Duterte</font> said at least 15,000 families were displaced by the sudden flood, which, according to residents, was spawned by a twohour heavy downpour....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english2010/world/2011-06/29/c_13956281.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english2010/world/2010-11/30/c_13628018.htm" target="_blank">One person killed, several houses destroyed as flash flood h...</a> </span><span class="style2a">
+								Xinhuanet
+							 2010-11-30 09:00</span><br />
+					One person killed, several houses destroyed as flash flood hit S. Philippine city
+
+DAVAO CITY, Philippines, Nov. 30 (Xinhua)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english2010/world/2010-11/30/c_13628018.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english2010/world/2010-11/28/c_13625635.htm" target="_blank">Leftist rebels release kidnapped ailing soldier in S Philipp...</a> </span><span class="style2a">
+								Xinhuanet
+							 2010-11-28 15:22</span><br />
+					... Nov. 28 (Xinhua)  Leftist rebels on Sunday freed a sick soldier they kidnapped on Nov. 16, military officials said.
+Corporal Daiem Hadjaie was released by his New People's Army ( NPA) captors to local officials led by Davao city vice mayor Rodrigo <font color=red>Duterte</font> on Sunday in the hinterlands of the goldrich Compostela Valley, according to Lieutenant Colonel Gilbert Saret, the soldier's battalion commander.
+"Yes, he (Hadjaie)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english2010/world/2010-11/28/c_13625635.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2007-06/20/content_6267124.htm" target="_blank">Xinhua - English</a> </span><span class="style2a">
+								Xinhuanet
+							 2007-06-20 11:19</span><br />
+					... June 20 (Xinhua)  A Filipino mayor in Mindanao has criticized the 
+presence of U.S. troops in the southern Philippine region, saying it could only 
+aggravate the conflict there, reported local daily Philippine Star on Wednesday.
+Mayor Rodrigo <font color=red>Duterte</font> of Davao City, the third largest city in the 
+Philippines, said the U.S. troops participating in joint military exercises in 
+parts of Mindanao has worsened the tension brought about by the recent bombings 
+in Davao del Sur and CotabatoCity....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2007-06/20/content_6267124.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+	
+	<div id="middle-c" class="style5" align="left">
+			<u><a href="search.jspa?page=19&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1"><< </a></u>
+		
+		
+				<a href="search.jspa?page=15&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[15]</a>
+				<a href="search.jspa?page=16&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[16]</a>
+				<a href="search.jspa?page=17&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[17]</a>
+				<a href="search.jspa?page=18&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[18]</a>
+				<a href="search.jspa?page=19&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[19]</a>
+				20
+				<a href="search.jspa?page=21&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[21]</a>
+		
+			<u><a href="search.jspa?page=21&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">>> </a></u>
+	</div>
+	
+	<div id="middle-c" align="center">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+	</div>
+</div>
+
+
+<div id="righter">
+<br>
+<iframe src="pic.jspa?id=en&n1=duterte" height="1300" width="260" scrolling="no" name="mainFrame" frameborder="0"></iframe>
+</div>
+
+
+	<div class="clear"></div>
+	<div id="bottom1" class="style2a" style="text-align:center">
+		Copyright &copy; 2000 - 2008 <font color="red">XINHUANET</font>.com　All Rights Reserved. 　Powered by Xinhuanet<br>
+		<a href="http://www.xinhuanet.com/copyright.htm"  target="_blank"><font color="blue">All rights reserved</font></a> <a href="http://www.xinhuanet.com" target="_blank">Xinhuanet</a>
+	</div>
+<div style="display:none"><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010069120000000000000000012200000000000000")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010069120000000000000000012200000000000000" border="0" /></noscript></div>
+</body>
+</html>
+
+

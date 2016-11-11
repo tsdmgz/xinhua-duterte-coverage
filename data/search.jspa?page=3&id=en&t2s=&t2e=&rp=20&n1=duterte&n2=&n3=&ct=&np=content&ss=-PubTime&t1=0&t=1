@@ -1,0 +1,469 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Xinhuanet Search</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/buju_xinhuanet.css" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/neirong_xinhuanet.css" />
+	<script>
+		function setbtn(){
+			var btn = document.getElementById("btn");
+			btn.value = "1";
+		}
+	</script>
+</head>
+<body style="font-family:Times New Roman">
+<div id="header">
+	<div id="left">
+		<div id="logo1" align="center"><img src="/language/images/logo.gif" /></div>
+	</div>
+	<div id="right">
+		<div id="topmenu">
+			<div id="menu1"><a href="search.jspa?id=en&t=1&n1=duterte&np=content&t1=0">News</a></div>
+  			<div id="menu2"><a href="picSearch.jspa?id=en&t=1&n1=duterte&np=content&t1=0">Photos</a></div>
+  			<div id="menu3"><a href="http://www.chinaview.cn" target=_blank>Xinhuanet Homepage</a> </div>
+		</div>
+		<div id="topsearch" align="left">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	<div id="newsmenu" align="right">
+	   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tr>
+		    <td height="26" align="left" class="style1">
+		    			<a href="search.jspa?ss=RELEVANCE&t=1&t1=0&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Sort by Relevance</a>
+		    		|
+		    			<span class="style5">
+							Sort by Date
+						</span>
+		    </td>
+		    <td height="26" align="center" class="style1">
+		    		<a href="search.jspa?t1=1&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one hour</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=24&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one day</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=168&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one week</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=720&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one month</a>
+			</td>
+		    <td height="26" align="right" class="style1">
+				401&nbsp;results found ,1.751&nbsp;seconds
+			</td>
+		  </tr>
+		</table>
+	</div>
+</div>
+
+
+
+<div id="lefter">
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/20/c_135768978.htm" target="_blank">China says dialogue on South China Sea "foundation" for ties...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-20 14:18</span><br />
+					...
+Xi made the comment during talks with Philippine President Rodrigo <font color=red>Duterte</font> in Beijing Thursday morning....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/20/c_135768978.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/20/c_135768928.htm" target="_blank">Xi says China ready to enhance ties with Philippines under B...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-20 13:58</span><br />
+					 Oct. 20 (Xinhua)  Chinese President Xi Jinping told visiting Philippine President Rodrigo <font color=red>Duterte</font> here on Thursday that China is ready to enhance cooperation with the Philippines under the framework of the Belt and Road initiative....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/20/c_135768928.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/20/c_135768927.htm" target="_blank">China supports Philippines' fight against drug, terrorism</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-20 13:58</span><br />
+					... terrorism and crime, and would like to conduct cooperation with the Philippines in these areas.
+Xi made the remarks when he held talks with Philippine President Rodrigo <font color=red>Duterte</font> in Beijing....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/20/c_135768927.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/20/c_135768396.htm" target="_blank">Chinese, Philippine presidents meet in Beijing</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-20 10:49</span><br />
+					 Philippine presidents meet in Beijing
+BEIJING, Oct. 20 (Xinhua)  Chinese President Xi Jinping held a welcome ceremony for visiting Philippine President Rodrigo <font color=red>Duterte</font> in Beijing on Thursday morning.
+Following the ceremony, the two leaders will hold official talks and witness the signing of a series of cooperation documents.
+Duterte is on a state visit to China from Tuesday to Friday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/20/c_135768396.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/18/c_135763856.htm" target="_blank">China Focus: Philippine president arrives in Beijing for "hi...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-18 20:55</span><br />
+					 Philippine president arrives in Beijing for "historic" visit
+BEIJING, Oct. 18 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> arrived in Beijing Tuesday evening, beginning his fourday visit to China.
+Choosing China as the first country outside the ASEAN since taking office in June, <font color=red>Duterte</font> makes the visit amid a backdrop of deteriorating ChinaPhilippines ties,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/18/c_135763856.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/18/c_135763830.htm" target="_blank">Gov't holds "soft opening" of Chinese-backed drug rehabilita...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-18 20:26</span><br />
+					... The right wing of the building, which can accommodate almost 1,000 patients and offices are now ready to be furnished," Ubial said.
+The DOH also plans to build rehabilitation centers in Visayas and Mindanao.
+When President Rodrigo <font color=red>Duterte</font> assumed office in June, he declared a war on illegal drugs. Since that time, about 790,000 drug addicts have surrendered to authorities....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/18/c_135763830.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/18/c_135763643.htm" target="_blank">Duterte leaves Brunei with vows for stronger bilateral ties</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-18 18:05</span><br />
+					 Oct. 18 (Xinhua)  Philippine President Rodrigo Roa <font color=red>Duterte</font> left Brunei for China Tuesday after wrapping up his first state visit to the sultanate.
+During his threeday state visit to Brunei, both countries reaffirmed commitment in bolstering economic cooperation with each other....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/18/c_135763643.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/18/c_135763475.htm" target="_blank">Philippine Supreme Courts announces new date to decide on Ma...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-18 16:40</span><br />
+					... 7, however, the high court again extended the status quo order to Oct. 18.
+A status quo order may be issued by a court to prevent any of the parties involved in a dispute from taking any action until the matter can be resolved.
+President Rodrigo <font color=red>Duterte</font>, a close friend of the Marcoses, has allowed the transfer of Marcos body from his home province of Ilocos Norte to the heroes' cemetery in Manila, drawing both criticisms and support from Filipinos....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/18/c_135763475.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/16/c_135758520.htm" target="_blank">Duterte starts state visit to Brunei</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-16 23:51</span><br />
+					 Oct. 16 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> touched down in Brunei Sunday evening for his first state visit to the sultanate.
+Duterte was welcomed by Brunei's Minister of Home Affairs Hj Awang Abu Bakar,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/16/c_135758520.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/16/c_135758285.htm" target="_blank">Duterte: the Philippines to enforce smoking ban </a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-16 19:47</span><br />
+					 the Philippines to enforce smoking ban 
+MANILA, Oct. 16 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> said Sunday a nationwide smoking ban will be implemented.
+Duterte said he will sign the executive order prepared by the Department of Health (DOH) on the matter.
+"Yes,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/16/c_135758285.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/14/c_135754940.htm" target="_blank">China willing to cooperate in drug control with Philippines:...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-14 19:42</span><br />
+					 FM
+BEIJING, Oct. 14 (Xinhua)  China supports Philippine President Rodrigo <font color=red>Duterte</font>'s campaign against drugs and is willing to strengthen cooperation with the Philippines in this area, a spokesperson said Friday.
+Calling narcotics "an enemy of mankind,"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/14/c_135754940.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/14/c_135754641.htm" target="_blank">Philippine President issues order for adoption of 25-year de...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-14 16:41</span><br />
+					 Oct. 14 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> has approved and adopted a 25year long term vision to guide the development planning for the country.
+The National Economic and Development Authority released Friday a copy of Executive Order No. 05, which contains the Ambisyon Nation (...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/14/c_135754641.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/13/c_135752179.htm" target="_blank">Philippines joins other nations in mourning the death of Tha...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-13 23:19</span><br />
+					... Oct. 13 (Xinhua)  The Philippine government on Thursday extended condolences to the Thais and the family of King Bhumibol Adulyadej, who passed away after years of illness.
+"On behalf of President Rodrigo <font color=red>Duterte</font> and the Filipino people, we join the rest of the Association of Southeast Asian Nations (ASEAN) in mourning the passing of Thai King Bhumibol Adulyadej," said Presidential Spokesperson Ernesto Abella....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/13/c_135752179.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/12/c_135748890.htm" target="_blank">Major news items in leading German newspapers</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-12 18:33</span><br />
+					...
+
+ After batteries and replacement devices repeatedly caught on
+fire, Samsung decided on Tuesday to take its smartphone Galaxy Note
+7 recently presented in August completely from the market.
+
+Die Welt:
+
+ Philippine President Rodrigo <font color=red>Duterte</font> now wants to take action
+against smoking besides his fight against illegal drug
+consumption.
+
+Frankfurter Allgemeine Zeitung:...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/12/c_135748890.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/12/c_135748876.htm" target="_blank">Duterte: Don't prepare for any joint war games with U.S. nex...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-12 18:28</span><br />
+					 Don't prepare for any joint war games with U.S. next year
+MANILA, Oct 12 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> said on Wednesday that he has instructed his defense secretary, Delfin Lorenzana, not to make preparations for any joint war games with the U.S. next year.
+"I do not want it anymore,"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/12/c_135748876.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/12/c_135748516.htm" target="_blank">Philippines invites UN rapporteur to probe drug-related kill...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-12 15:46</span><br />
+					...
+News reports said more than 3,000 suspects had been killed, some extrajudicially, in the fight against drugs since President Rodrigo <font color=red>Duterte</font> took the presidency on June 30.
+Duterte said there are at least 4 million Filipinos who are into drugs. He warned that if not eradicated, the Philippines will continue to be governed by narcopoliticians....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/12/c_135748516.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/12/c_135748474.htm" target="_blank">Philippine president to visit China</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-12 15:17</span><br />
+					 Oct. 12 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> will pay a state visit to China from Oct. 18 to 21, at the invitation of his Chinese counterpart Xi Jinping.
+Foreign Ministry spokesperson Lu Kang made the announcement here on Wednesday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/12/c_135748474.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/12/c_135748447.htm" target="_blank">Philippine president to visit Japan on October 25 to 27</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-12 15:02</span><br />
+					Philippine president to visit Japan on October 25 to 27
+MANILA, Oct. 12 (Xinhua)  Philippine President will undertake an official visit to Japan later this month upon the invitation of Japanese Prime Minister Shinzo Abe,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/12/c_135748447.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/11/c_135746319.htm" target="_blank">Philippines' <font color=red>Duterte</font> questions relevance of military allianc...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-11 19:29</span><br />
+					 <font color=red>Duterte</font> questions relevance of military alliances
+MANILA, Oct. 11 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> on Tuesday wondered aloud whether military alliances are still relevant in this day and age,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/11/c_135746319.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-10/11/c_135746163.htm" target="_blank">Philiippines' <font color=red>Duterte</font> hails China for helping war on illicit...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-10-11 17:18</span><br />
+					 <font color=red>Duterte</font> hails China for helping war on illicit drugs
+
+MANILA, Oct. 11 (Xinhua)  Philippine President Rodrigo Duterte
+hailed China on Tuesday for helping his administration'...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-10/11/c_135746163.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+	
+	<div id="middle-c" class="style5" align="left">
+			<u><a href="search.jspa?page=2&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1"><< </a></u>
+		
+		
+				<a href="search.jspa?page=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[1]</a>
+				<a href="search.jspa?page=2&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[2]</a>
+				3
+				<a href="search.jspa?page=4&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[4]</a>
+				<a href="search.jspa?page=5&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[5]</a>
+				<a href="search.jspa?page=6&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[6]</a>
+				<a href="search.jspa?page=7&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[7]</a>
+				<a href="search.jspa?page=8&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[8]</a>
+				<a href="search.jspa?page=9&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[9]</a>
+				<a href="search.jspa?page=10&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[10]</a>
+		
+			<u><a href="search.jspa?page=4&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">>> </a></u>
+	</div>
+	
+	<div id="middle-c" align="center">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+	</div>
+</div>
+
+
+<div id="righter">
+<br>
+<iframe src="pic.jspa?id=en&n1=duterte" height="1300" width="260" scrolling="no" name="mainFrame" frameborder="0"></iframe>
+</div>
+
+
+	<div class="clear"></div>
+	<div id="bottom1" class="style2a" style="text-align:center">
+		Copyright &copy; 2000 - 2008 <font color="red">XINHUANET</font>.com　All Rights Reserved. 　Powered by Xinhuanet<br>
+		<a href="http://www.xinhuanet.com/copyright.htm"  target="_blank"><font color="blue">All rights reserved</font></a> <a href="http://www.xinhuanet.com" target="_blank">Xinhuanet</a>
+	</div>
+<div style="display:none"><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010069120000000000000000012200000000000000")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010069120000000000000000012200000000000000" border="0" /></noscript></div>
+</body>
+</html>
+
+

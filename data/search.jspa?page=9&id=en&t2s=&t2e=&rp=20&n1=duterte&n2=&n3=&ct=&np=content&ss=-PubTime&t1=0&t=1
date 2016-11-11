@@ -1,0 +1,487 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Xinhuanet Search</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/buju_xinhuanet.css" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/neirong_xinhuanet.css" />
+	<script>
+		function setbtn(){
+			var btn = document.getElementById("btn");
+			btn.value = "1";
+		}
+	</script>
+</head>
+<body style="font-family:Times New Roman">
+<div id="header">
+	<div id="left">
+		<div id="logo1" align="center"><img src="/language/images/logo.gif" /></div>
+	</div>
+	<div id="right">
+		<div id="topmenu">
+			<div id="menu1"><a href="search.jspa?id=en&t=1&n1=duterte&np=content&t1=0">News</a></div>
+  			<div id="menu2"><a href="picSearch.jspa?id=en&t=1&n1=duterte&np=content&t1=0">Photos</a></div>
+  			<div id="menu3"><a href="http://www.chinaview.cn" target=_blank>Xinhuanet Homepage</a> </div>
+		</div>
+		<div id="topsearch" align="left">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	<div id="newsmenu" align="right">
+	   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tr>
+		    <td height="26" align="left" class="style1">
+		    			<a href="search.jspa?ss=RELEVANCE&t=1&t1=0&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Sort by Relevance</a>
+		    		|
+		    			<span class="style5">
+							Sort by Date
+						</span>
+		    </td>
+		    <td height="26" align="center" class="style1">
+		    		<a href="search.jspa?t1=1&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one hour</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=24&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one day</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=168&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one week</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=720&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one month</a>
+			</td>
+		    <td height="26" align="right" class="style1">
+				401&nbsp;results found ,10.159&nbsp;seconds
+			</td>
+		  </tr>
+		</table>
+	</div>
+</div>
+
+
+
+<div id="lefter">
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/22/c_135624733.htm" target="_blank">Philippine gov't seizes 200 mln dollars worth of smuggled go...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-22 18:02</span><br />
+					... Aug. 22 (Xinhua)  The Philippine government has confiscated 9.3 billion pesos (200 million U.S. dollars) worth of contraband since the new administration of President Rodrigo <font color=red>Duterte</font> took office over a month ago, a senior government official said Monday.
+Customs Commissioner Nicanor Faeldon said the confiscated items ranged from drugs, red onions, sugars, and 10 highpowered firearms....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/22/c_135624733.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/22/c_135624675.htm" target="_blank">Philippine gov't, communist rebels resume peace talks in Osl...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-22 17:07</span><br />
+					...social and economic reforms, political and constitutional reforms, end of hostilities and disposition of forces, a ceasefire, joint security and immunity and the release of political detainees."
+The administration of Philippine President Rodrigo <font color=red>Duterte</font> is trying to forge peace with the communist rebels. Talks between the government and the rebels began in 1986, but failed to lead to a resolution over the years.
+Norway has facilitated the peace process since 2001....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/22/c_135624675.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/22/c_135624393.htm" target="_blank">Philippine police confirm nearly 1,800 deaths in war on drug...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-22 14:56</span><br />
+					... outside of police operations.
+The increasing number of killings in the administration's war against drugs has caught the attention of the United Nations and other international human rights groups.
+Philippine President Rodrigo <font color=red>Duterte</font> however is unfazed by the growing criticisms, repeatedly saying the fight against drugs will be relentless and will be sustained.
+"I am willing to answer all (my critics)....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/22/c_135624393.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/22/c_135624160.htm" target="_blank">Philippines not leaving UN, says foreign secretary</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-22 13:51</span><br />
+					... saying his country is committed to the organization despite its "frustrations."
+Yasay called a briefing to clarify the statement made by Philippine President Rodrigo <font color=red>Duterte</font> on Sunday that the Philippines will "separate" from the UN after the body criticized his war on illicit drugs.
+"We certainly are not leaving the UN," Yasay told a news conference at the Department of Foreign Affairs....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/22/c_135624160.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/22/c_135623288.htm" target="_blank">Communist rebels urge <font color=red>Duterte</font> to free more political prisone...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-22 09:09</span><br />
+					Communist rebels urge <font color=red>Duterte</font> to free more political prisoners
+MANILA, Aug. 22 (Xinhua)  The communist rebels have urged Philippine President Rodrigo <font color=red>Duterte</font> to free more prisoners as peace talks between the government and the rebels resume this week in Oslo,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/22/c_135623288.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/21/c_135621528.htm" target="_blank">Xinhua China-related world news summary at 0900 GMT, Aug. 21</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-21 16:50</span><br />
+					..." the
+post80s writer, who graduated from Qinghua University's Department
+of Physics in 2006, said at the 2016 Hugo Awards Ceremony held in
+Kansas City Convention Center. (USHugo AwardChinese)
+
+   
+
+MANILA  Philippine President Rodrigo <font color=red>Duterte</font> thanked China on
+Sunday for offering help in his administration's campaign against
+drugs.
+
+At a news conference in Davao City early Sunday, <font color=red>Duterte</font> said
+that "there are countries offering to help," but China was "...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/21/c_135621528.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/21/c_135620681.htm" target="_blank">Philippine president appreciates China's help in his country...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-21 12:19</span><br />
+					s help in his country's fight against drugs
+MANILA, Aug. 21 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> thanked China on Sunday for offering help in his administration's campaign against drugs.
+At a news conference in Davao City early Sunday, <font color=red>Duterte</font> said that "there are countries offering to help," but China was "...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/21/c_135620681.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/20/c_135618405.htm" target="_blank">Duterte's spokesman says UN, int'l bodies not welcome to pro...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-20 19:14</span><br />
+					s spokesman says UN, int'l bodies not welcome to probe killings
+MANILA, Aug. 20 (Xinhua)  The spokesman of Philippine President Rodrigo <font color=red>Duterte</font> said on Saturday that international representatives are not welcome to probe the alleged spate of drugrelated extrajudicial killings in the country.
+Reacting to a tweet by UN special rapporteur on summary executions Agnes Callamard,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/20/c_135618405.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/20/c_135618337.htm" target="_blank">Duterte resumes ceasefire ahead of peace talks with communis...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-20 17:03</span><br />
+					... said
+Presidential Peace Adviser Jesus Dureza.
+
+The peace talks are scheduled for Aug. 22 in Oslo, Norway.
+
+President <font color=red>Duterte</font> has "restored the effects of the unilateral
+ceasefire with the Communist Party of the Philippines and the
+National Democratic Front effective 12 midnight tonight, Aug. 21,"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/20/c_135618337.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/20/c_135618287.htm" target="_blank">Urgent: <font color=red>Duterte</font> declares ceasefire to reciprocate rebel truc...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-20 16:23</span><br />
+					 <font color=red>Duterte</font> declares ceasefire to reciprocate rebel truce
+MANILA, Aug. 20 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> declared on Saturday a ceasefire to pave the way for the peace talks with communist rebels in Oslo, Norway next week,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/20/c_135618287.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/20/c_135618115.htm" target="_blank">Philippine president mulls ceasefire to reciprocate rebel tr...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-20 13:57</span><br />
+					 Aug. 20 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> is expected to declare a ceasefire on Saturday to reciprocate a weeklong truce that the communist rebels announced, presidential communication secretary Martin Andanar said.
+Andanar told ABSCBN News Channel in an interview that <font color=red>Duterte</font> has "...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/20/c_135618115.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/18/c_135611061.htm" target="_blank">Philippine GDP grows 7 percent in Q2</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-18 13:43</span><br />
+					... making the Philippines the fastest growing economy in the region.
+Pernia told a news conference in Davao City the growth is "an upbeat start" for the new administration of Philippine President Rodrigo <font color=red>Duterte</font>, saying investments had the highest contribution to the growth followed by industry.
+"The growth is within market expectations, given average consensus forecast of 6.1 to 7.2 percent for the second quarter,"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/18/c_135611061.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/17/c_135608313.htm" target="_blank">Pilippine president opens for UN probe on extrajudicial kill...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-17 19:17</span><br />
+					 Aug. 17 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> said Wednesday that his administration is open to be investigated by any group, including the United Nations, on the alleged extrajudicial killings involving drug suspects.
+Duterte, in a speech before policemen, vowed that the government'...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/17/c_135608313.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/17/c_135608124.htm" target="_blank">Philippine president implicates female senator in illegal dr...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-17 17:57</span><br />
+					... accusing
+the unnamed senator of using drug money to finance her campaign
+during the May elections.
+
+In a speech before policemen at the main headquarters of the
+Philippine National Police in Quezon City, <font color=red>Duterte</font> also accused the
+woman senator, whom he did not name, of adultery.
+
+"Here's a senator complaining. One day I will tell you that her
+driver himself, who was her lover, was the one collecting money for
+her during the campaign," <font color=red>Duterte</font> said....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/17/c_135608124.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/16/c_135603204.htm" target="_blank">Philippine president assures travel of leftist rebel consult...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-16 13:28</span><br />
+					 Aug. 16 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> has ordered concerned government agencies to facilitate the travel of leftist rebel consultants who will participate in the formal resumption of talks later this month, a government peace panel official said Tuesday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/16/c_135603204.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/15/c_135600753.htm" target="_blank">Philippine gov't to bury Marcos at heroes' cemetery despite ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-15 23:08</span><br />
+					... supposedly signed
+between the Philippine government and the family of former
+President Ferdinand Marcos about the location of his burial, does
+not bind President Rodrigo <font color=red>Duterte</font> who has the discretion and
+authority to amend or modify certain arrangements made before
+him.
+
+Salvador Panelo, Chief Presidential Legal Counsel,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/15/c_135600753.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/15/c_135600672.htm" target="_blank">Philippine president vows to be doubly harsh on corrupt offi...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-15 22:03</span><br />
+					 Aug. 15 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> vowed on Monday to be doubly harsh on corrupt government officials and criminals in the coming days, saying he is fed up with reports that some government offices continue to be riddled with corruption.
+"I would be very, maybe harsh,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/15/c_135600672.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/15/c_135600570.htm" target="_blank">Philippine martial law victims ask high court to stop Marcos...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-15 20:47</span><br />
+					..."
+The filing of the petition came a day after at least 1,000 martial law victims and antiMarcos activists held a protest rally to stress that Marcos is not a hero and to denounce President Rodrigo <font color=red>Duterte</font>'s decision to bury Marcos in the heroes' cemetery.
+Duterte, a friend of the Marcoses, has allowed the burial of Marcos in the heroes' cemetery, stirring up an old debate on whether or not Marcos deserves the honor.
+Marcos,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/15/c_135600570.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/14/c_135596606.htm" target="_blank">Philippine crime volume down by 9.8 pct in July as drug susp...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-14 19:15</span><br />
+					8 pct in July as drug suspects killed reach almost 600
+MANILA, Aug. 14 (Xinhua)  The Philippine crime volume fell by 9.8 percent yearonyear in July, one month after President Rodrigo <font color=red>Duterte</font> assumed office, as the latest number of the drug suspects who were killed hit 592, a senior government official said Sunday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/14/c_135596606.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/13/c_135594196.htm" target="_blank">Philippines ignores U.S. concern over <font color=red>Duterte</font>'s derogatory r...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-13 22:50</span><br />
+					S. concern over <font color=red>Duterte</font>'s derogatory remarks on ambassador
+MANILA, Aug. 13 (Xinhua)  The Philippine Department of Foreign Affairs issued a statement on Saturday to address two concerns raised by the U.S. embassy in Manila earlier, but ignored the embassy'...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/13/c_135594196.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+	
+	<div id="middle-c" class="style5" align="left">
+			<u><a href="search.jspa?page=8&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1"><< </a></u>
+		
+		
+				<a href="search.jspa?page=4&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[4]</a>
+				<a href="search.jspa?page=5&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[5]</a>
+				<a href="search.jspa?page=6&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[6]</a>
+				<a href="search.jspa?page=7&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[7]</a>
+				<a href="search.jspa?page=8&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[8]</a>
+				9
+				<a href="search.jspa?page=10&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[10]</a>
+				<a href="search.jspa?page=11&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[11]</a>
+				<a href="search.jspa?page=12&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[12]</a>
+				<a href="search.jspa?page=13&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[13]</a>
+		
+			<u><a href="search.jspa?page=10&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">>> </a></u>
+	</div>
+	
+	<div id="middle-c" align="center">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+	</div>
+</div>
+
+
+<div id="righter">
+<br>
+<iframe src="pic.jspa?id=en&n1=duterte" height="1300" width="260" scrolling="no" name="mainFrame" frameborder="0"></iframe>
+</div>
+
+
+	<div class="clear"></div>
+	<div id="bottom1" class="style2a" style="text-align:center">
+		Copyright &copy; 2000 - 2008 <font color="red">XINHUANET</font>.com　All Rights Reserved. 　Powered by Xinhuanet<br>
+		<a href="http://www.xinhuanet.com/copyright.htm"  target="_blank"><font color="blue">All rights reserved</font></a> <a href="http://www.xinhuanet.com" target="_blank">Xinhuanet</a>
+	</div>
+<div style="display:none"><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010069120000000000000000012200000000000000")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010069120000000000000000012200000000000000" border="0" /></noscript></div>
+</body>
+</html>
+
+

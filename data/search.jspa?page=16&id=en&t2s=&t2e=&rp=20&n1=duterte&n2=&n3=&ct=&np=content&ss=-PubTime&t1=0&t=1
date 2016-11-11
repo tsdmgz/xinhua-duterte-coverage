@@ -1,0 +1,490 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Xinhuanet Search</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/buju_xinhuanet.css" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/neirong_xinhuanet.css" />
+	<script>
+		function setbtn(){
+			var btn = document.getElementById("btn");
+			btn.value = "1";
+		}
+	</script>
+</head>
+<body style="font-family:Times New Roman">
+<div id="header">
+	<div id="left">
+		<div id="logo1" align="center"><img src="/language/images/logo.gif" /></div>
+	</div>
+	<div id="right">
+		<div id="topmenu">
+			<div id="menu1"><a href="search.jspa?id=en&t=1&n1=duterte&np=content&t1=0">News</a></div>
+  			<div id="menu2"><a href="picSearch.jspa?id=en&t=1&n1=duterte&np=content&t1=0">Photos</a></div>
+  			<div id="menu3"><a href="http://www.chinaview.cn" target=_blank>Xinhuanet Homepage</a> </div>
+		</div>
+		<div id="topsearch" align="left">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	<div id="newsmenu" align="right">
+	   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tr>
+		    <td height="26" align="left" class="style1">
+		    			<a href="search.jspa?ss=RELEVANCE&t=1&t1=0&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Sort by Relevance</a>
+		    		|
+		    			<span class="style5">
+							Sort by Date
+						</span>
+		    </td>
+		    <td height="26" align="center" class="style1">
+		    		<a href="search.jspa?t1=1&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one hour</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=24&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one day</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=168&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one week</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=720&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one month</a>
+			</td>
+		    <td height="26" align="right" class="style1">
+				401&nbsp;results found ,5.979&nbsp;seconds
+			</td>
+		  </tr>
+		</table>
+	</div>
+</div>
+
+
+
+<div id="lefter">
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/30/c_135478706.htm" target="_blank">President Xi congratulates new Philippines president</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-30 16:27</span><br />
+					 June 30 (Xinhua)  Chinese President Xi Jinping has congratulated Rodrigo <font color=red>Duterte</font> on his inauguration as president of the Philippines.
+Xi sent a message to <font color=red>Duterte</font> through diplomatic channels, Foreign Ministry spokesperson Hong Lei said at Thursday's daily press conference....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/30/c_135478706.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/30/c_135478201.htm" target="_blank">Profile of 16th Philippine President Rodrigo Duterte</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-30 14:01</span><br />
+					 June 30 (Xinhua)  Rodrigo Roa <font color=red>Duterte</font> took his oath of office as the 16th President of the Philippines in Malacanang, the presidential palace in Manila on Thursday.
+The former Davao City Mayor won the Philippine presidential election held on May 9, with 16,601,997 votes,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/30/c_135478201.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/30/c_135478075.htm" target="_blank">Commentary: All eyes on new Philippine president for repairi...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-30 12:50</span><br />
+					 All eyes on new Philippine president for repairing China ties
+by Xinhua Writer Sun Ding
+BEIJING, June 30 (Xinhua)  As Rodrigo <font color=red>Duterte</font> takes over as Philippine president on Thursday, sparks of hope have arisen for a rapprochement between his country and China after relations soured during his predecessor's tenure....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/30/c_135478075.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/30/c_135478044.htm" target="_blank">Spotlight: Philippines' new president <font color=red>Duterte</font> expected to be...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-30 12:40</span><br />
+					 Philippines' new president <font color=red>Duterte</font> expected to be pragmatic in China approach
+MANILA, June 30 (Xinhua)  New Philippine President Rodrigo <font color=red>Duterte</font> is expected to take a pragmatic approach to the South China Sea disputes with China, analysts here have said,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/30/c_135478044.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/30/c_135478024.htm" target="_blank">Philippines' new vice president assumes office</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-30 12:20</span><br />
+					...
+In her inaugural speech, she called for unity and promised to bring prosperity to the Filipinos, especially the poor.
+Hours after her inauguration, the country's new president Rodrigo <font color=red>Duterte</font> assumed office as the Philippines' 16th president at the presidential palace Malacanang.
+Robredo defeated five other vice presidential bets in the May election, who ran under a different party from <font color=red>Duterte</font>  
+Related:
+Spotlight: Philippines'...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/30/c_135478024.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/30/c_135478023.htm" target="_blank">Rodrigo <font color=red>Duterte</font> sworn in as new Philippine president</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-30 12:20</span><br />
+					Rodrigo <font color=red>Duterte</font> sworn in as new Philippine president
+MANILA, June 30 (Xinhua)  Rodrigo <font color=red>Duterte</font> was sworn in as the 16th president of the Philippines on Thursday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/30/c_135478023.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/30/c_135478010.htm" target="_blank">FLASH: RODRIGO <font color=red>DUTERTE</font> SWORN IN AS 16TH PHILIPPINE PRESIDENT</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-30 12:03</span><br />
+					 RODRIGO <font color=red>DUTERTE</font> SWORN IN AS 16TH PHILIPPINE PRESIDENT
+
+FLASH:...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/30/c_135478010.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/29/c_135476137.htm" target="_blank">Philippines posts budget surplus of 1.17 bln USD in April</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-29 20:21</span><br />
+					... on both the revenue and expenditure sides of the Philippines' balance shit.
+"I am highly confident that the next administration's economic team has what it takes to improve and build on our gains moving forward," he said.
+Presidentelect Rodrigo R. <font color=red>Duterte</font> is to assume his post on Thursday, replacing Benigno S. Aquino III who ends his sixyear term....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/29/c_135476137.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/29/c_135475142.htm" target="_blank">Spotlight: Philippines' incoming president promises to crush...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-29 12:13</span><br />
+					 Philippines' incoming president promises to crush criminality, corruption, poverty
+MANILA, June 29 (Xinhua)  Rodrigo <font color=red>Duterte</font> will take his oath of office on Thursday as the Philippines' 16th president.
+On the campaign trail, the toughtalking former mayor from southern Philippines' Davao City has promised to "kill"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/29/c_135475142.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/28/c_135472222.htm" target="_blank">Incoming <font color=red>Duterte</font> administration mulls using cable cars to ea...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-28 12:18</span><br />
+					Incoming <font color=red>Duterte</font> administration mulls using cable cars to ease Metro traffic
+MANILA, June 28 (Xinhua)  The administration of the Presidentelect Rodrigo <font color=red>Duterte</font> is mulling to use cable cars to ease the crippling traffic in Metro Manila, his aide said Tuesday....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/28/c_135472222.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/27/c_135470219.htm" target="_blank">Incoming Philippine president vows for three-child policy</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-27 19:11</span><br />
+					 June 27 (Xinhua)  Philippine Presidentelect Rodrigo <font color=red>Duterte</font> said Monday that he would push for a threechild policy to address the ballooning population.
+Duterte, in a speech during his attendance in his last flagraising ceremony as mayor of Davao City,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/27/c_135470219.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/24/c_135463246.htm" target="_blank">Philippine military shifts weapons tack to internal security...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-24 13:19</span><br />
+					... who said the weapons would be useful in dealing with the country's ongoing campaign against the Abu Sayyaf Group and New People's Army Threats.
+Visaya said the incoming president Rodrigo <font color=red>Duterte</font> wants to change the country's public security situation and make the whole country as safe as southern city of Davao, where he has been the mayor for most of the past two decades....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/24/c_135463246.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/24/c_135463086.htm" target="_blank">South China Sea disputes should be resolved through bilatera...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-24 11:59</span><br />
+					...UNCLOS) and has made it clear
+it will not accept or get involved in those proceedings.
+
+Beijing insists that the Philippines must abandon its
+arbitration requests and return to bilateral negotiation.
+
+The Philippines' Presidentelect Rodrigo <font color=red>Duterte</font> has said he
+wishes to cultivate friendly relations with China and that he is
+open to direct talks concerning the South China Sea disputes....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/24/c_135463086.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/22/c_135457842.htm" target="_blank">China willing to work with new Philippine government to prom...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-22 19:25</span><br />
+					... June 22 (Xinhua)  A Foreign Ministry spokesperson on
+Wednesday said China was willing to work with the new Philippine
+government to bring bilateral ties back on a sound track of
+development.
+
+In his speech Tuesday, presidentelect Rodrigo <font color=red>Duterte</font> mentioned
+the benefits of nurturing friendly relations with Beijing.
+
+China sticks by pursuing friendship and partnership with its
+neighbors, including the Philippines, spokesperson Hua Chunying
+told a daily news briefing....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/22/c_135457842.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/22/c_135457772.htm" target="_blank">China Voice: Who's really militarizing South China Sea?</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-22 18:45</span><br />
+					... fighter jets and troops are
+about?
+
+To the United States, these moves might look like "peace, law
+and justice," but to everyone else they appear to be exactly what
+they are: militarization.
+
+Even the Philippines smells a rat. On Tuesday, Rodrigo <font color=red>Duterte</font>,
+the Philippines' presidentelect, said that he had asked the U.S.
+ambassador whether Washington would support the Philippines in a
+confrontation with China.
+
+"Are you with us or are you not with us?" asked <font color=red>Duterte</font>,
+
+"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/22/c_135457772.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/21/c_135454910.htm" target="_blank">Duterte vows to implement recommendations of business sector...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-21 20:57</span><br />
+					 June 21 (Xinhua)  Incoming Philippine Presidentelect Rodrigo <font color=red>Duterte</font> vowed to implement the recommendations of the business community on how to make the economy more competitive during his sixyear term of office which starts on June 30.
+"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/21/c_135454910.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/20/c_135451630.htm" target="_blank">Spotlight: Philippine incoming administration to focus on ru...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-20 19:22</span><br />
+					 Philippine incoming administration to focus on rural development
+MANILA, June 20 (Xinhua)  The incoming administration of Philippine Presidentelect Rodrigo <font color=red>Duterte</font> will prioritize the development of the impoverished rural areas, his economic aides said Monday.
+Duterte'...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/20/c_135451630.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/16/c_135441243.htm" target="_blank">Philippines' incoming gov't, Left agree to resume formal pea...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-16 09:24</span><br />
+					 incoming gov't, Left agree to resume formal peace talks in July
+MANILA, June 16 (Xinhua)  The incoming Philippine government of Presidentelect Rodrigo <font color=red>Duterte</font> and the country's leftist movement have agreed to hold formal peace talks in next month in Norway, a joint statement said Thursday.
+Negotiators for the Philippine government and leftist National Democratic Front (NDF)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/16/c_135441243.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/13/c_135433495.htm" target="_blank">Interview: China-Philippines S. China Sea dispute needs bila...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-13 20:49</span><br />
+					..." said Hua.
+
+The incoming president of the Philippines, Rodrigo <font color=red>Duterte</font>, has
+said he wants to promote friendly ties with China and that he is
+open to direct talks on the South China Sea dispute....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/13/c_135433495.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-06/13/c_135433302.htm" target="_blank">Spotlight: Philippine experts urge president-elect <font color=red>Duterte</font> t...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-06-13 19:18</span><br />
+					 Philippine experts urge presidentelect <font color=red>Duterte</font> to hold direct talks with China, scrap EDCA
+MANILA, June 13 (Xinhua)  Philippine experts on Monday urged incoming president Rodrigo <font color=red>Duterte</font> to proceed with direct talks with China on the South China Sea immediately,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-06/13/c_135433302.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+	
+	<div id="middle-c" class="style5" align="left">
+			<u><a href="search.jspa?page=15&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1"><< </a></u>
+		
+		
+				<a href="search.jspa?page=11&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[11]</a>
+				<a href="search.jspa?page=12&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[12]</a>
+				<a href="search.jspa?page=13&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[13]</a>
+				<a href="search.jspa?page=14&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[14]</a>
+				<a href="search.jspa?page=15&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[15]</a>
+				16
+				<a href="search.jspa?page=17&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[17]</a>
+				<a href="search.jspa?page=18&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[18]</a>
+				<a href="search.jspa?page=19&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[19]</a>
+				<a href="search.jspa?page=20&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[20]</a>
+				<a href="search.jspa?page=21&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[21]</a>
+		
+			<u><a href="search.jspa?page=17&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">>> </a></u>
+	</div>
+	
+	<div id="middle-c" align="center">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+	</div>
+</div>
+
+
+<div id="righter">
+<br>
+<iframe src="pic.jspa?id=en&n1=duterte" height="1300" width="260" scrolling="no" name="mainFrame" frameborder="0"></iframe>
+</div>
+
+
+	<div class="clear"></div>
+	<div id="bottom1" class="style2a" style="text-align:center">
+		Copyright &copy; 2000 - 2008 <font color="red">XINHUANET</font>.com　All Rights Reserved. 　Powered by Xinhuanet<br>
+		<a href="http://www.xinhuanet.com/copyright.htm"  target="_blank"><font color="blue">All rights reserved</font></a> <a href="http://www.xinhuanet.com" target="_blank">Xinhuanet</a>
+	</div>
+<div style="display:none"><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010069120000000000000000012200000000000000")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010069120000000000000000012200000000000000" border="0" /></noscript></div>
+</body>
+</html>
+
+

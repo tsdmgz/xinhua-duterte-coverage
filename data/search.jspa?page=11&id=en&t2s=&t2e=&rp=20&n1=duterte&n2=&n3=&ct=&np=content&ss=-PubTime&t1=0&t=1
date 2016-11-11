@@ -1,0 +1,465 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Xinhuanet Search</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/buju_xinhuanet.css" />
+	<link rel="stylesheet" type="text/css" 
+		href="css/neirong_xinhuanet.css" />
+	<script>
+		function setbtn(){
+			var btn = document.getElementById("btn");
+			btn.value = "1";
+		}
+	</script>
+</head>
+<body style="font-family:Times New Roman">
+<div id="header">
+	<div id="left">
+		<div id="logo1" align="center"><img src="/language/images/logo.gif" /></div>
+	</div>
+	<div id="right">
+		<div id="topmenu">
+			<div id="menu1"><a href="search.jspa?id=en&t=1&n1=duterte&np=content&t1=0">News</a></div>
+  			<div id="menu2"><a href="picSearch.jspa?id=en&t=1&n1=duterte&np=content&t1=0">Photos</a></div>
+  			<div id="menu3"><a href="http://www.chinaview.cn" target=_blank>Xinhuanet Homepage</a> </div>
+		</div>
+		<div id="topsearch" align="left">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	<div id="newsmenu" align="right">
+	   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tr>
+		    <td height="26" align="left" class="style1">
+		    			<a href="search.jspa?ss=RELEVANCE&t=1&t1=0&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Sort by Relevance</a>
+		    		|
+		    			<span class="style5">
+							Sort by Date
+						</span>
+		    </td>
+		    <td height="26" align="center" class="style1">
+		    		<a href="search.jspa?t1=1&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one hour</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=24&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one day</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=168&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one week</a>
+		    	  |  
+		    	
+		    		<a href="search.jspa?t1=720&ss=-PubTime&t=1&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content">Within one month</a>
+			</td>
+		    <td height="26" align="right" class="style1">
+				401&nbsp;results found ,6.822&nbsp;seconds
+			</td>
+		  </tr>
+		</table>
+	</div>
+</div>
+
+
+
+<div id="lefter">
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/05/c_135567449.htm" target="_blank">Philippine central bank imposes record 1-bln-preso fine on P...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-05 20:53</span><br />
+					... The government has managed to trace most of the 81 million U.S. dollars but at least 17 million U.S. dollars is still unaccounted for, prompting the Bangladesh to seek the help of President Rodrigo <font color=red>Duterte</font>.
+Bangladeshi Ambassador to the Philippines John Gomes told a news briefing on Friday that a team from Bangladesh will visit Manila to look into and recover the laundered money.
+"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/05/c_135567449.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/05/c_135567296.htm" target="_blank">Japan FM to visit Philippines for security talks next week</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-05 19:03</span><br />
+					... Aug. 5 (Xinhua)  Japanese Foreign Minister Fumio Kishida said Friday that he will visit the Philippines from Aug. 10 to discuss security issues.
+Kishida said at a press conference that he will meet Philippines President Rodrigo <font color=red>Duterte</font> and Philippines Foreign Minister Perfecto Yasay during the threeday visit.
+"It is important to communicate with the new Philippines government. I would like to firmly confirm friendly ties," Kishida was quoted as saying....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/05/c_135567296.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/04/c_135564704.htm" target="_blank">Philippine illegal drugs haul in first month of <font color=red>Duterte</font> gov'...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-04 22:22</span><br />
+					Philippine illegal drugs haul in first month of <font color=red>Duterte</font> gov't amounts to 2.6 bln pesos
+MANILA, Aug. 4 (Xinhua)  The Philippine government has significantly increased its illegal drugs' seizure, which amounted to 2.594 billion pesos (55 million U.S. dollars)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/04/c_135564704.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/01/c_135555859.htm" target="_blank">Indonesia, Philippines to hold high level meeting to discuss...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-01 22:03</span><br />
+					 Philippines to hold high level meeting to discuss hostage release: minister
+JAKARTA, Aug.1 (Xinhua)  Senior Indonesian officials were scheduled to meet Philippine President Rodrigo <font color=red>Duterte</font> in the near future to discuss ways in releasing Indonesian hostages in the Philippines, a senior Indonesian minister said on Monday.
+Indonesia's newlyappointed Coordinating Minister for Security,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/01/c_135555859.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/01/c_135555466.htm" target="_blank">Philippine emergency hotlines get swamped with prank calls</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-01 17:41</span><br />
+					...to refrain from making prank calls or test calls" to the emergency hotlines, saying this will "clog up the lines and prevent the people with real emergencies to reach us."
+The hotlines were in line with President Rodrigo <font color=red>Duterte</font>'s campaign to stamp out crimes and corruption in government.
+De la Rosa said policemen are the first responders for now, saying the 45station strong call center can directly connect only to police units....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/01/c_135555466.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-08/01/c_135555282.htm" target="_blank">Philippine president voices hope peace talks with rebels to ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-08-01 16:26</span><br />
+					 Aug. 1 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> on Monday voiced hope that the peace talks with communist rebels will continue, stressing the need to usher in peace in the country.
+"I hope that we can proceed with the talks with the Communist Party of the Philippines (CPP),"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-08/01/c_135555282.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/31/c_135553125.htm" target="_blank">Philippine Communist rebels says willing to declare truce wi...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-31 19:57</span><br />
+					t 
+MANILA, July 31 (Xinhua)  The Communist Party of the Philippines (CPP) on Sunday said it is open to declaring a unilateral truce with the administration of President <font color=red>Duterte</font> who lifted a government ceasefire with the communists on Saturday.
+In a statement, the CPP Central Committee said it was willing to declare the ceasefire in support of the peace negations with the government which is due to resume in Oslo,...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/31/c_135553125.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/31/c_135553094.htm" target="_blank">Duterte still determines to pursue talks with communist rebe...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-31 19:42</span><br />
+					 July 31 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> is still determined to pursue peace talks with the communist rebels despite the lifting of the unilateral ceasefire, Presidential Peace Adviser Jesus Dureza said on Sunday.
+"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/31/c_135553094.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/31/c_135553049.htm" target="_blank">Philippine military, police directed to be on high alert, ne...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-31 19:07</span><br />
+					... neutralize threats to national security
+MANILA, July 31 (Xinhua)  The Philippine military and police have ordered their respective troops to be on high alert and work to neutralize all threats to national security after President Rodrigo <font color=red>Duterte</font> lifted the unilateral declaration of ceasefire with the leftist rebels.
+Armed Forces of the Philippines chief of staff General Ricardo Visaya said Sunday the Communist Party of the PhilippinesNew People's ArmyNational Democratic Front (...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/31/c_135553049.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/30/c_135551812.htm" target="_blank">Xinhua world news summary at 1530 GMT, July 30</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-30 23:33</span><br />
+					 July 30
+
+MANILA  Philippine President Rodrigo <font color=red>Duterte</font> lifted Saturday
+night his unilateral declaration of ceasefire with the leftist
+rebels and ordered the security forces to be "on high alert."
+
+In a statement released at 7:00 p.m. local time, <font color=red>Duterte</font> said:
+"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/30/c_135551812.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/30/c_135551705.htm" target="_blank">Philippine president lifts unilateral truce with leftist reb...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-30 21:07</span><br />
+					 July 30 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> lifted Saturday night his unilateral declaration of ceasefire with the leftist rebels and ordered the security forces to be "on high alert."
+In a statement released at 7:00 p.m. local time, <font color=red>Duterte</font> said: "...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/30/c_135551705.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/30/c_135551644.htm" target="_blank">Philippine president lifts unilateral truce with rebels</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-30 20:02</span><br />
+					 July 30 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> lifted Saturday night his unilateral declaration of ceasefire with the leftist rebels and ordered the security forces to be "on high alert."
+In a statement released at 7:00 p.m. local time, <font color=red>Duterte</font> said, "...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/30/c_135551644.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/30/c_135551615.htm" target="_blank">Philippine president lifts unilateral truce with rebels</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-30 19:42</span><br />
+					 July 30 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> lifted Saturday night his unilateral declaration of ceasefire with the leftist rebels and ordered the security forces to be "on high alert."...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/30/c_135551615.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/29/c_135550382.htm" target="_blank">Philippine president issues ultimatum to leftist rebels for ...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-29 21:36</span><br />
+					 July 29 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> issued Friday an ultimatum to the leftist rebel group to reciprocate the government's own ceasefire.
+During a visit to the government troops in Davao del Norte, <font color=red>Duterte</font> said he would give the Communist Party of the PhilippinesNew People'...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/29/c_135550382.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/29/c_135550064.htm" target="_blank">6 Abu Sayyaf members killed, 11 soldiers injured in S Philip...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-29 19:00</span><br />
+					...
+"The military continues to conduct allout offensives targeting the Abu Sayyaf Group to neutralize the threat group in Basilan and Sulu," said Tan.
+Philippine President Rodrigo <font color=red>Duterte</font> ordered the military to crush the Abu Sayyaf Group and other lawless groups on Monday during his first State of the Nation Address.
+"...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/29/c_135550064.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/29/c_135549772.htm" target="_blank">17,000 people displaced in clashes in Philippines</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-29 16:09</span><br />
+					... he said.
+In April, he said the ICRC and the Department of Health Emergency Management Bureau had conducted Basic Life Support training for 168 health staff in Basilan and nearby Sulu provinces.
+Philippine President Rodrigo <font color=red>Duterte</font> has ordered an offensive against the Abu Staff operating mainly in the remote and impoverished regions of Basilan and Sulu.
+Duterte said Thursday that his administration has no plan of talking peace with Abu Sayyaf, branding them as "...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/29/c_135549772.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/29/c_135549291.htm" target="_blank">Spotlight: Manila's expenses for South China Sea arbitration...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-29 11:53</span><br />
+					... Full story
+Spotlight: Former Philippine officials urge gov't to talk with China bilaterally, ignore arbitral ruling
+by Wang Wen, Yang Tianmu MANILA, July 13 (Xinhua)  Former Philippine senior government officials Wednesday called on the <font color=red>Duterte</font> administration to start bilateral talks with China immediately while ignoring the award issued by an ad hoc arbitral tribunal on the South China Sea issue Tuesday.
+"The negotiation must start immediately....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/29/c_135549291.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/28/c_135547672.htm" target="_blank">Philippines to raise budget for full implementation of repro...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-28 22:59</span><br />
+					... Pernia said.
+Part of the plan is to have a massive information campaign about sexuality, especially among the youth, and the distribution of contraceptives, he said.
+President Rodrido <font color=red>Duterte</font> announced in his State of the Nation Address last Monday that his administration will fully implement the Reproductive Health Law despite continued opposition from the Catholic Church....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/28/c_135547672.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/28/c_135547465.htm" target="_blank">Philippine president threatens to withdraw unilateral ceasef...</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-28 21:08</span><br />
+					 July 28 (Xinhua)  Philippine President Rodrigo <font color=red>Duterte</font> on Thursday threatened to withdraw the unilateral ceasefire that he declared with the Communist Party of the PhilippinesNew People's ArmyNational Democratic Front (CPPNPANDF)...
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/28/c_135547465.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+				<div id="middle-c" align="left">
+					<span class="style1a"><a href="http://news.xinhuanet.com/english/2016-07/28/c_135547283.htm" target="_blank">Philippines to host Miss Universe pageant next year</a> </span><span class="style2a">
+								Xinhuanet
+							 2016-07-28 19:07</span><br />
+					... the vice president of Business Development and Marketing of the Miss Universe Organization, to finalize the plans.
+Earlier this month, reigning Miss Universe Pia Wurtzbach flew back to Manila to discuss with President Rodrigo <font color=red>Duterte</font> the plan to hold the pageant in the Philippines.
+The last time Manila hosted the pageant was in 1994....
+				</div>
+				<div id="middle2">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" class="style66">news.xinhuanet.com/english/2016-07/28/c_135547283.htm</td>
+							<td align="right" class="style6" ><span style="cursor:pointer" id="newsid_8656114"></span></td>
+						</tr>
+					</table>
+				</div>
+	
+	<div id="middle-c" class="style5" align="left">
+			<u><a href="search.jspa?page=10&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1"><< </a></u>
+		
+		
+				<a href="search.jspa?page=6&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[6]</a>
+				<a href="search.jspa?page=7&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[7]</a>
+				<a href="search.jspa?page=8&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[8]</a>
+				<a href="search.jspa?page=9&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[9]</a>
+				<a href="search.jspa?page=10&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[10]</a>
+				11
+				<a href="search.jspa?page=12&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[12]</a>
+				<a href="search.jspa?page=13&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[13]</a>
+				<a href="search.jspa?page=14&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[14]</a>
+				<a href="search.jspa?page=15&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">[15]</a>
+		
+			<u><a href="search.jspa?page=12&id=en&t2s=&t2e=&rp=20&n1=%64%75%74%65%72%74%65&n2=&n3=&ct=&np=content&ss=-PubTime&t1=0&t=1">>> </a></u>
+	</div>
+	
+	<div id="middle-c" align="center">
+	<form id="f2" name="f2" action="search.jspa" method="get">
+  	<input type="hidden" name="id" value="en" />
+  	<input type="hidden" name="t1" value="0" />
+  	<input type="hidden" name="t" value="1" />
+  	<input type="hidden" name="ss" value="" />
+  	<input type="hidden" name="btn" id="btn" value="0" />
+  	<input type="hidden" name="ct" value="duterte" />
+	<table width="630" border="0" cellspacing="0" cellpadding="0">
+		<tr><td width="300" height="30" align="left"><input type="text" class="username" name="n1" value="duterte" /></td>
+		<td width="60" height="30" align="center"><input type="submit" class="button" value="Search"/></td>
+		<td width="150" height="30" align="center"><input type="submit" class="button1" value="Search within results " onclick="setbtn();"/></td>
+		<td width="120" height="30" align="center" class="style1"><a href="advSearch.jspa?id=en">Advanced Search</a></td></tr>
+		
+		<tr><td width="300" height="26" align="left">
+				<label><input name="np" type="radio" value="content" checked="checked"/></label>within news articles 
+				<label><input name="np" type="radio" value="title"/></label>within headlines
+	  	</td>
+		<td width="60" height="26" align="left">&nbsp;</td>
+		<td width="150" height="26" align="left">&nbsp;</td>
+		<td width="120" height="26" align="left">&nbsp;</td></tr>
+	</table>
+	</form>
+	</div>
+</div>
+
+
+<div id="righter">
+<br>
+<iframe src="pic.jspa?id=en&n1=duterte" height="1300" width="260" scrolling="no" name="mainFrame" frameborder="0"></iframe>
+</div>
+
+
+	<div class="clear"></div>
+	<div id="bottom1" class="style2a" style="text-align:center">
+		Copyright &copy; 2000 - 2008 <font color="red">XINHUANET</font>.com　All Rights Reserved. 　Powered by Xinhuanet<br>
+		<a href="http://www.xinhuanet.com/copyright.htm"  target="_blank"><font color="blue">All rights reserved</font></a> <a href="http://www.xinhuanet.com" target="_blank">Xinhuanet</a>
+	</div>
+<div style="display:none"><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010069120000000000000000012200000000000000")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010069120000000000000000012200000000000000" border="0" /></noscript></div>
+</body>
+</html>
+
+
