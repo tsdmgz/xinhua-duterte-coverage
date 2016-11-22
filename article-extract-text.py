@@ -1,16 +1,20 @@
 #!/usr/bin/python3
 #Takes article body and title
 
+# Initialize things needed
 import argparse
 from bs4 import BeautifulSoup
 from bs4 import SoupStrainer
 
+# Initial variable setup
 parser = argparse.ArgumentParser(description="HTML file to use")
 parser.add_argument('-f', dest = 'file')
 args = parser.parse_args()
 html_doc = open(format(args.file))
 soup = BeautifulSoup(html_doc, "html.parser")
 div_content = soup.find_all(id='content')
+
+# Check if character encoding is funky
 
 def check_style():
 	"Checks which title style is the article"
