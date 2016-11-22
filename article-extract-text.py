@@ -35,6 +35,7 @@ def check_style():
 	has_hei22 = soup.find_all(class_='hei22')
 	has_bltitle = soup.find_all(id='bltitle')
 	has_capital_Title = soup.find_all(id='Title')
+	has_whtitle = soup.find_all(id='whtitle')
 	if has_ftitle:
 		return has_ftitle
 	elif has_hei22:
@@ -43,6 +44,8 @@ def check_style():
 		return has_bltitle
 	elif has_capital_Title:
 		return has_capital_Title
+	elif has_whtitle:
+		return has_whtitle
 	else:
 		return None
 
