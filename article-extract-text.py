@@ -33,11 +33,19 @@ def check_style():
 	"Checks which title style is the article"
 	has_ftitle = soup.find_all(class_='f-title')
 	has_hei22 = soup.find_all(class_='hei22')
+	has_bltitle = soup.find_all(id='bltitle')
+	has_capital_Title = soup.find_all(id='Title')
 	if has_ftitle:
 		return has_ftitle
 	elif has_hei22:
 		return has_hei22
-	
+	elif has_bltitle:
+		return has_bltitle
+	elif has_capital_Title:
+		return has_capital_Title
+	else:
+		return None
+
 title_style = check_style()
 
 for article_title_content in title_style:
