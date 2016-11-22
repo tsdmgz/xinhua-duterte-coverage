@@ -10,11 +10,14 @@ from bs4 import SoupStrainer
 parser = argparse.ArgumentParser(description="HTML file to use")
 parser.add_argument('-f', dest = 'file')
 args = parser.parse_args()
-html_doc = open(format(args.file))
-soup = BeautifulSoup(html_doc, "html.parser")
 div_content = soup.find_all(id='content')
+html_doc = open(format(args.file), "rb")
 
 # Check if character encoding is funky
+try:
+	soup = BeautifulSoup(html_doc, "html.parser")
+except UnicodeDecodeError:
+	soup = BeautifulSoup(html_doc, "html.parser", from_encoding="gb2312")
 
 def check_style():
 	"Checks which title style is the article"
