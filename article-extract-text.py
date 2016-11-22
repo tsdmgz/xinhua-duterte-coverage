@@ -19,6 +19,17 @@ try:
 except UnicodeDecodeError:
 	soup = BeautifulSoup(html_doc, "html.parser", from_encoding="gb2312")
 
+def div_content_type():
+	"Checks which content id it is"
+	div_content_a = soup.find_all(id='content')
+	div_content_b = soup.find_all(id='Content')
+	if div_content_a:
+		div_content = div_content_a
+		return div_content
+	elif div_content_b:
+		div_content = div_content_b
+		return div_content
+
 def check_style():
 	"Checks which title style is the article"
 	has_ftitle = soup.find_all(class_='f-title')
