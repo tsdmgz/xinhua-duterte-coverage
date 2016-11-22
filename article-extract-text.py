@@ -10,7 +10,6 @@ from bs4 import SoupStrainer
 parser = argparse.ArgumentParser(description="HTML file to use")
 parser.add_argument('-f', dest = 'file')
 args = parser.parse_args()
-div_content = soup.find_all(id='content')
 html_doc = open(format(args.file), "rb")
 
 # Check if character encoding is funky
@@ -45,9 +44,6 @@ for article_title_content in title_style:
 	print(article_title_content.get_text())
 
 print()
-
-for article_content in div_content:
-	for article_content_text in article_content.find_all('p'):
-		print(article_content_text.get_text())
+print(div_content_type()[0].get_text())
 
 # vim: smartindent breakindent tw=80
