@@ -49,12 +49,12 @@ def check_style():
 	else:
 		return None
 
-title_style = check_style()
-
-for article_title_content in title_style:
-	print(article_title_content.get_text())
-
+print(check_style()[0].get_text())
 print()
-print(div_content_type()[0].get_text())
+
+try:
+	print(div_content_type()[1].get_text())
+except IndexError:
+	print(div_content_type()[0].get_text())
 
 # vim: smartindent breakindent tw=80
