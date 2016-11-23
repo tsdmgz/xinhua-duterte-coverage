@@ -18,7 +18,7 @@ try:
 except UnicodeDecodeError:
 	soup = BeautifulSoup(html_doc, "html.parser", from_encoding="gb2312")
 
-def div_content_type():
+def get_div_content():
 	"Checks which content id it is"
 	div_content_a = soup.find_all(id='content')
 	div_content_b = soup.find_all(id='Content')
@@ -53,8 +53,8 @@ print(check_style()[0].get_text())
 print()
 
 try:
-	print(div_content_type()[1].get_text())
+	print(get_div_content()[1].get_text())
 except IndexError:
-	print(div_content_type()[0].get_text())
+	print(get_div_content()[0].get_text())
 
 # vim: smartindent breakindent tw=80
