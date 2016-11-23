@@ -28,7 +28,7 @@ def get_div_content():
 		div_content = div_content_b
 	return div_content
 
-def check_style():
+def get_article_title():
 	"Checks which title style is the article"
 	has_ftitle = soup.find_all(class_='f-title')
 	has_hei22 = soup.find_all(class_='hei22')
@@ -48,7 +48,7 @@ def check_style():
 	else:
 		return None
 
-print(check_style()[0].get_text())
+print(get_article_title()[0].get_text())
 print()
 
 try:
