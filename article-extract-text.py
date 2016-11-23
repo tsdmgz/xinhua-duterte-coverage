@@ -24,10 +24,9 @@ def get_div_content():
 	div_content_b = soup.find_all(id='Content')
 	if div_content_a:
 		div_content = div_content_a
-		return div_content
 	elif div_content_b:
 		div_content = div_content_b
-		return div_content
+	return div_content
 
 def check_style():
 	"Checks which title style is the article"
