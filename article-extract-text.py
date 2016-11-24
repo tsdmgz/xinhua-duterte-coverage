@@ -3,6 +3,7 @@
 
 # Initialize things needed
 import argparse
+import re
 from bs4 import BeautifulSoup
 from bs4 import SoupStrainer
 
@@ -48,6 +49,26 @@ def get_article_title():
 	else:
 		return None
 
+def get_article_date():
+	"Get article's date and time"
+	date_pattern = re.compile("\d+\-\d+-\d+")
+	has_sj = soup.find_all(class_='sj')
+	has_pubtime = soup.find_all(id='pubtime')
+	has_lanx12 = soup.find_all(class_='lanx12')
+	if has_sj:
+		has_date = has_sj
+	elif has_pubtime:
+		has_date = has_pubtime
+	elif has_lanx12:
+		has_date = has_lanx12
+	date_obj = has_date[0].get_text()
+	date_re = date_pattern.search(date_obj)
+	stripped_date = date_re.group()
+	return stripped_date
+	
+
+print(get_article_date())
+print()
 print(get_article_title()[0].get_text())
 print()
 
