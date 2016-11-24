@@ -55,10 +55,13 @@ def get_article_date():
 	is_class_sj = soup.find_all(class_='sj')
 	is_id_pubtime = soup.find_all(id='pubtime')
 	is_class_lanx12 = soup.find_all(class_='lanx12')
+	is_class_hui12 = soup.find_all(class_='hui12')
 	if is_class_sj:
 		has_date = is_class_sj
 	elif is_id_pubtime:
 		has_date = is_id_pubtime
+	elif is_class_hui12:
+		has_date = is_class_hui12
 	elif is_class_lanx12:
 		has_date = is_class_lanx12
 	date_obj = has_date[0].get_text()
