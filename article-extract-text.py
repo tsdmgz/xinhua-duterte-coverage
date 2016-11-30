@@ -4,6 +4,7 @@
 # Initialize things needed
 import argparse
 import re
+import csv
 from bs4 import BeautifulSoup
 from bs4 import SoupStrainer
 
@@ -27,7 +28,11 @@ def get_div_content():
 		div_content = div_content_a
 	elif div_content_b:
 		div_content = div_content_b
-	return div_content
+	try:
+		div_content_object = div_content[1].get_text()
+	except IndexError:
+		div_content_object = div_content[0].get_text()
+	return div_content_object
 
 def get_article_title():
 	"Checks which title style is the article"
@@ -69,14 +74,10 @@ def get_article_date():
 	stripped_date = date_re.group()
 	return stripped_date
 
-print(get_article_date())
-print()
-print(get_article_title()[0].get_text())
-print()
-
-try:
-	print(get_div_content()[1].get_text())
-except IndexError:
-	print(get_div_content()[0].get_text())
+with open('article-table.csv', 'a', newline='') as csvfile:
+	put_article = csv.writer(csvfile, delimiter='|', quotechar='"',
+	quoting=csv.QUOTE_MINIMAL)
+	put_article.writerow([get_article_date(),
+	get_article_title()[0].get_text(), get_div_content()])
 
 # vim: smartindent breakindent tw=80
