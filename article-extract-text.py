@@ -5,6 +5,7 @@
 import argparse
 import re
 import csv
+import os
 from bs4 import BeautifulSoup
 from bs4 import SoupStrainer
 
@@ -79,7 +80,7 @@ def get_article_date():
 with open(args.csv_out, 'a', newline='') as csvfile:
 	put_article = csv.writer(csvfile, delimiter='|', quotechar='"',
 	quoting=csv.QUOTE_MINIMAL)
-	put_article.writerow([get_article_date(),
+	put_article.writerow([os.path.basename(args.file), get_article_date(),
 	get_article_title()[0].get_text(), get_div_content()])
 
 # vim: smartindent breakindent tw=80
