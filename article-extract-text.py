@@ -9,8 +9,10 @@ from bs4 import BeautifulSoup
 from bs4 import SoupStrainer
 
 # Initial variable setup
-parser = argparse.ArgumentParser(description="HTML file to use")
-parser.add_argument('-f', dest = 'file')
+parser = argparse.ArgumentParser(description="Extracts article text from Xinhua\
+news webpages")
+parser.add_argument('-f', dest = 'file', help='Source HTML file')
+parser.add_argument('-o', dest = 'csv_out', help='Destination CSV file')
 args = parser.parse_args()
 html_doc = open(format(args.file), "rb")
 
@@ -74,7 +76,7 @@ def get_article_date():
 	stripped_date = date_re.group()
 	return stripped_date
 
-with open('article-table.csv', 'a', newline='') as csvfile:
+with open(args.csv_out, 'a', newline='') as csvfile:
 	put_article = csv.writer(csvfile, delimiter='|', quotechar='"',
 	quoting=csv.QUOTE_MINIMAL)
 	put_article.writerow([get_article_date(),
