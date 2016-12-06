@@ -1,6 +1,6 @@
 %include file
 %holds everything
-\documentclass[12pt]{report}
+\documentclass[12pt]{article}
 \input{header.tex}
 
 \usepackage[colorlinks=true,urlcolor=blue,citecolor=black,linkcolor=black]{hyperref}
@@ -12,19 +12,24 @@
 	}
 \urlstyle{same}
 
-% \usepackage{minted}
-% \setminted{
-% 	breaklines
-% }
-% \setmintedinline{
-% 	breaklines
-% }
+\usepackage{minted}
+\setminted{
+	breaklines
+}
+\setmintedinline{
+	breaklines
+}
 
 \begin{document}
-	\input{abstract.tex}
+%	\input{abstract.tex}
 
-	\setlength{\parindent}{1cm}
+	\setlength{\parindent}{0cm}
 	\setlength{\parskip}{1.5em}
+
+	\input{background.tex}
+	\input{methodology.tex}
+	\input{data-analysis.tex}
+	\input{appendix.tex}
 
 	\singlespacing\setlength{\parindent}{0pt}
 	\printbibliography
