@@ -1,7 +1,47 @@
 \section{Methodology}\label{sec:methodology}
 
+The sample dataset was built by making a search at Xinhua's English
+language website at \url{http://www.xinhuanet.com/english/} for the
+string ``Duterte'' and downloading all the news articles returned by the
+result pages. This search string forms the basis of the whole dataset.
+The latest news article is on November 11, 2016.
+
+Articles that had the word ``Duterte'' but did not specifically refer to
+Rodrigo Duterte were removed from the analysis dataset. Articles that
+were included in the results but did not mention Duterte on the first
+page are also pruned. There are also ``news summaries'' present in the
+download, summarizing the week's world news in a single article. Those
+items were also pruned. Despite the removal of these articles, I have
+not removed them from the download for completeness.
+
+To make this possible, a routine was performed to automate the
+download of news articles returned by the search operation. A small
+script (see appendix \ref{adx:python-script}) was written to automate
+the cleanup and extraction of the news article full text. Part of the
+data extracted includes filename, date of publication, title, and
+body text.
+
+In analyzing the data, a simple thematic analysis was performed. News
+articles were read individually and then tagged according to a general
+theme.
+%FIXME
+
+In a second analysis, RapidMiner 7.3 was used for text mining in all
+articles included in the dataset. A word count was performed and
+n-grams were generated.
+
+All assets used in data gathering, results, and a description of the
+working environment are available in a GitHub repository at
+\href{https://github.com/tsdmgz/xinhua-duterte-coverage}{github.com/tsdmgz/xinhua-duterte-coverage}.
+
 \section{Limitations}\label{sec:limits}
 
-limited to english section xinhua
+For manageability, I have limited the data to the following events: the
+Hague Ruling on the South China Sea dispute, and President Duterte's
+first state visit to China. These were chosen because these two events
+carry significant weight in China-Philippines bilateral relations.
+However, the articles present in the dataset is not comprehensive as
+these articles were only present because President Duterte's name was
+mentioned at least once.
 
 % vim: tw=72 smartindent breakindent syntax=tex
