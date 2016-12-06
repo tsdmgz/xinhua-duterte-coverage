@@ -6,4 +6,3 @@ include.pdf
 *.run.xml
 *.sw[a-z]
 paper/_minted-include/
-paper/_minted-include/*
