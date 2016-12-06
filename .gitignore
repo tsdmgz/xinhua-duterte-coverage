@@ -6,3 +6,4 @@ include.pdf
 *.run.xml
 *.sw[a-z]
 paper/_minted-include/
+.~lock.*
