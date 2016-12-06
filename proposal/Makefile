@@ -1,7 +1,8 @@
 .PHONY: all clean clean-all pdf
 
 all:
-	xelatex include.tex
+	-xelatex --shell-escape include.tex
+	xelatex --shell-escape include.tex
 
 clean:
 	rm -f *.aux
