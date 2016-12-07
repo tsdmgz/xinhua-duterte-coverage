@@ -2,6 +2,8 @@
 
 all:
 	-xelatex --shell-escape include.tex
+	-biber include.bcf
+	-xelatex --shell-escape include.tex
 	xelatex --shell-escape include.tex
 
 clean:

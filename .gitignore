@@ -7,3 +7,5 @@ include.pdf
 *.sw[a-z]
 paper/_minted-include/
 .~lock.*
+*.bbl
+*.blg

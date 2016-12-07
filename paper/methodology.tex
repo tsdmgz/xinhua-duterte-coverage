@@ -23,12 +23,20 @@ body text.
 
 In analyzing the data, a simple thematic analysis was performed. News
 articles were read individually and then tagged according to a general
-theme.
-%FIXME
+theme such as but not limited to ``foreign relations'' for articles that
+involve two or more countries and their diplomatic relations, ``war on
+drugs'' for articles that refer to the Duterte Administration's
+flagship policy on eliminating illegal drugs in the country, and
+``national issues'' for articles that talk about domestic controversies
+and problems.
 
-In a second analysis, RapidMiner 7.3 was used for text mining in all
-articles included in the dataset. A word count was performed and
-n-grams were generated.
+As a secondary analysis, text mining was done through the free version
+of RapidMiner 7.3, generating bigrams and trigrams\footnote{Sets of
+words in twos or threes}, and individual word counts. These statistics
+may give us an idea what topics were talked about, and what words were
+frequently used during these two news periods. However, these
+statistics are not indicative of any sentiment or value judgement from
+any party involved.
 
 All assets used in data gathering, results, and a description of the
 working environment are available in a GitHub repository at
@@ -38,10 +46,13 @@ working environment are available in a GitHub repository at
 
 For manageability, I have limited the data to the following events: the
 Hague Ruling on the South China Sea dispute, and President Duterte's
-first state visit to China. These were chosen because these two events
-carry significant weight in China-Philippines bilateral relations.
-However, the articles present in the dataset is not comprehensive as
-these articles were only present because President Duterte's name was
-mentioned at least once.
+first state visit to China. Specifically, these dates are July 5, 2016
+until July 19, 2016 for the Hague Ruling, and October 11, 2016 until
+October 28, 2016, inclusive.
+
+These were chosen because these two events carry significant weight in
+China-Philippines bilateral relations. However, the articles present in
+the dataset is not comprehensive as the articles on these dates are
+those which has referred to President Duterte at least once.
 
 % vim: tw=72 smartindent breakindent syntax=tex

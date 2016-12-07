@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:creation-date>2016-12-06T05:01:09.879329674</meta:creation-date><dc:date>2016-12-06T19:08:49.275621124</dc:date><meta:editing-duration>PT13H57M29S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="1" meta:cell-count="176" meta:object-count="0"/><meta:generator>LibreOffice/5.2.3.3$Linux_X86_64 LibreOffice_project/20m0$Build-3</meta:generator></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">31938</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">516579</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="Sheet1">
+       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">Sheet1</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1533</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsValueHighlightingEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">PH</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC Regular" svg:font-family="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Segoe UI" svg:font-family="&apos;Segoe UI&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="12.5mm"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:language="en" fo:country="PH" style:font-name-asian="Segoe UI" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:currency-style style:name="N104P0" style:volatile="true">
+   <number:currency-symbol number:language="en" number:country="PH">Php</number:currency-symbol>
+   <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+  </number:currency-style>
+  <number:currency-style style:name="N104">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:currency-symbol number:language="en" number:country="PH">Php</number:currency-symbol>
+   <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N104P0"/>
+  </number:currency-style>
+  <style:style style:name="Default" style:family="table-cell">
+   <style:text-properties style:font-name-asian="Noto Sans CJK SC Regular" style:font-family-asian="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N104"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties style:rotation-angle="90"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="22.58mm"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="36.48mm"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="67.52mm"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="192.81mm"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="75.92mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="60.04mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro3" style:family="table-row">
+   <style:table-row-properties style:row-height="83.86mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro4" style:family="table-row">
+   <style:table-row-properties style:row-height="95.76mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro5" style:family="table-row">
+   <style:table-row-properties style:row-height="20.36mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro6" style:family="table-row">
+   <style:table-row-properties style:row-height="44.17mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro7" style:family="table-row">
+   <style:table-row-properties style:row-height="87.82mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro8" style:family="table-row">
+   <style:table-row-properties style:row-height="64.01mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro9" style:family="table-row">
+   <style:table-row-properties style:row-height="71.95mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro10" style:family="table-row">
+   <style:table-row-properties style:row-height="56.07mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro11" style:family="table-row">
+   <style:table-row-properties style:row-height="91.79mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro12" style:family="table-row">
+   <style:table-row-properties style:row-height="131.48mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro13" style:family="table-row">
+   <style:table-row-properties style:row-height="123.54mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro14" style:family="table-row">
+   <style:table-row-properties style:row-height="79.89mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro15" style:family="table-row">
+   <style:table-row-properties style:row-height="24.32mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro16" style:family="table-row">
+   <style:table-row-properties style:row-height="52.11mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro17" style:family="table-row">
+   <style:table-row-properties style:row-height="99.73mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro18" style:family="table-row">
+   <style:table-row-properties style:row-height="67.98mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro19" style:family="table-row">
+   <style:table-row-properties style:row-height="151.04mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro20" style:family="table-row">
+   <style:table-row-properties style:row-height="409.28mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro21" style:family="table-row">
+   <style:table-row-properties style:row-height="103.19mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro22" style:family="table-row">
+   <style:table-row-properties style:row-height="170.32mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro23" style:family="table-row">
+   <style:table-row-properties style:row-height="115.04mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro24" style:family="table-row">
+   <style:table-row-properties style:row-height="142.68mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro25" style:family="table-row">
+   <style:table-row-properties style:row-height="63.69mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro26" style:family="table-row">
+   <style:table-row-properties style:row-height="138.73mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro27" style:family="table-row">
+   <style:table-row-properties style:row-height="130.83mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro28" style:family="table-row">
+   <style:table-row-properties style:row-height="59.76mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro29" style:family="table-row">
+   <style:table-row-properties style:row-height="182.17mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro30" style:family="table-row">
+   <style:table-row-properties style:row-height="71.6mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro31" style:family="table-row">
+   <style:table-row-properties style:row-height="55.81mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro32" style:family="table-row">
+   <style:table-row-properties style:row-height="75.55mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro33" style:family="table-row">
+   <style:table-row-properties style:row-height="154.53mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro34" style:family="table-row">
+   <style:table-row-properties style:row-height="4.52mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <number:text-style style:name="N100">
+   <number:text-content/>
+  </number:text-style>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="middle"/>
+  </style:style>
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100">
+   <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="middle"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2016-12-06">00-00-0000</text:date>, <text:time>00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number> / <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:calculation-settings table:automatic-find-labels="false"/>
+   <table:table table:name="Sheet1" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1020" table:default-cell-style-name="ce1"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135746319.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-11</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippines&apos; Duterte questions relevance of military alliances</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 11 (Xinhua) -- Philippine President Rodrigo Duterte on Tuesday wondered aloud whether military alliances are still relevant in this day and age, adding he has no plan of scrapping military alliances.</text:p><text:p>In a speech during an oath-taking ceremony at the Malacanang presidential palace, Duterte said, &quot;I do not mean to cancel or abrogate the military alliances.&quot;</text:p><text:p>The Philippines has bilateral security alliance with the U.S. bound by the Mutual Defense Treaty that Washington and Manila signed in 1951.</text:p><text:p>The Philippines also regularly conducted joint war games with U.S. troops. But Duterte said the training only benefits the Americans and not the Philippine troops.</text:p><text:p>&quot;Let us go for alliances that would contribute to the health, to the education if there is a world out there waiting for our children. Otherwise we have to protect them,&quot; he said.</text:p><text:p>Duterte, who assumed the presidency on June 30, said he wants to terminate military exercises with the U.S. military during his term and prohibit the Philippine military from joining in joint patrols in the South China Sea.</text:p><text:p>Last Sept. 28 he said PHIBLEX 33, the U.S.-Philippine joint military exercise, could be the last during his six-year term in office.</text:p><text:p>On Tuesday, the U.S. and Philippine marines wrapped up their amphibious landing exercises and live-fire training in the Philippines, a day ahead of the scheduled closing. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135746163.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-11</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philiippines&apos; Duterte hails China for helping war on illicit drugs</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 11 (Xinhua) -- Philippine President Rodrigo Duterte hailed China on Tuesday for helping his administration&apos;s war on illicit drugs by offering to build a rehabilitation center that can house 1,600 drug dependents.</text:p><text:p>&quot;China offered to help. It&apos;s about to be completed,&quot; Duterte announced during an oath-taking ceremony at the Malacanang presidential palace.</text:p><text:p>He said the new facility, which he describes as &quot;an apartment-style, similar to a condominium,&quot; is being build inside a Philippine Army camp in Nueva Ecija, north of Manila.</text:p><text:p>He said the building is a secured rehabilitation facility that is hoped to decongest the overly crowded police jails in the country.</text:p><text:p>The facility sits inside the camp called Fort Ramon Magsaysay, the largest military reservation in the Philippines and one of the key training areas of the Philippine Army.</text:p><text:p>Duterte is waging a war against &quot;narco-politics&quot; in the Philippines, saying about 4 million Filipinos are into illegal drugs. He has reiterated that the Philippines lacks the budget to build rehabilitation centers for drug dependents. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135748890.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Major news items in leading German newspapers</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>BERLIN, Oct. 12 (Xinhua) -- The following are the major news</text:p><text:p>items in leading German newspapers on Wednesday.</text:p><text:p/><text:p>Sueddeutsche Zeitung:</text:p><text:p>-- After batteries and replacement devices repeatedly caught on</text:p><text:p>fire, Samsung decided on Tuesday to take its smartphone Galaxy Note</text:p><text:p>7 recently presented in August completely from the market.</text:p><text:p/><text:p>Die Welt:</text:p><text:p>-- Philippine President Rodrigo Duterte now wants to take action</text:p><text:p>against smoking besides his fight against illegal drug</text:p><text:p>consumption.</text:p><text:p/><text:p>Frankfurter Allgemeine Zeitung:</text:p><text:p>-- German Chancellor Angela Merkel has called on the countries</text:p><text:p>of Africa to strengthen their cooperation in the fight against</text:p><text:p>flight, terrorism and economic problems. Enditem</text:p><text:p/><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135748516.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippines invites UN rapporteur to probe drug-related killings</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 12 (Xinhua) -- The Philippines has sent an invitation to the United Nations rapporteur Agnes Callamard to probe the increasing number of drug-related killings in the country, a government spokesman said on Wednesday.</text:p><text:p>&quot;Executive Secretary Salvador Medialdea said the palace has sent the invitation to the UN rapporteur Agnes Callamard and is awaiting her response,&quot; Presidential spokesperson Ernesto Abella told a news conference at the Malacanang presidential palace.</text:p><text:p>In the invitation, Abella said the &quot;palace also urged - and I think it is notable - the UN rapporteur to include in her investigation the killing of law enforcers by drug suspects so she could obtain accurate perspective of the drug problem in the country.&quot;</text:p><text:p>He said the Philippine government is urging Callamard to also look into the killings of law enforcers who were also killed in the campaign to eradicate illicit drugs.</text:p><text:p>News reports said more than 3,000 suspects had been killed, some extrajudicially, in the fight against drugs since President Rodrigo Duterte took the presidency on June 30.</text:p><text:p>Duterte said there are at least 4 million Filipinos who are into drugs. He warned that if not eradicated, the Philippines will continue to be governed by narco-politicians.</text:p><text:p>The Philippine senate and the House of Representatives have conducted investigations into the drug menace.</text:p><text:p>The UN, US, European Union and other international human rights groups have criticized the Duterte administration for carrying out a bloody anti-drug campaign, prompting Duterte to lash at these critics.</text:p><text:p>Despite the intense criticisms, Duterte has vowed to continue his anti-drug campaign.</text:p><text:p>As of Oct. 10, the Philippine National Police said that a total of 1,550 suspected drug users and pushers have been killed since July 1. On the other hand, the police said at least 13 policemen and three soldiers were killed.</text:p><text:p>The police also said that close to 800,000 drugs suspects have &quot;surrendered&quot; since the campaign was launched. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135748474.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippine president to visit China</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p>BEIJING, Oct. 12 (Xinhua) -- Philippine President Rodrigo Duterte will pay a state visit to China from Oct. 18 to 21, at the invitation of his Chinese counterpart Xi Jinping.</text:p><text:p>Foreign Ministry spokesperson Lu Kang made the announcement here on Wednesday. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro6">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135748447.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippine president to visit Japan on October 25 to 27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 12 (Xinhua) -- Philippine President will undertake an official visit to Japan later this month upon the invitation of Japanese Prime Minister Shinzo Abe, the Department of Foreign Affairs (DFA) said Wednesday.</text:p><text:p>Duterte will be in Tokyo on October 25 to 27, his first since he assumed office on June 30.</text:p><text:p>&quot;During his visit, the President will meet with the Japanese Prime Minister. He will also make a State Call on His Majesty Emperor Akihito of Japan,&quot; the DFA said in a statement.</text:p><text:p>Duterte has hailed Japan as the top source of official development assistance.</text:p><text:p>Japan was the top importer of Philippine products, accounting for 20.4 percent in August. The Philippine Statistics Authority reported that exports to Japan amounted to 1.002 billion during the month.</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro7">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135748876.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Duterte: Don&apos;t prepare for any joint war games with U.S. next year</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct 12 (Xinhua) -- Philippine President Rodrigo Duterte said on Wednesday that he has instructed his defense secretary, Delfin Lorenzana, not to make preparations for any joint war games with the U.S. next year.</text:p><text:p>&quot;I do not want it anymore,&quot; Duterte said in a speech at the Philippine coast guard headquarters in Manila.</text:p><text:p>&quot;&apos;Do not prepare&apos; I told Defense Secretary Lorenazana. &apos;Do not make preparations for next year (anymore)&apos;,&quot; he said.</text:p><text:p>&quot;I insist that we realigned. That there will be no more exercises next year,&quot; Duterte said.</text:p><text:p>Duterte reiterated his plan to chart an independent foreign policy.</text:p><text:p>However, Duterte said that the Philippines will not break it alliances with the U.S., a treaty ally.</text:p><text:p>&quot;But we need not really break or abrogate existing treaties because they say that it would provide is with the umbrella,&quot; he said, apparently referring to security umbrella.</text:p><text:p>Duterte said he was fed up with U.S. criticisms over his anti-drug campaign that resulted in the death of more than 3,000 suspected drug users and pushers.</text:p><text:p>Duterte has earlier said that he wants to scrap the annual joint exercises with U.S. military during his term, saying it does not benefit the Armed Forces of the Philippines.</text:p><text:p>He also barred the Philippine military from taking part in joint patrols with the U.S. in the disputed South China Sea, saying Beijing scoffed at the activities.</text:p><text:p>He also ordered all the more than 100 U.S. soldiers helping the Philippine military in the fight against terror to get out of Mindanao.</text:p><text:p>The U.S. and the Philippines hold three major joint war games plus 28 small-scale exercises every year to increase interoperability.</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro8">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135752179.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-13</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippines joins other nations in mourning the death of Thai King Bhumibol Adulyadej</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 13 (Xinhua) -- The Philippine government on Thursday extended condolences to the Thais and the family of King Bhumibol Adulyadej, who passed away after years of illness.</text:p><text:p>&quot;On behalf of President Rodrigo Duterte and the Filipino people, we join the rest of the Association of Southeast Asian Nations (ASEAN) in mourning the passing of Thai King Bhumibol Adulyadej,&quot; said Presidential Spokesperson Ernesto Abella.</text:p><text:p>He said the late King was not only the world&apos;s longest-reigning monarch but also the guiding hand behind the emergence of Thailand as one of the most progressive countries in the whole of Asia.</text:p><text:p>At the same time, Abella said the Duterte administration wishes Crown Prince Maha Vajiralongkorn &quot;all the best&quot; as he assumes the duties and responsibilities as Thailand&apos;s new king</text:p><text:p>He said the Philippines is certain that Prince Vajiralongkorn, the heir apparent, will be able to enhance Thailand&apos;s stature in the region and help the country achieve lasting peace and continued economic and social progress in the years ahead.</text:p><text:p>The Bureau of the Royal Household announced that the 88-year-old monarch died on Thursday at Siriraj hospital where he had been diagnosed with critical ailments since the last several years. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro9">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135754641.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippine President issues order for adoption of 25-year development plan</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 14 (Xinhua) -- Philippine President Rodrigo Duterte has approved and adopted a 25-year long- term vision to guide the development planning for the country.</text:p><text:p>The National Economic and Development Authority released Friday a copy of Executive Order No. 05, which contains the Ambisyon Nation (Our Ambition) 2040.</text:p><text:p>&quot;By 2040, the Philippines shall be a prosperous, predominantly middle-class society where no one is poor; our peoples shall live long and healthy lives, be smart and innovative, and shall live in a high-trust society,&quot; said the executive order, which Duterte signed on October 11.</text:p><text:p>Under the plan, the Philippine government aims to triple real per capita incomes and eradicate hunger and poverty by 2040, if not sooner.</text:p><text:p>An appropriate set of milestones shall be identified to guide the achievement of Ambisyon Nation 2040, divided into four successive medium-term development plans.</text:p><text:p>The development plans shall ensure sustainability and consistency of strategies, policies, programs and projects across political administrations.</text:p><text:p>All plans of government departments, offices and instrumentalities, including government-owned or -controlled corporation and local government units, should be consistent with Ambisyon Nation 2040, according to the executive order. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro10">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135754940.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p> China willing to cooperate in drug control with Philippines: FM</text:p><text:p/><text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p>BEIJING, Oct. 14 (Xinhua) -- China supports Philippine President Rodrigo Duterte&apos;s campaign against drugs and is willing to strengthen cooperation with the Philippines in this area, a spokesperson said Friday.</text:p><text:p>Calling narcotics &quot;an enemy of mankind,&quot; Foreign Ministry spokesperson Geng Shuang said combating drug crimes is a responsibility shared by all countries.</text:p><text:p>He said the Chinese government was committed to eliminating drug-related crimes and the nation has been actively engaged in international cooperation in this regard.</text:p><text:p>&quot;President Duterte will also be engaged in activities related to drug control during his state visit to China. China and the Philippines are keeping in close touch about this,&quot; Geng said.</text:p><text:p>The drug control departments in both countries have begun to discuss cooperation, with results likely to be released soon, the spokesperson added.</text:p><text:p>Duterte is waging a war against &quot;narco-politics&quot; in the Philippines, saying about four million Filipinos are into illegal drugs. The Philippine government plans to build more rehabilitation centers for drug addicts. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro10">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135758520.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-16</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Duterte starts state visit to Brunei</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>BANDAR SERI BEGAWAN, Oct. 16 (Xinhua) -- Philippine President Rodrigo Duterte touched down in Brunei Sunday evening for his first state visit to the sultanate.</text:p><text:p>Duterte was welcomed by Brunei&apos;s Minister of Home Affairs Hj Awang Abu Bakar, Second Foreign Affairs and Trade Minister Lim Jock Seng and other high-ranking government officials at the Brunei International Airport.</text:p><text:p>He then met with over 7,000 people of the Filipino community at Indoor Stadium in Bandar Seri Begawan.</text:p><text:p>During his visit, Duterte is scheduled to be accorded an official welcome on Monday at the Istana Nurul Iman palace before a bilateral meeting with the Sultan Haji Hassanal Bolkiah.</text:p><text:p>Duterte had cancelled his visit to Brunei scheduled in early September following a deadly explosion in his hometown Davao City.</text:p><text:p>Brunei has strong defence relations with the Philippines and gives active support to the peace process in Mindanao, Philippines. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro8">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135758285.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-16</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Duterte: the Philippines to enforce smoking ban</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 16 (Xinhua) -- Philippine President Rodrigo Duterte said Sunday a nationwide smoking ban will be implemented.</text:p><text:p>Duterte said he will sign the executive order prepared by the Department of Health (DOH) on the matter.</text:p><text:p>&quot;Yes, it will be followed and the implementation will follow the Davao experience,&quot; he told reporters in southern Davao City before leaving for Brunei.</text:p><text:p>Duterte, who had been a mayor of Davao for 23 years, had imposed smoking ban in the city.</text:p><text:p>&quot;If you want to smoke, find a place where it is allowed,&quot; the President said.</text:p><text:p>He said statistics would show that many Filipinos die of smoking.</text:p><text:p>The DOH, citing a report of the World Health Organization in 2005, has said the use of tobacco continues to be a major cause of health problems worldwide. During that period, there were an estimated 1.3 billion smokers in the world, with 4.9 million people dying because of tobacco use in a year.</text:p><text:p>If the trend continues, the number of deaths would increase to 10 million by the year 2020, 70 percent of which would be coming from countries like the Philippines, the Health department said. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135763830.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-18</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Gov&apos;t holds &quot;soft opening&quot; of Chinese-backed drug rehabilitation center in N. Philippines</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 18 (Xinhua) -- The Philippine Department of Health (DOH) made Tuesday the &quot;soft opening&quot; of a Chinese-funded rehabilitation center in the northern Philippine province of Nueva Ecija.</text:p><text:p>Health Secretary Paulyn Jean Ubial said at a news briefing in Malacanang, the presidential palace, that about 1,000 newly hired personnel conducted a dry run on how to manage the patients who will be referred to the facility located inside military&apos;s Fort Magsaysay in Laur, Nueva Ecija.</text:p><text:p>The operation of the facility could happen by mid-November, she said.</text:p><text:p>&quot;Our opening of the mega drug treatment and rehabilitation center in Nueva Ecija is expected to be sometime November,&quot; she said, recalling that the construction of this rehabilitation center began soon after her visit to Beijing in September wherein a deed of donation with the donor, Huang Rulun, a Chinese businessman, was signed.</text:p><text:p>The newly built facility can accommodate up to 10,000 patients.</text:p><text:p>&quot;Six weeks after the foundation was laid, the building structures gradually took shape and now, almost 50 percent of the facility has been constructed. The right wing of the building, which can accommodate almost 1,000 patients and offices are now ready to be furnished,&quot; Ubial said.</text:p><text:p>The DOH also plans to build rehabilitation centers in Visayas and Mindanao.</text:p><text:p>When President Rodrigo Duterte assumed office in June, he declared a war on illegal drugs. Since that time, about 790,000 drug addicts have surrendered to authorities.</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135763643.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-18</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Duterte leaves Brunei with vows for stronger bilateral ties</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>BANDAR SERI BEGAWAN, Oct. 18 (Xinhua) -- Philippine President Rodrigo Roa Duterte left Brunei for China Tuesday after wrapping up his first state visit to the sultanate.</text:p><text:p>During his three-day state visit to Brunei, both countries reaffirmed commitment in bolstering economic cooperation with each other.</text:p><text:p>In a speech during a state banquet for the visiting Philippine President at Istana Nurul Iman, Brunei&apos;s Sultan Haji Hassanal Bolkiah said both countries&apos; historical links and common heritage have paved the way for strong bilateral relations that are demonstrated through cooperation in various areas, including trade and investment, labour, defence, health, education and air services.</text:p><text:p>&quot;Today, there remains much potential to be tapped in our economic cooperation,&quot; said the monarch, adding that this includes reinforcing collaboration in the energy sector and discovering new areas in the halal industry.</text:p><text:p>The monarch also expressed appreciation on the contribution of about 23,000 Filipino expatriates to Brunei&apos;s economy and development.</text:p><text:p>In his speech, Duterte expressed his &quot;heartfelt gratitude&quot; towards the Sultan for the 32 years of friendship and assistance accorded to the Philippines and its people.</text:p><text:p>Duterte also spoke on how both countries have faced various common challenges and overcome these obstacles.</text:p><text:p>&quot;We have explored and forged several undertakings that further cemented our special relations. This cooperation will continue to be reinforced for the mutual benefit of our nations,&quot; Duterte said, adding that both countries have many opportunities to look forward to in working closely together to enhance peace, prosperity and progress.</text:p><text:p>&quot;With the deep well of goodwill between our nations and peoples, I reiterate the resolve and commitment to value, protect and nurture our very special ties,&quot; Duterte said.</text:p><text:p>From Brunei, Duterte starts a four-day state visit to China on Tuesday.</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro11">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135763475.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-18</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippine Supreme Courts announces new date to decide on Marcos burial</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 18 (Xinhua) -- The Philippine Supreme Court said on Tuesday that it has extended anew the status quo order ante on the burial of late President Ferdinand Marcos at the heroes&apos; cemetery to Nov. 8, a spokesman for the high court said.</text:p><text:p>Theodore Te, the spokesman, told reporters that the high court will continue its deliberations on whether or not Marcos deserves a space in the hallowed cemetery reserved for revered soldiers and past Philippine leaders.</text:p><text:p>Last Aug. 23, the high tribunal decided to delay the ruling for 20 days, or until Sept. 12. At the conclusion of the oral arguments last Sept. 7, however, the high court again extended the status quo order to Oct. 18.</text:p><text:p>A status quo order may be issued by a court to prevent any of the parties involved in a dispute from taking any action until the matter can be resolved.</text:p><text:p>President Rodrigo Duterte, a close friend of the Marcoses, has allowed the transfer of Marcos body from his home province of Ilocos Norte to the heroes&apos; cemetery in Manila, drawing both criticisms and support from Filipinos.</text:p><text:p>Groups against the burial have filed petitions, urging the high court to stop the plan to bury Marcos in the cemetery. The Marcos family and supporters also filed petitions to counter the claims of the anti-Marcos groups.</text:p><text:p>Marcos was elected in 1965 but overthrown in 1986 when millions of Filipinos, backed by the military, took to the streets to protest the dictator&apos;s corrupt administration. He died while in exile in Hawaii in 1989.</text:p><text:p>His body, which was brought back to the Philippines in 1993, is now on display inside a glass box in an air-conditioned mausoleum beside the family&apos;s ancestral home in Batac, north of Manila.</text:p><text:p>The Marcos family, pleading for an &quot;honorable burial&quot;, had lobbied the government for Marcos&apos; remains to be interred at the heroes&apos; cemetery in Manila. But the anti-Marcos and human rights groups had opposed the plan, saying the disgraced leader does not deserve a military honor and a plot in the hallowed ground. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro12">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135763856.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-18</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>China Focus: Philippine president arrives in Beijing for &quot;historic&quot; visit</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>BEIJING, Oct. 18 (Xinhua) -- Philippine President Rodrigo Duterte arrived in Beijing Tuesday evening, beginning his four-day visit to China.</text:p><text:p>Choosing China as the first country outside the ASEAN since taking office in June, Duterte makes the visit amid a backdrop of deteriorating China-Philippines ties, due to the unilateral filing of the South China Sea arbitration case initiated by his predecessor Benigno Aquino III against China.</text:p><text:p>Duterte will meet his Chinese counterpart Xi Jinping, Premier Li Keqiang, and top legislator Zhang Dejiang, according to China&apos;s Foreign Ministry.</text:p><text:p>&quot;This is a historic visit, and presents an opportunity for relations between China and the Philippines to restart on a fresh, more positive footing,&quot; said Foreign Minister Wang Yi earlier on Tuesday.</text:p><text:p>Applauding Duterte&apos;s commitment to improving bilateral ties and voicing support for dialogue and cooperation between the two nations, Wang said the visit accords with the national interests of the Philippines and the wishes of its people.</text:p><text:p>No foreign force can stand in the way of improvements to China-Philippines relations, Wang said, adding that China&apos;s arms are open and ready for friendship and cooperation.</text:p><text:p>The upcoming meetings are expected to enhance cooperation in trade, infrastructure and drug control, said Ruan Zongze, executive deputy president of the China Institute of International Studies.</text:p><text:p>Though the anticipated visit will not be able to wipe the slate clean, it is a &quot;window of opportunity&quot; that may ameliorate the situation, as long as the two sides agree to shelve their differences and get back to consensus through dialogue, Ruan said. </text:p><text:p>Related:</text:p><text:p>Commentary: Duterte&apos;s visit presents overdue opportunity for China-Philippines rapprochement</text:p><text:p>BEIJING, Oct. 18 (Xinhua) -- After years of estrangement, the bad blood between Beijing and Manila has finally begun to give place to good faith, as Philippine President Rodrigo Duterte embarks on an ice-breaking trip to China on Tuesday.</text:p><text:p>The visit surprises many around the world. It comes at a time when China-Philippines ties have nosedived to a historical low because of the farcical South China Sea arbitration case brought by Duterte&apos;s predecessor Benigno Aquino III against China.   Full story</text:p><text:p>Interview: Philippine president says &quot;only China can help us&quot;</text:p><text:p>MANILA, Oct. 17 (Xinhua) -- Philippine President Rodrigo Duterte has said that his country expects to boost traditional friendship with China and further bilateral trade and economic cooperation.</text:p><text:p>Duterte starts a four-day state visit to China on Tuesday at the invitation of his Chinese counterpart, Xi Jinping.  Full story</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro13">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135769260.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p> Commentary: Rekindling Beijing-Manila ties carries no meaning for Philippine-U.S. alliance</text:p><text:p/><text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p>by Xinhua writer Liu Chang</text:p><text:p>BEIJING, Oct. 20 (Xinhua) -- Philippine President Rodrigo Duterte is now in Beijing to warm up his country&apos;s ice-cold ties with China. The move has nothing to do with Manila&apos;s traditional alliance with Washington.</text:p><text:p>As Chinese President Xi Jinping rolled out red carpet to welcome his Philippine counterpart on Thursday morning, many around the world were predicting that the Southeast Asian nation was getting ready to pivot away from the United States, its traditional ally.</text:p><text:p>Some even said that Beijing would receive handsome gains if the Philippine-U.S. alliance truly gets weakened.h These observers are wrong although they think they have proofs as the new leader in Manila has been an open and fierce U.S. critic and threatened to cancel his country&apos;s joint military drills with U.S. armed forces.</text:p><text:p>The Chinese government never attempts to build up its ties with other countries on condition that these nations have to sacrifice their partnership with any third party.</text:p><text:p>To be more specific, the most important thing Beijing seeks to get from a sound bilateral relationship with the Philippines is that the two sides can work together to strengthen their economic and trade cooperation on the basis of mutual benefit as well as respect for each other&apos;s sovereignty and territorial integrity.</text:p><text:p>It&apos;s totally up to the Philippine authorities to decide how they are going to handle their relations with other parties, including the United States.</text:p><text:p>If America&apos;s partnership with the Philippines has indeed started to unravel, perhaps the very first thing politicians in Washington need to look into is their own way of doing business with the country they consider as a key ally in the Asia-Pacific region. And it is unfair and meaningless to scapegoat either China or Mr. Duterte.</text:p><text:p>They should also know that to sustain a partnership, they need to at least learn how to be respectful and stop being bossy.</text:p><text:p>Now that the Philippine leader is in China to fix the impaired ties, he will almost surely return home with his hands full as the two nations are expected to reach a series of agreements and step up their cooperation in areas such as fruits trade and anti-narcotics.</text:p><text:p>True friends need to be candid and honest. The visit is also a fine opportunity for the two governments to start their talks on the South China Sea dispute.</text:p><text:p>A proper handling of their maritime dispute, especially after the law-abusing arbitration episode that led bilateral ties to fall to a historical low, would build a solid foundation for the two countries to further their future cooperation without worrying that the island spats could relapse as time rolls on. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro14">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135769226.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippines posts 676 mln USD budget surplus in August</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 20 (Xinhua) -- The Philippine government has posted 32.6 billion pesos (676.59 million U.S. dollars) budget surplus in August, dragging down the eight-month fiscal gap to 138.4 billion pesos (2.87 billion U.S. dollars), the Department of Finance said Thursday.</text:p><text:p>The surplus in August was the first under the administration of President Rodrigo Duterte, the department said.</text:p><text:p>During the month, government revenues reached 209.6 billion pesos (4.35 billion U.S. dollars), up by 19 percent from the same month last year, while expenditures rose by 9 percent in the same month last year.</text:p><text:p>Finance Secretary Carlos Dominguez III earlier said the Duterte administration would be responsible with its finances as it reverses the underspending in the previous administration.</text:p><text:p>The new government has committed to raising public investments in infrastructure, human capital and social protection for vulnerable sectors, as part of President Duterte&apos;s 10-point socioeconomic agenda to sustain high growth and make its benefits trickle down to all Filipinos.</text:p><text:p>But to help raise needed funds for public investments, the government is pursuing a comprehensive tax reform program to discourage evasion and avoidance, broaden the tax system&apos;s narrow base and make the current system simpler and more equitable.</text:p><text:p>The department of Finance last month submitted to the House of Representatives the first package of its proposed Tax Reform Roadmap for Acceleration and Inclusion Act in keeping with the Duterte administration&apos;s 10-point socioeconomic agenda.</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro15">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135768978.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>China says dialogue on South China Sea &quot;foundation&quot; for ties with Philippines</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p>BEIJING, Oct. 20 (Xinhua) -- Chinese President Xi Jinping said on Thursday that managing differences in the South China Sea issue through dialogue and consultation is an important foundation for the healthy and stable growth of China-Philippines relations.</text:p><text:p>Xi made the comment during talks with Philippine President Rodrigo Duterte in Beijing Thursday morning. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135768928.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Xi says China ready to enhance ties with Philippines under Belt and Road initiative</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p>BEIJING, Oct. 20 (Xinhua) -- Chinese President Xi Jinping told visiting Philippine President Rodrigo Duterte here on Thursday that China is ready to enhance cooperation with the Philippines under the framework of the Belt and Road initiative.</text:p><text:p>Xi urged both countries to integrate their development strategies in a comprehensive manner to seek mutual benefit and win-win results.</text:p><text:p>China is willing to actively participate in the Southeast Asian nation&apos;s infrastructure construction, covering railway, urban rail transit, highway, port and other areas, so as to benefit the Philippine people, according to Xi.</text:p><text:p>China is also ready to encourage Chinese businesses to invest more in the Philippines to help the country&apos;s economic growth, said the Chinese president.</text:p><text:p>Duterte is on a widely watched state visit to China from Tuesday to Friday. China trip is his first official visit to a foreign country outside ASEAN. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro15">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135768927.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>China supports Philippines&apos; fight against drug, terrorism</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p>BEIJING, Oct. 20 (Xinhua) -- President Xi Jinping on Thursday said China supports the efforts of the new Philippine government in fighting against drug, terrorism and crime, and would like to conduct cooperation with the Philippines in these areas.</text:p><text:p>Xi made the remarks when he held talks with Philippine President Rodrigo Duterte in Beijing. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro8">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135768396.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Chinese, Philippine presidents meet in Beijing</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p>BEIJING, Oct. 20 (Xinhua) -- Chinese President Xi Jinping held a welcome ceremony for visiting Philippine President Rodrigo Duterte in Beijing on Thursday morning.</text:p><text:p>Following the ceremony, the two leaders will hold official talks and witness the signing of a series of cooperation documents.</text:p><text:p>Duterte is on a state visit to China from Tuesday to Friday. China trip is his first official visit to a foreign country outside ASEAN. </text:p><text:p> </text:p><text:p>Related:</text:p><text:p>China Focus: Philippine president arrives in Beijing for &quot;historic&quot; visit</text:p><text:p>BEIJING, Oct. 18 (Xinhua) -- Philippine President Rodrigo Duterte arrived in Beijing Tuesday evening, beginning his four-day visit to China.</text:p><text:p>Choosing China as the first country outside the ASEAN since taking office in June, Duterte makes the visit amid a backdrop of deteriorating China-Philippines ties, due to the unilateral filing of the South China Sea arbitration case initiated by his predecessor Benigno Aquino III against China.  Full story</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro17">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135772315.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippine military tightens security in Duterte&apos;s home city</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 21 (Xinhua) -- The Armed Forces of the Philippines announced on Friday that it is enhancing the security in Davao City, the home city of President Rodrigo Duterte, including the seas around it due to &quot;terrorism and other threats.&quot;</text:p><text:p>Army Maj. Ezra Balagtey, a spokesperson for the Eastern Mindanao Command, said in a statement that it is formally activating the Joint Task Force Haribon at a naval station in Panacan in Davao City.</text:p><text:p>Duterte&apos;s daughter, Davao City Mayor Inday Sara Duterte Carpio is expected to grace Saturday&apos;s ceremony, Balagtey said.</text:p><text:p>&quot;The JTF Haribon is activated amidst the changing security landscape in Davao City with the emergence of the place as the alternate seat of government and venue for international events,&quot; Balagtey said.</text:p><text:p>Balagtey said the JTF Haribon will be under the operational control of the Eastern Mindanao Command. &quot;Air, land and and sea capabilities will now be integrated to enhance the security of Davao City and its immediate peripheries - to include the sea lanes - from terrorism and other threats,&quot; he said.</text:p><text:p>Aside from securing Davao City, Balagtey added that the task force will also help the Presidential Security Group in securing Duterte and &quot;other very important personalities&quot; that visit the mega city. Duterte often holds cabinet meetings in Davao.</text:p><text:p>Among the units that is included in the task force are from tactical operations group and the special operations wing of the Philippine Air Force, he said.</text:p><text:p>Brig. Gen. Ronnie Evangelista, a seasoned combat and skilled counter-terrorism officer, will head the joint task force.</text:p><text:p>Asked if there are any imminent terror threats, Balatey told Xinhua &quot;This is just to strengthen intelligence coordination among the different units.&quot;</text:p><text:p>Duterte shuttles back and forth in Manila and Davao City since assuming office on June 30.</text:p><text:p>The president was in Davao when the city was rocked by a blast last Sept. 2 that killed 15 and injured 70 others, prompting authorities to install military checkpoints in and out of the southern city. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro18">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135772032.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Duterte to visit Japan Oct. 25 to 27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 21 (Xinhua) -- Philippine President Rodrigo Duterte will visit Japan next week to &quot;further bolster the strong strategic partnership&quot; between Manila and Tokyo, a government spokesman said on Friday.</text:p><text:p>Presidential Communications Office Assistant Secretary Ana Marie Banaag told a news conference at the Malacanang presidential palace that Duterte will make the three-day official visit starting from Tuesday next week.</text:p><text:p>She said Duterte will meet Japanese Prime Minister Shinzo Abe &quot;to discuss matters of mutual interest to both countries.&quot;</text:p><text:p>Banaag said Duterte will also make a state call on Japanese Emperor Akihito at the imperial Palace.</text:p><text:p>&quot;A bold scope of bilateral discussions between (Duterte) and Japanese leaders will include security, economic and defense cooperation, infrastructure development and development projects in Mindanao (in the southern Philippines), among others,&quot; Banaag said.</text:p><text:p>While in Tokyo, Banaag said Duterte would also meet with Filipinos living in Japan. There are about 400,000 Filipinos in Japan.</text:p><text:p>Moreover she said that Duterte plans to meet with Japanese top business leaders.</text:p><text:p>Duterte also plans to visit a Japanese shipbuilding facility while in Japan, she said.</text:p><text:p>Duterte is expected to return to Manila Friday from his state visit to China that started Tuesday. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro19">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135771815.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Full Text: Joint Statement of China and the Philippines</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>BEIJING, Oct. 21 (Xinhua) -- The following is a joint statement released by China and the Philippines on Friday:</text:p><text:p>JOINT STATEMENT OF THE PEOPLE&apos;S REPUBLIC OF CHINA AND THE REPUBLIC OF THE PHILIPPINES</text:p><text:p>Beijing, 21 October 2016</text:p><text:p>1. At the invitation of H.E. President Xi Jinping of the People&apos;s Republic of China, H.E. President Rodrigo Roa Duterte of the Republic of the Philippines undertook a state visit to China from 18 to 21 October 2016.</text:p><text:p>2. During the visit, President Xi Jinping and President Rodrigo Roa Duterte had a fruitful meeting in an amicable and friendly atmosphere and conducted in-depth exchanges on bilateral relations as well as international and regional issues of shared interest. H.E. Li Keqiang, Premier of the State Council, and H.E. Zhang Dejiang, Chairman of the Standing Committee of the National People&apos;s Congress, met with President Rodrigo Roa Duterte. H.E. Zhang Gaoli, Vice Premier of the State Council, and President Rodrigo Roa Duterte also attended the opening ceremony of China-Philippines Economic and Investment Forum and delivered remarks.</text:p><text:p>3. Both sides acknowledge the centuries-old bonds of friendship of the two peoples. Both sides agree that the mutual understanding and friendship of the two peoples are important. Both sides will make concerted efforts to cement the traditional friendship of the two peoples.</text:p><text:p>4. Both sides agree that since the establishment of diplomatic relations, China-Philippines relations have enjoyed smooth development and remarkable progress in many areas of cooperation which have benefited both countries and peoples.</text:p><text:p>5. Both sides commit to further enrich China-Philippines bilateral relations, founded on mutual respect, sincerity, equality and mutual benefit, which is conducive to regional peace, stability and prosperity.</text:p><text:p>6. Both sides reaffirm the principles contained in the China-Philippines Joint Communique of 1975 and other documents, whose principles include, among others, the principle of the peaceful settlement of all disputes and the Philippines&apos; adherence to the One-China Policy.</text:p><text:p>7. Both sides affirm their partnership and their common aspiration to achieve sustainable development and inclusive growth that will benefit the peoples of both countries. Both sides agree that this is a milestone visit which will infuse new energy to bring tangible benefits to the peoples of the two countries. Both sides will work together to pursue the sound and stable development of the strategic and cooperative relationship for peace and development.</text:p><text:p>8. Both sides acknowledge the great importance of maintaining high-level exchanges in promoting the all-around development of bilateral relations.</text:p><text:p>9. Both sides welcome the signing during the visit of various agreements and Memoranda of Understanding (MOU), as listed in the Annex.</text:p><text:p>10. Both sides express interest in finalizing agreements and MOUs in such areas as education, finance, customs and sports.</text:p><text:p>11. Both sides affirm the importance of existing China-Philippines bilateral dialogue mechanisms in enhancing understanding, broadening cooperation and striving for a stronger relationship. Both sides agree to resume the Foreign Ministry Consultations, Consular Consultations, Joint Commission on Economic and Trade Cooperation, Annual Defense Security Talks, Joint Committee on Agriculture, Joint Committee on Science and Technology, and other bilateral dialogue mechanisms.</text:p><text:p>12. Both sides will encourage exchange of visits of high-ranking governmental delegations and leaders at the local level, legislative organs, political parties, and civil organizations, and increase interactions and communications.</text:p><text:p>13. The Philippines welcomes China&apos;s proposal to open a Consulate-General of the People&apos;s Republic of China in Davao in due course. Proper arrangements for the diplomatic premises in both countries will be made in the spirit of the 1975 Joint Communique, on the basis of international practice and reciprocity, with priority for the most immediate concerns.</text:p><text:p>14. Realizing that coordinated action is necessary to combat transnational crimes, the two countries&apos; relevant agencies, subject to mutually agreed arrangements, will enhance cooperation and communication to combat transnational crimes, including telecommunications fraud, on-line fraud, cybercrimes, drug trafficking, trafficking in persons and wildlife trafficking.</text:p><text:p>15. Both sides oppose violent extremism and terrorism in all forms and will cooperate in the fields of information exchange, capacity building, among others, in order to jointly prevent and address the threat of violent extremism and terrorism.</text:p><text:p>16. China understands and supports Philippine Government&apos;s efforts in fighting against illicit drugs. Realizing that the problem of illicit drugs poses severe threats to the health, safety and welfare of the peoples of both countries, both sides agree to enhance exchange of intelligence, know-how and technology sharing on fighting against drug crimes, preventive education and rehabilitation facilities.</text:p><text:p>17. To further strengthen the efforts to fight against illicit drugs, both sides agree to establish operation mechanism for joint investigation on special cases and intelligence collection purposes. The Philippines thanks China for its offer of assistance in personnel training and donation of drug detection, seizure, and testing equipment to aid in the fight against illicit drugs.</text:p><text:p>18. Both sides commit to enhance cooperation between their respective Coast Guards, to address maritime emergency incidents, as well as humanitarian and environmental concerns in the South China Sea, such as safety of lives and property at sea and the protection and preservation of the marine environment, in accordance with universally recognized principles of international law including the 1982 UNCLOS.</text:p><text:p>19. Both sides agree to continue discussions with a view to signing a bilateral agreement on Transfer of Sentenced Persons.</text:p><text:p>20. Both sides agree that bilateral defense and military cooperation are important components of bilateral relations. To enhance mutual trust, both sides agree to implement the China-Philippines MOU on Defense Cooperation, through exchanges and cooperation in areas of humanitarian assistance and disaster alleviation and peacekeeping operations.</text:p><text:p>21. Both sides agree that bilateral economic cooperation remains strong, but has room for growth. Both sides commit to enhance economic relations in the priority sectors of the two countries by leveraging their complementarity and continuously promoting trade, investment and economic cooperation, through the activities identified under the MOU on Strengthening Bilateral Trade, Investment and Economic Cooperation.</text:p><text:p>22. Both sides acknowledge the mutual economic and social benefits gained from the Five Year Development Program for Trade and Economic Cooperation (2011-2016), and announced their commitment to its renewal through the Memorandum of Understanding on the Formulation of the Development Program for Economic Cooperation.</text:p><text:p>23. Both sides identify poverty alleviation as their shared aspiration, and agree to exchange best practices and cooperate in projects in this regard.</text:p><text:p>24. Both sides express willingness to jointly undertake practical cooperation including infrastructure investment, infrastructure project construction and industrial production capacity. Both sides agree that infrastructure cooperation which are jointly undertaken will be subject to proper procurement process, transparency and in compliance with relevant domestic laws and regulations and international practices.</text:p><text:p>25. Both sides will develop financial cooperation including in areas such as concessional loans, preferential buyer&apos;s credit, bonds issuance, loans, investments, securities, and others as mutually agreed upon including special loans for development. Both sides will strengthen cooperation in the Asian Infrastructure Investment Bank (AIIB) and other multilateral and regional development banks.</text:p><text:p>26. Both sides express willingness to expand the local currency settlement of bilateral trade and investment, and to coordinate to actively promote the regional financial cooperation which includes the multilateralization of Chiang Mai Initiative (CMIM) and bilateral swap arrangements (BSA). China welcomes the interest of Bangko Sentral ng Pilipinas (BSP) in participating in the Chinese Interbank Bond Market.</text:p><text:p>27. Both sides commit to expand cooperation in agriculture, particularly in such areas as (i) agricultural technology and infrastructure;(ii) agricultural trade;(iii) irrigation;(iv) climate change adaption and mitigation and (v) compliance with animal and plant sanitary standards.</text:p><text:p>28. Both sides agree to strengthen cooperation on animal and plant inspection and quarantine. The Philippines welcomes China&apos;s announcement to restore permits of relevant Philippine enterprises that export bananas and pineapples to China, and continue to import vapor heat treated mangoes which were packed in facilities that comply with standards set by China.</text:p><text:p>29. Both sides will undertake joint efforts to promote cooperation in the fields of high quality hybrid rice seeds, agriculture infrastructure, agricultural machinery, further develop the role of the Sino-Phil Center for Agricultural Technology, and other mutually agreed upon areas. China commits support for the Philippines&apos; effort to improve its food production capacity, training of agricultural technical professionals, and agricultural and fisheries industry development and capacity building, subject to domestic laws.</text:p><text:p>30. China expresses readiness to support Philippine requests for assistance under the framework of the ASEAN Plus Three Emergency Rice Reserve (APTERR) in times of emergency. </text:p><text:p>31. China expresses readiness to provide assistance to the Philippines in building scientific research industrial system and in science and technology training. Both sides are willing to explore the possibility of jointly building technology transfer centers, joint laboratories, and science and technology resources sharing platforms.</text:p><text:p>32. Recognizing the growing two-way tourist arrivals in the past few years and noting momentum that will be driven by the &quot;ASEAN-China Year of Tourism&quot; in 2017, both sides agree to set the goal of intensifying tourism cooperation. Both sides will encourage their citizens to travel to each other&apos;s country, explore the possible increase in capacity entitlements in air services, and encourage airlines to open new flights between Philippine cities, including Davao City and other cities in Visayas and Mindanao, and Chinese cities, which will contribute to the realization of this objective.</text:p><text:p>33. Both sides encourage the universities of the two countries to promote meaningful exchanges in the field of research and innovation and to strengthen academic exchanges and the model of university-research-industry communications and cooperation. China expresses readiness to increase allocation of Chinese Government Scholarship for the Philippines in the areas of science, technology, engineering and mathematics.</text:p><text:p>34. Both sides agree to encourage mutual visits of media personnel, exchange of media products, cooperation in facilities, technologies and training between Chinese media and Philippine media including the People&apos; s Broadcasting Corporation. The competent media authority of China is willing to enhance exchanges and cooperation with the Presidential Communication Office of the Philippines.</text:p><text:p>35. Both sides express interest in increasing twinning agreements between their cities and provinces, noting that these arrangements will encourage mutual understanding between their peoples and tap cooperation potentials at the local level.</text:p><text:p>36. Both sides agree to cooperate in emergency assistance and disaster relief.</text:p><text:p>37. Both sides reaffirm the importance of further implementing the &quot;Executive Program of Cultural Agreement between the Philippines and China, 2015-2018&quot; and encouraged their cultural institutions and groups to increase exchange of visits. Both sides will positively consider setting up their respective culture centers in each other&apos;s country.</text:p><text:p>38. Both sides attach importance to people-to-people exchanges between the two countries, noting that 2017 marks 600 years of friendly contacts between the Sultanate of Sulu and China, and the Philippines and China expressed interest in holding relevant commemorative activities.</text:p><text:p>39. Both sides will explore other areas of bilateral cooperation including in information technology, health, customs cooperation, research and development, education, and other fields that will be mutually beneficial to both countries.</text:p><text:p>40.Both sides exchange views on issues regarding the South China Sea. Both sides affirm that contentious issues are not the sum total of the China-Philippines bilateral relationship. Both sides exchange views on the importance of handling the disputes in the South China Sea in an appropriate manner. Both sides also reaffirm the importance of maintaining and promoting peace and stability, freedom of navigation in and over-flight above the South China Sea, addressing their territorial and jurisdictional disputes by peaceful means, without resorting to the threat or use of force, through friendly consultations and negotiations by sovereign states directly concerned, in accordance with universally recognized principles of international law, including the Charter of the United Nations and the 1982 UNCLOS.</text:p><text:p>41. Both sides recall the 2002 Declaration on the Conduct of Parties in the South China Sea (DOC) and the Joint Statement of the Foreign Ministers of ASEAN Member States and China on the Full and Effective Implementation of the DOC adopted in Vientiane on 25 July 2016. Both sides commit to the full and effective implementation of DOC in its entirety, and work substantively toward the early conclusion of a Code of Conduct in the South China Sea (COC) based on consensus.</text:p><text:p>42. Both sides agree to continue discussions on confidence-building measures to increase mutual trust and confidence and to exercise self-restraint in the conduct of activities in the South China Sea that would complicate or escalate disputes and affect peace and stability. In this regard, in addition to and without prejudice to other mechanisms, a bilateral consultation mechanism can be useful, which will meet regularly on current and other issues of concern to either side on the South China Sea. Both sides also agree to explore other areas of cooperation.</text:p><text:p>43. China expresses support for the Philippines&apos; chairmanship of ASEAN in 2017. Both sides express satisfaction with the growth of ASEAN-China Dialogue Relations over the past 25 years and affirmed their commitment to the principle of ASEAN centrality in the evolving regional architecture. China affirms support for ASEAN integration, ASEAN Community Building, as well as ASEAN&apos;s efforts in realizing ASEAN 2025: Forging Ahead Together.</text:p><text:p>44. Both sides affirm their continued cooperation in UN, ASEAN Regional Forum, Asia-Pacific Economic Cooperation, Asia-Europe Meeting, World Trade Organization, UN Climate Change Conference and other regional and multilateral organizations.</text:p><text:p>45. Both sides reaffirm adherence to sovereign equality, non-intervention, and non-interference enshrined in the UN Charter and reiterate their common commitment for the protection and promotion of human rights through dialogue and cooperation in light of the core human rights instruments to which both countries are parties to.</text:p><text:p>46. Both sides support the enhancement of the UN&apos;s role through necessary and reasonable reforms. Both sides held that pushing for the implementation of development issues, upholding the legitimate rights and interests of developing countries, enhancing the voice and representation of developing countries in international affairs should be the priorities in the reform of the UN, including the Security Council, and increasing the role of developing countries in UN decision-making.</text:p><text:p>47. President Rodrigo Roa Duterte expressed appreciation for the warm welcome extended by the Chinese side. President Rodrigo Roa Duterte invited President Xi Jinping to visit the Philippines at a convenient time. President Xi Jinping accepted the invitation with pleasure. President Rodrigo Roa Duterte also said that he looked forward to welcoming Chinese leaders to the ASEAN and Related Summits in 2017.</text:p><text:p>ANNEX</text:p><text:p>List of Signed Cooperation Documents</text:p><text:p>1. Agreement on Economic and Technical Cooperation between the Government of the People&apos;s Republic of China and the Government of the Republic of the Philippines</text:p><text:p>2. Memorandum of Understanding between the National Development and Reform Commission of the People&apos;s Republic of China and the National Economic and Development Authority of the Republic of the Philippines for Developing Cooperation on Production Capacity and Investment</text:p><text:p>3. Memorandum of Understanding between the National Development and Reform Commission of the People&apos;s Republic of China and the Department of Transportation and the Department of Public Works and Highways of the Republic of the Philippines on Transportation Infrastructure Cooperation Project List</text:p><text:p>4. Memorandum of Understanding between the Ministry of Commerce of the Government of the People&apos;s Republic of China and the Department of Trade and Industry of the Republic of the Philippines on Strengthening Bilateral Trade, Investment and Economic Cooperation</text:p><text:p>5. Memorandum of Understanding between the Ministry of Commerce of the People&apos;s Republic of China and the National Economic and Development Authority of the Republic of the Philippines on Formulation of the Development Program for Economic Cooperation</text:p><text:p>6. Memorandum of Understanding between the Ministry of Commerce of the People&apos;s Republic of China and the Department of Finance of the Republic of the Philippines on Supporting the Conduct of Feasibility Studies for Major Projects</text:p><text:p>7. Action Plan on Agricultural Cooperation between the Ministry of Agriculture of the People&apos;s Republic of China and the Department of Agriculture of the Republic of the Philippines 2017-2019</text:p><text:p>8. Memorandum of Agreement between the State Council Information Office of the People&apos;s Republic of China and the Presidential Communications Operations Office of the Government of the Republic of the Philippines on News, Information Exchange, Training and for other Purposes</text:p><text:p>9. Memorandum of Understanding between the General Administration of Quality Supervision Inspection and Quarantine of the People&apos;s Republic of China and the Department of Agriculture of the Republic of the Philippines on Cooperation of Animal and Plant Inspection and Quarantine</text:p><text:p>10. Memorandum of Understanding between the China Coast Guard and the Philippine Coast Guard on the Establishment of a Joint Coast Guard Committee on Maritime Cooperation</text:p><text:p>11. Implementation Program of the Memorandum of Understanding on Tourism Cooperation between the National Tourism Administration of the People&apos;s Republic of China and the Department of Tourism of the Republic of the Philippines 2017-2022</text:p><text:p>12. Protocol on Cooperation between the Narcotics Control Bureau of the Ministry of Public Security of the People&apos;s Republic of China and the Philippines Drug Enforcement Agency</text:p><text:p>13. Memorandum of Understanding on Financing Cooperation between the Export-Import Bank of China and the Government of the Republic of the Philippines, represented by the Department of Finance</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135771789.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Full Text: Joint Statement of China and the Philippines (2)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>31. China expresses readiness to provide assistance to the Philippines in building scientific research industrial system and in science and technology training. Both sides are willing to explore the possibility of jointly building technology transfer centers, joint laboratories, and science and technology resources sharing platforms.</text:p><text:p>32. Recognizing the growing two-way tourist arrivals in the past few years and noting momentum that will be driven by the &quot;ASEAN-China Year of Tourism&quot; in 2017, both sides agree to set the goal of intensifying tourism cooperation. Both sides will encourage their citizens to travel to each other&apos;s country, explore the possible increase in capacity entitlements in air services, and encourage airlines to open new flights between Philippine cities, including Davao City and other cities in Visayas and Mindanao, and Chinese cities, which will contribute to the realization of this objective.</text:p><text:p>33. Both sides encourage the universities of the two countries to promote meaningful exchanges in the field of research and innovation and to strengthen academic exchanges and the model of university-research-industry communications and cooperation. China expresses readiness to increase allocation of Chinese Government Scholarship for the Philippines in the areas of science, technology, engineering and mathematics.</text:p><text:p>34. Both sides agree to encourage mutual visits of media personnel, exchange of media products, cooperation in facilities, technologies and training between Chinese media and Philippine media including the People&apos; s Broadcasting Corporation. The competent media authority of China is willing to enhance exchanges and cooperation with the Presidential Communication Office of the Philippines.</text:p><text:p>35. Both sides express interest in increasing twinning agreements between their cities and provinces, noting that these arrangements will encourage mutual understanding between their peoples and tap cooperation potentials at the local level.</text:p><text:p>36. Both sides agree to cooperate in emergency assistance and disaster relief.</text:p><text:p>37. Both sides reaffirm the importance of further implementing the &quot;Executive Program of Cultural Agreement between the Philippines and China, 2015-2018&quot; and encouraged their cultural institutions and groups to increase exchange of visits. Both sides will positively consider setting up their respective culture centers in each other&apos;s country.</text:p><text:p>38. Both sides attach importance to people-to-people exchanges between the two countries, noting that 2017 marks 600 years of friendly contacts between the Sultanate of Sulu and China, and the Philippines and China expressed interest in holding relevant commemorative activities.</text:p><text:p>39. Both sides will explore other areas of bilateral cooperation including in information technology, health, customs cooperation, research and development, education, and other fields that will be mutually beneficial to both countries.</text:p><text:p>40.Both sides exchange views on issues regarding the South China Sea. Both sides affirm that contentious issues are not the sum total of the China-Philippines bilateral relationship. Both sides exchange views on the importance of handling the disputes in the South China Sea in an appropriate manner. Both sides also reaffirm the importance of maintaining and promoting peace and stability, freedom of navigation in and over-flight above the South China Sea, addressing their territorial and jurisdictional disputes by peaceful means, without resorting to the threat or use of force, through friendly consultations and negotiations by sovereign states directly concerned, in accordance with universally recognized principles of international law, including the Charter of the United Nations and the 1982 UNCLOS.</text:p><text:p>41. Both sides recall the 2002 Declaration on the Conduct of Parties in the South China Sea (DOC) and the Joint Statement of the Foreign Ministers of ASEAN Member States and China on the Full and Effective Implementation of the DOC adopted in Vientiane on 25 July 2016. Both sides commit to the full and effective implementation of DOC in its entirety, and work substantively toward the early conclusion of a Code of Conduct in the South China Sea (COC) based on consensus.</text:p><text:p>42. Both sides agree to continue discussions on confidence-building measures to increase mutual trust and confidence and to exercise self-restraint in the conduct of activities in the South China Sea that would complicate or escalate disputes and affect peace and stability. In this regard, in addition to and without prejudice to other mechanisms, a bilateral consultation mechanism can be useful, which will meet regularly on current and other issues of concern to either side on the South China Sea. Both sides also agree to explore other areas of cooperation.</text:p><text:p>43. China expresses support for the Philippines&apos; chairmanship of ASEAN in 2017. Both sides express satisfaction with the growth of ASEAN-China Dialogue Relations over the past 25 years and affirmed their commitment to the principle of ASEAN centrality in the evolving regional architecture. China affirms support for ASEAN integration, ASEAN Community Building, as well as ASEAN&apos;s efforts in realizing ASEAN 2025: Forging Ahead Together.</text:p><text:p>44. Both sides affirm their continued cooperation in UN, ASEAN Regional Forum, Asia-Pacific Economic Cooperation, Asia-Europe Meeting, World Trade Organization, UN Climate Change Conference and other regional and multilateral organizations.</text:p><text:p>45. Both sides reaffirm adherence to sovereign equality, non-intervention, and non-interference enshrined in the UN Charter and reiterate their common commitment for the protection and promotion of human rights through dialogue and cooperation in light of the core human rights instruments to which both countries are parties to.</text:p><text:p>46. Both sides support the enhancement of the UN&apos;s role through necessary and reasonable reforms. Both sides held that pushing for the implementation of development issues, upholding the legitimate rights and interests of developing countries, enhancing the voice and representation of developing countries in international affairs should be the priorities in the reform of the UN, including the Security Council, and increasing the role of developing countries in UN decision-making.</text:p><text:p>47. President Rodrigo Roa Duterte expressed appreciation for the warm welcome extended by the Chinese side. President Rodrigo Roa Duterte invited President Xi Jinping to visit the Philippines at a convenient time. President Xi Jinping accepted the invitation with pleasure. President Rodrigo Roa Duterte also said that he looked forward to welcoming Chinese leaders to the ASEAN and Related Summits in 2017.</text:p><text:p>ANNEX</text:p><text:p>List of Signed Cooperation Documents</text:p><text:p>1. Agreement on Economic and Technical Cooperation between the Government of the People&apos;s Republic of China and the Government of the Republic of the Philippines</text:p><text:p>2. Memorandum of Understanding between the National Development and Reform Commission of the People&apos;s Republic of China and the National Economic and Development Authority of the Republic of the Philippines for Developing Cooperation on Production Capacity and Investment</text:p><text:p>3. Memorandum of Understanding between the National Development and Reform Commission of the People&apos;s Republic of China and the Department of Transportation and the Department of Public Works and Highways of the Republic of the Philippines on Transportation Infrastructure Cooperation Project List</text:p><text:p>4. Memorandum of Understanding between the Ministry of Commerce of the Government of the People&apos;s Republic of China and the Department of Trade and Industry of the Republic of the Philippines on Strengthening Bilateral Trade, Investment and Economic Cooperation</text:p><text:p>5. Memorandum of Understanding between the Ministry of Commerce of the People&apos;s Republic of China and the National Economic and Development Authority of the Republic of the Philippines on Formulation of the Development Program for Economic Cooperation</text:p><text:p>6. Memorandum of Understanding between the Ministry of Commerce of the People&apos;s Republic of China and the Department of Finance of the Republic of the Philippines on Supporting the Conduct of Feasibility Studies for Major Projects</text:p><text:p>7. Action Plan on Agricultural Cooperation between the Ministry of Agriculture of the People&apos;s Republic of China and the Department of Agriculture of the Republic of the Philippines 2017-2019</text:p><text:p>8. Memorandum of Agreement between the State Council Information Office of the People&apos;s Republic of China and the Presidential Communications Operations Office of the Government of the Republic of the Philippines on News, Information Exchange, Training and for other Purposes</text:p><text:p>9. Memorandum of Understanding between the General Administration of Quality Supervision Inspection and Quarantine of the People&apos;s Republic of China and the Department of Agriculture of the Republic of the Philippines on Cooperation of Animal and Plant Inspection and Quarantine</text:p><text:p>10. Memorandum of Understanding between the China Coast Guard and the Philippine Coast Guard on the Establishment of a Joint Coast Guard Committee on Maritime Cooperation</text:p><text:p>11. Implementation Program of the Memorandum of Understanding on Tourism Cooperation between the National Tourism Administration of the People&apos;s Republic of China and the Department of Tourism of the Republic of the Philippines 2017-2022</text:p><text:p>12. Protocol on Cooperation between the Narcotics Control Bureau of the Ministry of Public Security of the People&apos;s Republic of China and the Philippines Drug Enforcement Agency</text:p><text:p>13. Memorandum of Understanding on Financing Cooperation between the Export-Import Bank of China and the Government of the Republic of the Philippines, represented by the Department of Finance </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135771744.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Full Text: Joint Statement of China and the Philippines (1)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>BEIJING, Oct. 21 (Xinhua) -- The following is a joint statement released by China and the Philippines on Friday:</text:p><text:p>JOINT STATEMENT OF THE PEOPLE&apos;S REPUBLIC OF CHINA AND THE REPUBLIC OF THE PHILIPPINES</text:p><text:p>Beijing, 21 October 2016</text:p><text:p>1. At the invitation of H.E. President Xi Jinping of the People&apos;s Republic of China, H.E. President Rodrigo Roa Duterte of the Republic of the Philippines undertook a state visit to China from 18 to 21 October 2016.</text:p><text:p>2. During the visit, President Xi Jinping and President Rodrigo Roa Duterte had a fruitful meeting in an amicable and friendly atmosphere and conducted in-depth exchanges on bilateral relations as well as international and regional issues of shared interest. H.E. Li Keqiang, Premier of the State Council, and H.E. Zhang Dejiang, Chairman of the Standing Committee of the National People&apos;s Congress, met with President Rodrigo Roa Duterte. H.E. Zhang Gaoli, Vice Premier of the State Council, and President Rodrigo Roa Duterte also attended the opening ceremony of China-Philippines Economic and Investment Forum and delivered remarks.</text:p><text:p>3. Both sides acknowledge the centuries-old bonds of friendship of the two peoples. Both sides agree that the mutual understanding and friendship of the two peoples are important. Both sides will make concerted efforts to cement the traditional friendship of the two peoples.</text:p><text:p>4. Both sides agree that since the establishment of diplomatic relations, China-Philippines relations have enjoyed smooth development and remarkable progress in many areas of cooperation which have benefited both countries and peoples.</text:p><text:p>5. Both sides commit to further enrich China-Philippines bilateral relations, founded on mutual respect, sincerity, equality and mutual benefit, which is conducive to regional peace, stability and prosperity.</text:p><text:p>6. Both sides reaffirm the principles contained in the China-Philippines Joint Communique of 1975 and other documents, whose principles include, among others, the principle of the peaceful settlement of all disputes and the Philippines&apos; adherence to the One-China Policy.</text:p><text:p>7. Both sides affirm their partnership and their common aspiration to achieve sustainable development and inclusive growth that will benefit the peoples of both countries. Both sides agree that this is a milestone visit which will infuse new energy to bring tangible benefits to the peoples of the two countries. Both sides will work together to pursue the sound and stable development of the strategic and cooperative relationship for peace and development.</text:p><text:p>8. Both sides acknowledge the great importance of maintaining high-level exchanges in promoting the all-around development of bilateral relations.</text:p><text:p>9. Both sides welcome the signing during the visit of various agreements and Memoranda of Understanding (MOU), as listed in the Annex.</text:p><text:p>10. Both sides express interest in finalizing agreements and MOUs in such areas as education, finance, customs and sports.</text:p><text:p>11. Both sides affirm the importance of existing China-Philippines bilateral dialogue mechanisms in enhancing understanding, broadening cooperation and striving for a stronger relationship. Both sides agree to resume the Foreign Ministry Consultations, Consular Consultations, Joint Commission on Economic and Trade Cooperation, Annual Defense Security Talks, Joint Committee on Agriculture, Joint Committee on Science and Technology, and other bilateral dialogue mechanisms.</text:p><text:p>12. Both sides will encourage exchange of visits of high-ranking governmental delegations and leaders at the local level, legislative organs, political parties, and civil organizations, and increase interactions and communications.</text:p><text:p>13. The Philippines welcomes China&apos;s proposal to open a Consulate-General of the People&apos;s Republic of China in Davao in due course. Proper arrangements for the diplomatic premises in both countries will be made in the spirit of the 1975 Joint Communique, on the basis of international practice and reciprocity, with priority for the most immediate concerns.</text:p><text:p>14. Realizing that coordinated action is necessary to combat transnational crimes, the two countries&apos; relevant agencies, subject to mutually agreed arrangements, will enhance cooperation and communication to combat transnational crimes, including telecommunications fraud, on-line fraud, cybercrimes, drug trafficking, trafficking in persons and wildlife trafficking.</text:p><text:p>15. Both sides oppose violent extremism and terrorism in all forms and will cooperate in the fields of information exchange, capacity building, among others, in order to jointly prevent and address the threat of violent extremism and terrorism.</text:p><text:p>16. China understands and supports Philippine Government&apos;s efforts in fighting against illicit drugs. Realizing that the problem of illicit drugs poses severe threats to the health, safety and welfare of the peoples of both countries, both sides agree to enhance exchange of intelligence, know-how and technology sharing on fighting against drug crimes, preventive education and rehabilitation facilities.</text:p><text:p>17. To further strengthen the efforts to fight against illicit drugs, both sides agree to establish operation mechanism for joint investigation on special cases and intelligence collection purposes. The Philippines thanks China for its offer of assistance in personnel training and donation of drug detection, seizure, and testing equipment to aid in the fight against illicit drugs.</text:p><text:p>18. Both sides commit to enhance cooperation between their respective Coast Guards, to address maritime emergency incidents, as well as humanitarian and environmental concerns in the South China Sea, such as safety of lives and property at sea and the protection and preservation of the marine environment, in accordance with universally recognized principles of international law including the 1982 UNCLOS.</text:p><text:p>19. Both sides agree to continue discussions with a view to signing a bilateral agreement on Transfer of Sentenced Persons.</text:p><text:p>20. Both sides agree that bilateral defense and military cooperation are important components of bilateral relations. To enhance mutual trust, both sides agree to implement the China-Philippines MOU on Defense Cooperation, through exchanges and cooperation in areas of humanitarian assistance and disaster alleviation and peacekeeping operations.</text:p><text:p>21. Both sides agree that bilateral economic cooperation remains strong, but has room for growth. Both sides commit to enhance economic relations in the priority sectors of the two countries by leveraging their complementarity and continuously promoting trade, investment and economic cooperation, through the activities identified under the MOU on Strengthening Bilateral Trade, Investment and Economic Cooperation.</text:p><text:p>22. Both sides acknowledge the mutual economic and social benefits gained from the Five Year Development Program for Trade and Economic Cooperation (2011-2016), and announced their commitment to its renewal through the Memorandum of Understanding on the Formulation of the Development Program for Economic Cooperation.</text:p><text:p>23. Both sides identify poverty alleviation as their shared aspiration, and agree to exchange best practices and cooperate in projects in this regard.</text:p><text:p>24. Both sides express willingness to jointly undertake practical cooperation including infrastructure investment, infrastructure project construction and industrial production capacity. Both sides agree that infrastructure cooperation which are jointly undertaken will be subject to proper procurement process, transparency and in compliance with relevant domestic laws and regulations and international practices.</text:p><text:p>25. Both sides will develop financial cooperation including in areas such as concessional loans, preferential buyer&apos;s credit, bonds issuance, loans, investments, securities, and others as mutually agreed upon including special loans for development. Both sides will strengthen cooperation in the Asian Infrastructure Investment Bank (AIIB) and other multilateral and regional development banks.</text:p><text:p>26. Both sides express willingness to expand the local currency settlement of bilateral trade and investment, and to coordinate to actively promote the regional financial cooperation which includes the multilateralization of Chiang Mai Initiative (CMIM) and bilateral swap arrangements (BSA). China welcomes the interest of Bangko Sentral ng Pilipinas (BSP) in participating in the Chinese Interbank Bond Market.</text:p><text:p>27. Both sides commit to expand cooperation in agriculture, particularly in such areas as (i) agricultural technology and infrastructure;(ii) agricultural trade;(iii) irrigation;(iv) climate change adaption and mitigation and (v) compliance with animal and plant sanitary standards.</text:p><text:p>28. Both sides agree to strengthen cooperation on animal and plant inspection and quarantine. The Philippines welcomes China&apos;s announcement to restore permits of relevant Philippine enterprises that export bananas and pineapples to China, and continue to import vapor heat treated mangoes which were packed in facilities that comply with standards set by China.</text:p><text:p>29. Both sides will undertake joint efforts to promote cooperation in the fields of high quality hybrid rice seeds, agriculture infrastructure, agricultural machinery, further develop the role of the Sino-Phil Center for Agricultural Technology, and other mutually agreed upon areas. China commits support for the Philippines&apos; effort to improve its food production capacity, training of agricultural technical professionals, and agricultural and fisheries industry development and capacity building, subject to domestic laws.</text:p><text:p>30. China expresses readiness to support Philippine requests for assistance under the framework of the ASEAN Plus Three Emergency Rice Reserve (APTERR) in times of emergency. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135772462.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p> Philippines committed to restoring defense relations with China: defense secretary</text:p><text:p/><text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p>BEIJING, Oct. 21 (Xinhua) -- The Philippines is committed to restoring defense relations with China, said Philippine Defense Secretary Delfin Lorenzana on Friday.</text:p><text:p>Lorenzana, who was in Beijing with Philippine President Rodrigo Duterte, made the remarks when he met his Chinese counterpart Chang Wanquan in Beijing.</text:p><text:p>Hailing the historic importance of Duterte&apos;s visit, Chang said it is in both countries&apos; fundamental interests and good for regional peace and stability that China and the Philippines develop friendly ties.</text:p><text:p>The two militaries must take responsibility to implement the consensus reached by Chinese President Xi Jinping and Duterte during the visit, steer away distractions, manage differences, accumulate mutual trust and promote cooperation to contribute to bilateral ties, said Chang.</text:p><text:p>Lorenzana said President Duterte&apos;s visit aims to develop closer relations with China, adding that his country is willing to forge ahead in bilateral defense cooperation.</text:p><text:p>Duterte left Beijing late Friday afternoon, ending his four-day state visit to China. China is the first country he has visited outside ASEAN, since taking office in June. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135772080.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Russia looks forward to Duterte&apos;s visit to Moscow</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 21 (Xinhua) -- A Russian envoy in Manila said on Friday that Russia is looking forward to the visit of Philippine President Rodrigo Duterte to Russia.</text:p><text:p>In an interview with GMA News TV, Russian Ambassador Igor Khovaev said Manila should offer its wish list of the kind of assistance it wants from Moscow.</text:p><text:p>&quot;Please formulate your wish list. What kind of assistance do you expect from Russia and we will be ready to sit down with you and discuss what can and should be done,&quot; Khovaev said.</text:p><text:p>He said that Russia is preparing for the visit of Duterte to Moscow. He did not elaborate.</text:p><text:p>The envoy said it&apos;s the right time that Russia and the Philippines know each other more and strengthens their diplomatic relations.</text:p><text:p>&quot;(The Philippines and Russia) deserve to know each other much, much better. It&apos;s time to discover,&quot; he said, adding that Russia is very much open to cooperation with the Philippines.</text:p><text:p>He said the cooperation that Russia is looking at &quot;includes any area, any field of possible cooperation.&quot;</text:p><text:p>Khovaev said the Russian Prime Minister Dmitry Medvedev was &quot;deeply impressed by the personality of Duterte&quot; when the two leaders met in Vientiane on the sidelines of the ASEAN meetings last month.</text:p><text:p>Duterte has praised Medvedev repeatedly in his speeches in Manila weeks after his meeting with the Russian leader in Laos, making his plan to cement diplomatic relations with Russia. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro21">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135773819.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Interview: Duterte&apos;s visit to China positive to regional situation: Lao senior diplomat</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p>VIENTIANE, Oct. 22 (Xinhua) -- Results of the recent visit by Philippine President Rodrigo Duterte to China will not only benefit peoples of the two countries, but also have positive effects on regional peace and stability, a Lao senior diplomat told Xinhua during an interview in capital Vientiane.</text:p><text:p>Soukthavy Keola, a former counselor at the Lao Embassy in China, said that the visit showed that the two countries are improving their bilateral relations.</text:p><text:p>&quot;This is an opportunity, a turning point, and also an significant achievement in China&apos;s diplomacy.&quot;</text:p><text:p>This is the first visit of Duterte outside the Association of Southeast Asian Nations (ASEAN). On Friday, China and the Philippines released a joint statement in Beijing with consensus on further enriching China-Philippines bilateral relations founded on mutual respect, sincerity, equality and mutual benefit, which is conducive to regional peace, stability and prosperity.</text:p><text:p>&quot;China and the Philippines had witnessed some problems in bilateral relations which had impacts on the region. We were very worried about that,&quot; he said.</text:p><text:p>&quot;Though problems could not be solved at once, the overall development of normal relations between the two countries should not be affected. Shelving disputes and seeking common development in cases of controversies are crucial to relevant countries and the region,&quot; Soukthavy told Xinhua on Friday.</text:p><text:p>&quot;Now, we all focus on cooperation and seeking solutions, which has contributed to creating a friendly cooperation atmosphere in the region,&quot; he said, adding that the bilateral relations between China and the Philippines are &quot;back on track&quot;, contributing to regional peace and stability.</text:p><text:p>There are huge potentials for the friendly cooperation between China and the Philippines. The two sides have many common interests in trade, economy and investment. &quot;China and the Philippines are both developing countries and neighbors. Strengthening bilateral cooperation is mutually beneficial and will have positive influence on cooperation between China and ASEAN countries.&quot;</text:p><text:p>Soukthavy also expressed his hope that the trend of friendly relations between China and the Philippines will be continuously maintained. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro22">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135773577.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Spotlight: Duterte&apos;s visit to China lauded as win-win, conducive to regional peace</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>BEIJING, Oct. 22 (Xinhua) -- Philippine President Rodrigo Duterte&apos;s visit to China shows the two countries have resumed friendly relations for win-win, which are also conducive to regional peace and stability, global observers and analysts told Xinhua.</text:p><text:p>The visit is significant in that it is not only Duterte&apos;s first visit outside the Association of Southeast Asian Nations (ASEAN), but also came ahead of his visit to the the Philippines&apos; traditional allies, the United States and Japan, said Earl Parreno, a political analyst at the Institute of Political and Electoral Reforms in the Philippines.</text:p><text:p>&quot;This visit could mean more investments coming into the country, more opportunities for businessmen and more employment for Filipinos. It could also mean markets for Philippine products like bananas and pineapples,&quot; said Parreno.</text:p><text:p>Ngeow Chow Bing, deputy director of the Institute of China Studies at the University of Malaya, also spoke highly of Duterte&apos;s visit to China, saying that the China-Philippine relationship going back on track is conducive to regional peace and stability.</text:p><text:p>The relationship between China and the Southeast Asian countries is comprehensive and complex, which involves not just military or security issues, but also trade, cultural and tourism opportunities, the Malaysian expert said.</text:p><text:p>Soukthavy Keola, a former counselor at the Lao Embassy in China, said the result of Duterte&apos;s visit is of strategic importance to the region.</text:p><text:p>The development of cooperation between the two countries will have a positive influence on cooperation between China and ASEAN countries, said Keola.</text:p><text:p>Li Mingjiang, an associate professor at the S. Rajaratnam School of International Studies of Nanyang Technological University, Singapore, said Duterte&apos;s visit is an obvious adjustment of Philippine foreign policy, especially about its relations with major world countries.</text:p><text:p>Different from his predecessor Benigno Aquino III, who largely depended on the United States in his foreign policy, Duterte has adopted a policy of diversifying friendly relations with major world countries and his visit to China reflects this policy, said Li.</text:p><text:p>&quot;It is expected that in the next few years, China-Philippine relations will return to the normal track, and cooperation in many areas will be strengthened,&quot; he said.</text:p><text:p>Pierre Picquart, an expert in Geopolitics and China at the University of Paris VIII, told Xinhua that Duterte has chosen the path of reason &quot;rather than promoting geopolitical, economic and territorial tensions about the South China Sea, and unlike his predecessor Benigno Aquino.&quot;</text:p><text:p>&quot;This is a peaceful way, with bilateral negotiations and path of economic growth in partnership with Beijing for win-win partnerships in the region,&quot; Picquart said, hailing that the &quot;former American colony now seems to break his ancestral chains.&quot;</text:p><text:p>Bambang Purwanto, director of international department at Indonesia&apos;s Antara News Agency, said Duterte has made a good start on relations with China and the two countries should strike for positive results from the current visit to create a good atmosphere.</text:p><text:p>&quot;I am sure that the visit will ease the tension in the South China Sea, and start the process to make the two peoples know each other, to know that cooperation is the right way to develop bilateral ties,&quot; said Purwanto.</text:p><text:p>Duterte arrived in Beijing Tuesday night for a four-day state visit to China, the first country he has visited outside ASEAN since taking office in June.</text:p><text:p>The visit came against a backdrop of deteriorating China-Philippines ties due to the South China Sea arbitration case unilaterally initiated against China by his predecessor Benigno Aquino III. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro23">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135774094.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>&quot;Little brown brother image&quot; of Filipinos stunts Philippines: foreign secretary</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 21 (Xinhua) -- The Philippine foreign secretary said on Saturday that the &quot;little brown brother image&quot; has thwarted the Philippines&apos; growth and development, adding that separation from the United States is demanded in pursuing an independent foreign policy.</text:p><text:p>&quot;It implies breaking away from the debilitating mindset of dependency and subservience - economically and militarily - that have perpetuated our &apos;little brown brother&apos; image to America, which has stunted our growth and advancement,&quot; Perfecto Yasay wrote on his Facebook page.</text:p><text:p>He parroted the explanation made earlier by President Rodrigo Duterte that Philippines&apos; separation from the U.S. economically and military does not mean severance of relationship or terminating the special bond between the two nations.</text:p><text:p>Indeed, he said that breaking away from &quot;our closest friend, only military ally and strategic partner would not be in our best national interest&quot; as declared unmistakably by Duterte on his arrival in Davao City from his successful trip to China early Saturday.</text:p><text:p>&quot;Dismantling this old paradigm to give way to new stronger structures and methods in promoting better understanding and mutually beneficial relationships does not signify destroying alliances, making enemies or creating new barriers towards working together,&quot; Yasay explained.</text:p><text:p>The top Philippine diplomat added, &quot;It simply means letting go of the disguised chains that continue to hold us captive to foreign interests in order to enable our people and duly elected leaders to address our urgent problems and needs in the light of our priorities, experiences and values without undue outside interference.&quot;</text:p><text:p>The separation means enabling the Philippines as a sovereign equal with all nations &quot;in securing world peace not war, forging stronger friendships and not enmity and making our planet a better and safer place for everyone,&quot; Yasay said. </text:p><text:p>Related:</text:p><text:p>Philippines committed to restoring defense relations with China: defense secretary</text:p><text:p>BEIJING, Oct. 21 (Xinhua) -- The Philippines is committed to restoring defense relations with China, said Philippine Defense Secretary Delfin Lorenzana on Friday.</text:p><text:p>Lorenzana, who was in Beijing with Philippine President Rodrigo Duterte, made the remarks when he met his Chinese counterpart Chang Wanquan in Beijing.Full story</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro24">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135777392.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>People&apos;s Daily says China will never allow U.S. to run amok in South China Sea</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>BEIJING, Oct. 24 (Xinhua) -- The People&apos;s Daily, an official newspaper of the Communist Party of China, has criticized a U.S. warship&apos;s intrusion into Chinese territorial waters in the South China Sea, saying such action will only speed up the decline of U.S. influence.</text:p><text:p>The newspaper on Sunday published an article to denounce USS Decatur&apos;s intrusion into Chinese territorial waters near Xisha Islands on Friday.</text:p><text:p>The Chinese Defense Ministry branded the intrusion as an &quot;illegal and provocative&quot; move. The Chinese Foreign Ministry also urged the United States to stop &quot;irresponsible&quot; and &quot;provocative&quot; actions which go against China&apos;s sovereignty and maritime interests.</text:p><text:p>The U.S. destroyer&apos;s move is a serious violation of China&apos;s sovereignty and international law. It also disrupted peace, safety and order on the sea, the article said.</text:p><text:p>The intrusion happened as Philippine President Rodrigo Duterte was in China for a visit to China, during which a series of cooperative agreements were signed.</text:p><text:p>At a time when countries on the South China Sea issue are improving relations, and a proper solution of the issue has shown encouraging momentum, the messing up by a U.S. destroyer has revealed clearly that Washington cannot accept a peaceful and stable South China Sea, the article said.</text:p><text:p>&quot;The U.S. feels a little anxious over China&apos;s sound ties with the Philippines,&quot; Duterte said in Beijing.</text:p><text:p>U.S. hegemony with provocative actions will only result in the accelerated decline of its global influence, the article read.</text:p><text:p>Washington will gain influence in the Asia-Pacific only by taking active part in promoting common development in the region, it said. &quot;The outdated hegemonic mentality is not compatible with the regional countries&apos; pursue of peace, cooperation and development.&quot;</text:p><text:p>In recent years, the United States has been messing up in the South China Sea under the excuse of &quot;freedom of navigation.&quot; It has also been seeking to sow discord between China and the Philippines.</text:p><text:p>&quot;Flexing military muscles does not make a country super power, let alone creating discord and muddying waters in the South China Sea,&quot; the article said.</text:p><text:p>The Philippines&apos; choice to adjust its diplomatic policies and reinforce cooperation with China also proves that an unjust cause committed by the U.S. finds little support, it said.</text:p><text:p>Also, China is determined to safeguard its sovereignty and territorial integrity. &quot;China will ... fight for every inch of its territory within its sovereignty,&quot; the article stressed.</text:p><text:p>It warned that U.S. hegemony will only prompt China to strengthen defense and its resolution to improve capacity to safeguard its own interests.</text:p><text:p>The Chinese military will safeguard national sovereignty and security by beefing up patrols and optimizing its defensive capabilities. &quot;China will never allow the United States to run amok in the South China Sea, which is a major issue of principle,&quot; the article concluded. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro25">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135779716.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippine president leaves for Japan for official visit</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 25 (Xinhua) -- Philippine President Rodrigo Duterte left for Japan on Tuesday for a three-day official visit.</text:p><text:p>In a speech at Manila&apos;s international airport before leaving for Tokyo, Duterte said he looks forward to discussing with Japanese Prime Minister Shinzo Abe &quot;key issues of mutual importance to our countries and peoples.&quot;</text:p><text:p>&quot;With Japan as the Philippines&apos; top trading partner,&quot; he said, &quot;I shall seek the sustainment and further enhancement of our important economic ties.&quot;</text:p><text:p>He said he is also looking forward to meeting business leaders in Japan.</text:p><text:p>To support the Philippines&apos; sustained growth and development, he said, &quot;I shall seek to open more avenues of cooperation in key infrastructure development.&quot;</text:p><text:p>&quot;In particular, we can tap the experience and expertise of Japan in developing high quality and modern public transportation,&quot; he said.</text:p><text:p>Duterte said he would seek to strengthen Japan&apos;s role as the Philippines&apos; development partner through more high-impact projects that will benefit the Philippines.</text:p><text:p>Duterte is expected to return to the Philippines on Thursday. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro23">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135780169.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Former WWII sex slaves ask Duterte to raise their plight with Japan&apos;s Abe</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 25 (Xinhua) -- Filipino &quot;comfort women&quot; urged President Rodrigo Duterte to raise their plight in his meeting with Japanese Prime Minister Shinzo Abe.</text:p><text:p>&quot;At least mention the comfort women,&quot; said Rechilda Extremadura, executive director of Lila Pilipina, an organization of World War II comfort women.</text:p><text:p>She lamented that the previous Philippine administrations have ignored the plight of the Filipino women who were forced to work in Japanese military brothels during World War II in talks with Japanese government.</text:p><text:p>&quot;Our previous leaders have failed us because they are all afraid of rumpling feathers of diplomacy with Japan. With President Duterte, who we believe is no pushover, we are hopeful that finally the issue will be placed in the agenda, at the very least,&quot; she said in a statement.</text:p><text:p>Extremadura said Duterte, who is pursuing an independent foreign policy, can stand up to Japan and seek recognition for the wartime sexual slavery that the comfort women endured during the last world war.</text:p><text:p>&quot;We seek historical recognition for comfort women as much as we seek compensation for the (grandmothers) to make their twilight years more comfortable. We are afraid that as we speak, (grandmothers) are growing weaker and weaker and they may no longer live to see the day that justice will finally be given to them,&quot; she said.</text:p><text:p>&quot;The comfort women support Duterte&apos;s independent foreign policy because they do not want the next generation to experience wartime sexual abuse,&quot; Extremadura said.</text:p><text:p>Lila Pilipina has been campaigning against the Visiting Forces Agreement and the Enhanced Defence Cooperation Agreement with the United States &quot;because the agreements will breed sexual violence and abuse of women&quot;.</text:p><text:p>&quot;We support Duterte&apos;s statement that he will not allow foreign military troops, including Japanese troops, in the country. We reiterate our call: Never again to another generation of comfort women,&quot; Extremadura said.</text:p><text:p>Lila Pilipina (League of Filipino Women) has documented 174 &quot;comfort women&quot; who have gone public since early 1990s. Only 70 of them remain alive. Another group, the Malaya Lolas (Free Grandmothers), has documented 90 but the number dwindled to 33 following the death of the rest over the years.</text:p><text:p>Both groups are demanding: official apology, just compensation, and inclusion of the comfort women issue in Japan&apos;s historical accounts and textbooks.</text:p><text:p>The Philippine government has intentionally avoided discussions of the issue in bilateral talks with Japan. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro26">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135779812.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Duterte voices aversion to presence of foreign troops in Philippines</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p>MANILA, Oct. 25 (Xinhua) -- Philippine President Rodrigo Duterte voiced aversion on Tuesday to the presence of foreign troops in the Philippines, saying the country&apos;s constitution dictates that the Philippines pursue an independent foreign policy.</text:p><text:p>At the news conference before departing for Tokyo where he is making a three-day visit, Duterte said his country does not have to &quot;dovetail what the policies of other countries are especially in the matter of stationing of military troops&quot; in the Philippines.</text:p><text:p>The Philippines has a defense treaty with the United States and defense agreements that allow U.S. troops to conduct joint exercises with Philippine troops. In 2014, Manila inked a defense agreement with Washington granting U.S. troops access to Philippine military bases.</text:p><text:p>Duterte has earlier said that he wanted to cut the joint military exercises with the U.S. troops and wanted the U.S. military experts out of Mindanao.</text:p><text:p>&quot;I want an independent policy that I will not kowtow to anybody,&quot; he said. </text:p><text:p>Related:</text:p><text:p>Duterte: Don&apos;t prepare for any joint war games with U.S. next year </text:p><text:p>MANILA, Oct 12 (Xinhua) -- Philippine President Rodrigo Duterte said on Wednesday that he has instructed his defense secretary, Delfin Lorenzana, not to make preparations for any joint war games with the U.S. next year.</text:p><text:p>&quot;I do not want it anymore,&quot; Duterte said in a speech at the Philippine coast guard headquarters in Manila.  Full story</text:p><text:p>Philippines&apos; Duterte questions relevance of military alliances </text:p><text:p>MANILA, Oct. 11 (Xinhua) -- Philippine President Rodrigo Duterte on Tuesday wondered aloud whether military alliances are still relevant in this day and age, adding he has no plan of scrapping military alliances.</text:p><text:p>In a speech during an oath-taking ceremony at the Malacanang presidential palace, Duterte said, &quot;I do not mean to cancel or abrogate the military alliances.&quot;  Full story</text:p><text:p>U.S., Philippine marines cut short joint military exercises</text:p><text:p>MANILA, Oct. 10 (Xinhua) -- The U.S. and Philippine marines have decided to cut short their amphibious landing exercises and live-fire training in the Philippines, ending the games one day ahead of schedule, a spokesman for the Philippine marines said on Monday.</text:p><text:p>Both sides have agreed to end the exercises on Tuesday instead of Wednesday, Capt. Ryan Lacuesta, spokesman for the Philippine marines, said. Full story</text:p><text:p>Duterte tells U.S. not to treat Philippines like &quot;doormat&quot; </text:p><text:p>MANILA, Oct. 7 (Xinhua) -- Philippine President Rodrigo Duterte told the United States on Friday not to treat the Philippines &quot;like a doormat&quot; as he pleaded for &quot;a little respect.&quot;</text:p><text:p>&quot;For as long as I am here do not treat us like a doormat because you&apos;ll be sorry,&quot; Duterte said in a speech before banana growers in his home city of Davao in southern Philippines.  Full story</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro23">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135781850.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Commentary: Japan should contribute to promoting peace in Asia-Pacific</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p>by Xinhua Writer Chen Shilei</text:p><text:p>BEIJING, Oct. 26 (Xinhua) -- As the Asia-Pacific is seeing a growing consensus that maritime disputes should be handled via direct talks among parties concerned, Japan should stop stoking tensions in the region, and truly honor its promise to make peace.</text:p><text:p>Philippine President Rodrigo Duterte is on a three-day visit Wednesday to Japan, a visit on which Tokyo has pinned hope to keep its ties with Manila tight amid concerns that Manila could &quot;separate&quot; from the alliance with the United States, Tokyo&apos;s key ally in the area.</text:p><text:p>The concerns were enhanced after Duterte, a recalcitrant leader in Washington&apos;s eyes, paid a visit last week to China at a time when China-Philippines ties have nosedived to a historical low due to the farcical South China Sea arbitration case brought by his predecessor Benigno Aquino III against China.</text:p><text:p>In fact, in the arbitration process, Japan and the United States -- both outsiders in the South China Sea disputes -- have relentlessly supported the former Philippine government.</text:p><text:p>Moreover, Japan is trying to rope other countries into speaking out on the South China Sea issue.</text:p><text:p>Tokyo is even planning on stepping up its activities in the South China Sea through joint training patrols with the United States and exercises with regional navies.</text:p><text:p>By stepping up its intervention in the South China Sea, Japan hopes to sufficiently distract Beijing so that it will be unable to handle maritime spats with Japan in the East China Sea at the same time.</text:p><text:p>Also, Washington wants Tokyo to help implement its strategy of rebalancing to the Asia-Pacific, and be a key counterbalance to a rising China. Japan seems to be quite cooperative in this.</text:p><text:p>Right now, peacefully resolving the South China Sea disputes through negotiations has become a consensus between China and other parties including the Philippines, a major territorial claimant.</text:p><text:p>And that is why Duterte and Chinese leaders were able to sit down together last week to discuss how to achieve overall improvement and greater progress in bilateral ties.</text:p><text:p>Of course, Japan is free to develop its ties with countries in the region, including the Philippines.</text:p><text:p>But it is advisable that Japan abandon its ambition to stir up regional tensions, and stop muddying the waters in the South China Sea. After all, peace and stability in the region are also in its own interests. </text:p><text:p> </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro27">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135782828.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Experts say Duterte&apos;s visit puts China-Philippines ties back on track</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>MANILA, Oct. 26 (Xinhua) -- Philippine President Rodrigo Duterte has put the traditional Sino-Philippine relations back on track, laying the foundation that would normalize their once frosty relationship, political analysts said on Wednesday.</text:p><text:p>Ramon Casiple, executive director of Institute of Political and Electoral Reforms, said Duterte achieved the main objective of his China trip to normalize bilateral relations after the freeze during the administration of former President Benigno Aquino.</text:p><text:p>Casiple told Xinhua that Duterte&apos;s four-day visit to China late week re-opened the economic relations again in terms of granting loans, aids and investments especially in infrastructure development.</text:p><text:p>It was a &quot;win-win case&quot; for both Beijing and Manila, Casiple said.</text:p><text:p>Benito Lim, a retired political science professor, said the Philippines got huge pledges after Duterte&apos;s visit.</text:p><text:p>Lim said China also promised to buy goods from the Philippines.</text:p><text:p>&quot;We hope that this is the beginning of the good relationship even if we don&apos;t know yet what would be the basis of good relationship. But this time China said that there will be economic exchanges,&quot; he said.</text:p><text:p>Aileen Baviera, professor at the University of the Philippines, said in an interview with local news website Rappler that Duterte&apos;s visit &quot;was generally successful.&quot;</text:p><text:p>&quot;I guess given the background of our relationship with China prior to the visit most of it was quite expected. It wasn&apos;t just an ice-breaking mission. It was intended to put relations back on track and to maybe shift the emphasis of our ties with China form the political security issues that have plagued the relations in the past to economic relations,&quot; Baviera said.</text:p><text:p>She added, &quot;So many agreements that were signed, the achievements of the visit so to speak had to do with the economic of it.&quot;</text:p><text:p>Philippine Transportation Secretary Arthur Tugade called on the media to highlight the good news that came out of Duterte&apos;s state visit to China instead of focusing on Duterte&apos;s statement on Philippine relations with the United States.</text:p><text:p>&quot;(We) should highlight the good news - 2 million in potential employment, our agricultural products can again enter China, the (potential) 1 million tourists, their planned additional flights to Clark and Davao,&quot; said Tugade, who accompanied Duterte to Beijing last week. </text:p><text:p>Related:</text:p><text:p>Full Text: Joint Statement of China and the Philippines</text:p><text:p>Spotlight: Duterte&apos;s visit to China lauded as win-win, conducive to regional peace</text:p><text:p>BEIJING, Oct. 22 (Xinhua) -- Philippine President Rodrigo Duterte&apos;s visit to China shows the two countries have resumed friendly relations for win-win, which are also conducive to regional peace and stability, global observers and analysts told Xinhua.  Full story</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro28">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135782303.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippine president wants foreign troops out in 2 years</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>TOKYO, Oct. 26 (Xinhua) -- Philippine President Rodrigo Duterte said on Wednesday that he wanted foreign military troops out of his country &quot;probably in the next two years.&quot;</text:p><text:p>Duterte, who is on a three-day visit to Japan, made the remarks before his meeting with Japanese Prime Minister Shinzo Abe later in the day.</text:p><text:p>Mentioning the U.S. colonial control of the Philippines over half a century, Duterte said he would pursue an independent foreign policy and the Philippines will &quot;survive&quot; without U.S. assistance.</text:p><text:p>Former Philippine president Benigno Aquino III signed an Enhanced Defense Cooperation Agreement with the U.S. in 2014, which allowed the return of U.S. troops to the Philippines after the country expelled U.S. soldiers in the 1990s.</text:p><text:p>Duterte, who took office in June, has reportedly talked about abrogating defense agreements with the U.S several times over the past two months.</text:p><text:p>Earlier, he also called for the expulsion of about 100 U.S. Special Forces posted in Zamboanga City on Mindanao, who were tasked to help the Philippine military fight against terrorism. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro29">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135785782.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Xinhua world news summary at 1530 GMT, Oct. 27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>TOKYO -- Visiting Philippine President Rodrigo Duterte said on</text:p><text:p>Thursday that he wanted to review a military agreement with the</text:p><text:p>United States.</text:p><text:p/><text:p>Duterte, on his final day in Japan, reiterated his stance that</text:p><text:p>he intended to review the Enhanced Defense Cooperation Agreement</text:p><text:p>inked with the United States in 2014, which allows U.S. troops to</text:p><text:p>maintain military bases in the Philippines and rotate its troops in</text:p><text:p>and out. (Japan-Philippines-Visit)</text:p><text:p/><text:p>- - - -</text:p><text:p>LONDON -- Britain&apos;s economy in the immediate quarter after</text:p><text:p>Brexit showed a modest growth rate of half a percent, the Office</text:p><text:p>for National Statistics (ONS) revealed Thursday.</text:p><text:p/><text:p>While the growth in the July-September quarter was slower than</text:p><text:p>the 0.7 percent growth in the second quarter, it was higher than</text:p><text:p>the 0.3 percent predicted by analysts. Figures show GDP grew 2.3</text:p><text:p>percent in the third quarter compared with the same quarter in</text:p><text:p>2015. (UK-Economy)</text:p><text:p/><text:p>- - - -</text:p><text:p>KABUL -- Afghanistan&apos;s National Directorate for Security (NDS)</text:p><text:p>on Thursday confirmed the death of three senior al-Qaida members</text:p><text:p>following coalition forces&apos; air strikes in an eastern province.</text:p><text:p/><text:p>&quot;The Afghan National Directorate for Security confirms that</text:p><text:p>Faruq al-Qatani and Bilal along with one other senior al-Qaida</text:p><text:p>member were killed following drone strikes in Heelgul village,</text:p><text:p>Ghazi Abad district, Kunar province Monday night (local time),&quot;</text:p><text:p>NDS, the country&apos;s intelligence agency, said in a statement.</text:p><text:p>(Afghanistan-Al-Qaida-Airstrike)</text:p><text:p/><text:p>- - - -</text:p><text:p>DAMASCUS -- Syrian President Bashar al-Assad on Thursday</text:p><text:p>extended an amnesty for three more months for rebels to disarm and</text:p><text:p>surrender themselves, state news agency SANA reported.</text:p><text:p/><text:p>The extension of the pardon, first issued last July, offers more</text:p><text:p>time for rebels to clear their &quot;criminal records&quot; by laying down</text:p><text:p>their weapons and surrender to the government. (Syria-Amnesty)</text:p><text:p>Enditem</text:p><text:p/><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro30">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135785320.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Duterte&apos;s remarks in Japan accord with his words in Beijing: Chinese FM</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>BEIJING, Oct. 27 (Xinhua) -- China said on Thursday that Philippine President Rodrigo Duterte&apos;s recent remarks during his visit to Japan accord with the consensus he reached with Chinese leaders during his China visit last week.</text:p><text:p>Chinese Foreign Ministry spokesperson Lu Kang made the remarks in response to a question regarding Japanese media reports saying Japan and the Philippines reached agreement during Duterte&apos;s visit on respecting an international arbitration tribunal ruling over the South China Sea.</text:p><text:p>Lu said China and the Philippines reached consensus during Duterte&apos;s state visit to China, and both agreed to focus on cooperation, put aside their differences and bring the South China Sea issue back to the correct track of bilateral negotiation and consultation.</text:p><text:p>&quot;The consensus has been made clear in the statements of the meetings of the two countries&apos; leaders, their talks as well as in the China-Philippines joint statement,&quot; Lu said at a routine press briefing.</text:p><text:p>The consensus meets the common interests of the two countries and peoples and helps regional peace and stability, he added.</text:p><text:p>Currently, the situation in the South China Sea is moving in a positive direction, with joint efforts from concerned parties, including China and the Philippines, Lu said, citing their efforts to properly settle the issue through dialogue.</text:p><text:p>&quot;If some countries still have unrealistic illusions, it&apos;s better to give up (the illusions) as early as possible,&quot; Lu said. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro31">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135782981.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippine President Duterte holds meeting with Japanese PM</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>TOKYO, Oct. 26 (Xinhua) -- The visiting Philippine President Rodrigo Duterte held a meeting with Japanese Prime Minister Shinzo Abe at the prime minister&apos;s office Wednesday.</text:p><text:p>Abe told a press conference after the meeting that the Philippines is an important partner of Japan and the two sides agree to improve bilateral ties to a higher level than before.</text:p><text:p>He said that Japan will support infrastructure development in the Philippines, both in rural areas and in the cities.</text:p><text:p>He also said that the Philippines will serve as ASEAN chair next year and Japan would provide its utmost support to the Philippines in this regard.</text:p><text:p>Duterte, for his part, said that Japan is an important dialogue partner for ASEAN and the Philippines will cooperate closely with Japan on issues of common concerns.</text:p><text:p>Duterte started a three-day visit to Japan from Tuesday. He is expected to meet with the Japanese emperor and empress on Thursday. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro32">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135785716.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippine president says to review military deal with U.S.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>TOKYO, Oct. 27 (Xinhua) -- Visiting Philippine President Rodrigo Duterte said on Thursday that he wanted to review a military agreement with the United States.</text:p><text:p>Duterte, on his final day in Japan, reiterated his stance that he intended to review the Enhanced Defense Cooperation Agreement inked with the United States in 2014, which allows U.S. troops to maintain military bases in the Philippines and rotate its troops in and out.</text:p><text:p>&quot;Maybe, I will review the EDCA and ask them (the U.S. military) one of these days to leave the country,&quot; he was quoted as saying.</text:p><text:p>Duterte also said the joint military exercises held between the Philippines and the U.S. have not been as beneficial to Manila as they should be.</text:p><text:p>During the president&apos;s three-day visit, Japan and the Philippines have agreed to enhance cooperation in a number of areas, including Japan providing the Philippines with infrastructural support.</text:p><text:p>Japanese Prime Minister Shinzo Abe said Japan would assist Duterte&apos;s war against drugs by helping out with addicts&apos; rehabilitation.</text:p><text:p>Abe, after a meeting with Duterte a day earlier, said the Philippines will serve as ASEAN chair next year and Japan would provide its utmost support in this regard.</text:p><text:p>Duterte gave recognition to Japan as being an important dialogue partner for ASEAN. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro33">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c_135785845.htm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>2016-10-28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Philippine president ends visit to Japan with blistering remarks against ally</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p/><text:p/><text:p>TOKYO, Oct. 27 (Xinhua) -- Philippine President Rodrigo Duterte wrapped up his visit to Japan on Thursday, seeking economic support from Tokyo but still vexing its long-time ally of U.S. with his blistering remarks.</text:p><text:p>During Duterte&apos;s three-day visit, Japan and the Philippines have agreed to enhance cooperation, with Tokyo in an apparent effort to woo Manila back to &quot;the U.S.-Japan camp.&quot;</text:p><text:p>The two sides signed a series of cooperation documents, including Japan offering yen loans to improve the Philippines&apos;s maritime safety capabilities and help it revitalize agriculture business.</text:p><text:p>Japanese Prime Minister Shinzo Abe, who expressed his intention to deepen cooperation with Manila in fighting terrorism, said Japan would provide high-speed boats and other equipment to enhance the Philippines&apos; anti-terrorism capabilities.</text:p><text:p>For his part, the Philippine leader pledged a peaceful solution to the South China Sea issue, upholding in general his stance expressed earlier during his visit to China.</text:p><text:p>Duterte has reached consensus with the Chinese leaders during his tour to Beijing, which is focused on cooperation and bringing the South China Sea issue back to the correct track of bilateral negotiation and consultation.</text:p><text:p>He said at the Philippine Economic Forum in Tokyo Wednesday that the Philippines would pursue an independent foreign policy.</text:p><text:p>&quot;I want friendship of everybody,&quot; he said, adding that he looked to &quot;be friends with China.&quot;</text:p><text:p>He also told a press conference after his meeting with Abe that he would seek peaceful settlement of maritime disputes including the South China Sea issue.</text:p><text:p>Chinese Foreign Ministry spokesman Lu Kang said at a press briefing in Beijing Thursday that Duterte&apos;s recent remarks during his visit to Japan accord with the consensus he reached with Chinese leaders during his China visit last week.</text:p><text:p>Besides the South China Sea issue, the outspoken Philippine leader also baffled Japan with his comments on the United States.</text:p><text:p>According to local reports, Japan had hoped to bring the Philippines back to &quot;the U.S.-Japan camp&quot; through direct communication with the president during his stay in Japan.</text:p><text:p>However, Duterte continued to voice his dissatisfaction with Washington. &quot;I want to prove to everybody, the Philippines has a dignity,&quot; he said, reiterating that the United States treated his country like &quot;a dog on a leash.&quot;</text:p><text:p>He also wanted all foreign military troops out of the Philippines &quot;probably in the next two years.&quot;</text:p><text:p>Mentioning the U.S. colonial control of the Philippines over half a century, Duterte said he would pursue an independent foreign policy and the Philippines will &quot;survive&quot; without U.S. assistance.</text:p><text:p>Former Philippine president Benigno Aquino III signed an Enhanced Defense Cooperation Agreement with the U.S. in 2014, which allowed the return of U.S. troops to the Philippines after the country expelled U.S. soldiers in the 1990s.</text:p><text:p>Duterte, who took office in June, has reportedly talked about abrogating defense agreements with the U.S. over the past two months.</text:p><text:p>&quot;For Japan, it would be wiser not to bring up too much the U.S.-Philippine relationship,&quot; said Lully Miura, a scholar on international relations at the University of Tokyo.</text:p><text:p>&quot;Instead, it would be better to focus more on the Japan-Philippine relationship, as the relationships between the three countries are very complicated right now,&quot; she said. </text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro34">
+     <table:table-cell table:style-name="Default" table:number-columns-repeated="4"/>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro34" table:number-rows-repeated="1048530">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro34">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+  </office:spreadsheet>
+ </office:body>
+</office:document>

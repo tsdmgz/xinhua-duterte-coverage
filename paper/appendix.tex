@@ -1,4 +1,24 @@
 \appendix
+
+\chapter{search-results-link.py}
+
+\inputminted[linenos]{python}{../search-results-link.py}
+
+\section{Usage}
+
+\subsection{Synopsis}
+
+Iterates through search result pages and extracts links to articles for
+download.
+
+\subsection{Options}
+
+\begin{description}
+	\item [-f FILE] Input HTML file containing search results
+	\item [-t PUBLICATION] (For usage with multiple sources)
+	Specify source publication
+\end{description}
+
 \chapter{article-extract-text.py}\label{adx:python-script}
 
 \inputminted[linenos]{python}{../article-extract-text.py}
@@ -17,5 +37,14 @@ output to a CSV\_FILE in CSV format.
 	\item [-f FILE] Input HTML file downloaded from Xinhua English
 	\item [-o CSV\_OUT] Output CSV file
 \end{description}
+
+\subsection{Example}
+
+After all the news articles have been downloaded, this script is called
+in a loop to extract all titles, dates, and article fulltext into a
+single file for import to a spreadsheet.
+
+\mintinline{bash}{find data/full-text -type f|parallel -j8 \
+./article-extract-text.py -f {} -o article-text.csv}
 
 % vim: tw=72 smartindent breakindent syntax=tex
